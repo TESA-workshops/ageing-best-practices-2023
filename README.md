@@ -142,8 +142,8 @@ GitHub repositories to share presentations and other resources.
 If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.ca) and your local TESA rep.
 
 | Region | Name | In person or virtual |
-| ------ | -----|
-| C&A   |  |
+| ------ | -----| -----|
+| C&A   |  |  |
 | QUE   |  |  |
 | GULF  | Daniel Ricard |  In person |
 | MAR  | Peter Comeau | In person |
