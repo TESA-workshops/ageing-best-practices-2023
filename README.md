@@ -5,7 +5,7 @@ TESA workshop on best practices in ageing
 
 **When:** 3 days in March 2022 (tentative)
 
-**Where:** [Atlantic Science Enterprise Centre](https://www.science.gc.ca/eic/site/063.nsf/eng/h_98238.html), Moncton, NB.  
+**Where:** [Atlantic Science Enterprise Centre](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), Moncton, NB.  
 
 **Format:** In-person workshop with possibility to join via MS Teams
 
