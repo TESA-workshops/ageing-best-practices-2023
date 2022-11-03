@@ -3,7 +3,7 @@ TESA workshop on best practices in ageing
 
 ## Logistics
 
-**When:** 3 days in March 2022 (tentative)
+**When:** Monday January 30 to Wednesday February 01 2023 (tentative)
 
 **Where:** [Atlantic Science Enterprise Centre](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), Moncton, NB.  
 
@@ -37,6 +37,8 @@ Daniel Ricard (GFC) & Peter Comeau (BIO)
 ### Overview of topics to be covered
 
 #### Basics of age determination (validation, calibration, archival, analyses)
+
+Standard Operating Procedures
 
 #### Microscope digital photography of otoliths
 
@@ -97,7 +99,7 @@ Daniel Ricard (GFC) & Peter Comeau (BIO)
 
 
 **Guest speaker, 1:15pm** Mike McMahon (BIO) - A data manager's perspective (10-15 mins)
-**Guest speaker, 1:15pm** Tania (BIO) - An ager's perspective (10-15 mins)
+**Guest speaker, 1:15pm** Tania Davignon-Burton (BIO) - An ager's perspective (10-15 mins)
 **Guest speaker, 1:15pm** Nicolas Rolland (GFC) - A modeler's perspective (10-15 mins)
 
 **Guest speaker, 1:15pm** Jordan Ouellette-Plante (IML) - age-length keys (10-15 mins)
@@ -119,7 +121,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 ## Workshop dinner
 
-We will have a group dinner for those interested on Wednesday 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
+We will have a group dinner for those interested on Tuesday January 31 2023 at 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
 
 ## Prerequisites
 
@@ -137,7 +139,7 @@ GitHub repositories to share presentations and other resources.
 
 ### Participants
 
-(From TESA's spreadsheet, continually being updated as necessary).
+[Spreadsheet of participants](./planning/workshop-participants.xlsx)
 
 If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.ca) and your local TESA rep.
 
