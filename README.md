@@ -10,7 +10,9 @@ TESA workshop on best practices in ageing
 **Format:** In-person workshop with possibility to join via MS Teams
 
 **Accommodation and parking:** 
-There are a number of hotel options in Moncton that offer government rates. The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), located around 1500 meters from downtown Moncton.
+There are a number of hotel options in Moncton that offer government rates. 
+
+The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), located around 1500 meters from downtown Moncton.
 
 For participants coming to Moncton by car, there is limited visitor parking at the GFC and in nearby streets. 
 
@@ -32,19 +34,28 @@ The workshop is organised such that virtual participants are encouraged to atten
 A workshop to review best practices in ageing marine organisms and how this information feeds into stock assessments. It is hoped that this event will allow DFO participants to share experiences and learn from each other in order to improve the reliability of their ageing activities.
 
 ### Chairs
-Daniel Ricard (GFC) & Peter Comeau (BIO)
+[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography)
 
 ### Overview of topics to be covered
 
 #### Basics of age determination (validation, calibration, archival, analyses)
+Brief review of relevant litterature.
 
-Standard Operating Procedures
+Presentation of the Gulf Region Standard Operating Procedures document.
+
 
 #### Microscope digital photography of otoliths
 
+
 #### Otolith image annotation (age determination, ager comparisons, growth increments)
+Use of the [SmartDots software](https://smartdots.ices.dk/) for interacting with otolith images.
 
 #### From lengths frequencies to catch-at-age matrices
+How is ageing data used to compute catch-at-age matrices?
+
+#### Growth models
+How is ageing data used to estimate growth model parameters?
+
 
 ### Tentative schedule (still subject to change as we get closer to the workshop)
 
@@ -105,14 +116,11 @@ Standard Operating Procedures
 **Guest speaker, 1:15pm** Jordan Ouellette-Plante (IML) - age-length keys (10-15 mins)
 
 
-**Short talk** Name (Institute) - Topic
+**Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+
 
 
 ----
-
-
-**Other further ideas, keeping here for now**
-
 
 **Original motivation** The original idea behind this workshop was formulated back in 2021 during a TESA committee meeting where different workshop topics were being discussed.
 
@@ -129,6 +137,8 @@ The only prerequiste is that participants' mandated tasks involve collection of 
 
 
 ## Equipment and computer programs to be demonstrated
+Leica S8i microscopes using Leica LAS X software
+SmartDots
 
 
 ## Products
