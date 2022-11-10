@@ -1,0 +1,91 @@
+
+# Ageing best practices
+Repository to support the 2023 TESA workshop on ageing-data best practices for stock assessments.
+
+
+# A whirlwind tour of sclerochronolgy
+## Age validation
+
+
+# Imaging, archival and retrieval
+
+
+Standard operating procedures
+
+
+# 
+
+# Use of ageing data in stock assessments
+
+Invited external expert 1 presentation
+
+Invited external expert 2 presentation
+
+
+# Day 1
+Introductions, roundtable
+
+Workshop objectives
+
+File naming, linking physical otoliths to digital images
+
+SmartDots software
+
+## Breakout groups
+## Practical exercises
+
+
+# Day 2
+Routine ageing practices
+
+Ager calibration
+
+## Breakout groups
+## Practical exercises
+
+
+# Day 3
+
+
+Wrap-up of workshop
+
+Proceedings document
+
+## Breakout groups
+## Practical exercises
+
+
+
+
+### Running an ageing lab
+
+### Sampling design for collecting otoliths, and how to properly analyse ageing data
+
+
+
+
+### From length frequencies to catch-at-age matrices
+
+
+## Workshop agenda
+
+
+## Worskhop participants
+
+
+## External experts
+
+
+
+visit of the ageing labs at the GFC
+
+technician workstation
+
+herring
+
+white hake
+Atlantic cod
+
+American plaice
+Yellowtail flounder 
+Winter Flounder
