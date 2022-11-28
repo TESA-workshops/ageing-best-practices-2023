@@ -76,6 +76,7 @@ How is ageing data used to estimate growth model parameters?
 | 14:45 | Break |
 | 15:00 |  |
 | 16:20 | Overview of the day and plan for tomorrow |
+
 **Short talk** Stephen Wischniowski (PBS) - A lab managers's perspective (10-15 mins)
 **Short talk** Tania Davignon-Burton (BIO) - An ager's perspective (10-15 mins)
 
@@ -93,8 +94,8 @@ How is ageing data used to estimate growth model parameters?
 | 14:45 | Break |
 | 15:00 |  |
 | 16:20 | Overview of the day and plan for tomorrow |
-
 | 18:30 | Group dinner at Gusto |
+
 **Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
 
@@ -114,9 +115,10 @@ How is ageing data used to estimate growth model parameters?
 | 16:20 | Wrap up (Ricard and Comeau) |
 
 **Short talk** Mike McMahon (BIO) - A data manager's perspective (10-15 mins)
-**Short talk** Daniel Ricard (GFC) - A modeler's perspective (10-15 mins)
-**Short talk** Jordan Ouellette-Plante (IML) - age-length keys (10-15 mins)
 
+**Short talk** Daniel Ricard (GFC) - A modeler's perspective (10-15 mins)
+
+**Short talk** Jordan Ouellette-Plante (IML) - age-length keys (10-15 mins)
 
 ----
 
@@ -134,6 +136,7 @@ The only prerequiste is that participants' mandated tasks involve collection of 
 
 
 ## Equipment and computer programs to be demonstrated
+
 Leica S8i microscopes using Leica LAS X software
 SmartDots
 
@@ -160,11 +163,11 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 | Institution | Name | Expertise |
 | ------ | -----|
 | NOAA NMFS	| Eric Robillard | Mamager of the ageing laboratory at Woods Hole |
-
+| NOAA NMFS	| Lisa Ailloud | Catch-at-age analyses |
+| DTU-Aqua	| Julie Davies | Ageing expertise and SMartDots expertise |
 
 ## Expected products
 
 Proceedings (Can. Tech. Rep.), which can hopefully be collaboratively written during the workshop.
 
 GitHub repositories to share presentations and other resources.
-
