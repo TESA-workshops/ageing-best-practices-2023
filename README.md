@@ -60,9 +60,9 @@ How is ageing data used to compute catch-at-age matrices?
 How is ageing data used to estimate growth model parameters?
 
 
-### Tentative schedule (still subject to change as we get closer to the workshop)
+## Tentative schedule (still subject to change as we get closer to the workshop)
 
-#### Tuesday January 31 2023
+### Tuesday January 31 2023
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions |
@@ -81,7 +81,7 @@ How is ageing data used to estimate growth model parameters?
 
 **Short talk** Tania Davignon-Burton (BIO) - An ager's perspective (10-15 mins)
 
-#### Wednesday February 01
+### Wednesday February 01
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Tuesday |
@@ -100,7 +100,7 @@ How is ageing data used to estimate growth model parameters?
 **Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
 
-#### Thursday February 01
+### Thursday February 01
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
@@ -135,11 +135,13 @@ We will have a group dinner for those interested on Tuesday January 31 2023 at 6
 
 The only prerequiste is that participants' mandated tasks involve collection of ageing materials, age determination, or analysis of ageing data for stock assessments.
 
-
 ## Equipment and computer programs to be demonstrated
 
-Leica S8i microscopes using Leica LAS X software
-SmartDots
+- otolith preparation and sectioning
+- Leica S8i microscopes using Leica LAS X software
+- SmartDots software for image annotation
+- methods for fitting growth models in R
+- methods for computing catch-at-age matrices in R
 
 ### Participants
 
@@ -150,10 +152,14 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 | Region | Name | In person or virtual |
 | ------ | -----| -----|
 | C&A   |  |  |
-| QUE   |  |  |
+| QUE   | Kim Emond | ? |
+| GULF	| Andrew Darcy | In person |
+| GULF	| Isabelle Forest | In person |
 | GULF  | Daniel Ricard (co-chair)| In person |
 | GULF	| Karen Robertson | In person |
+| GULF	| Sylvie Robichaud | In person |
 | GULF	| Joeleen Savoie | In person |
+| GULF	| François-Étienne Sylvain | In person |
 | MAR  | Peter Comeau (co-chair)| In person |
 | NL    |  |  |
 | PAC   |  |  |
