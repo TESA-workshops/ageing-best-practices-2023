@@ -1,0 +1,4 @@
+
+
+for a given year, marginal probability distribution of length as a function of age, or age as a function of length
+
