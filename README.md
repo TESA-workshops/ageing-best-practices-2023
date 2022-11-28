@@ -163,7 +163,7 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 
 | Institution | Name | Expertise |
 | ------ | -----| -----|
-| NOAA NMFS	| Eric Robillard | Mamager of the ageing laboratory at Woods Hole |
+| NOAA NMFS	| Eric Robillard | Manager of the ageing laboratory at Woods Hole |
 | NOAA NMFS	| Lisa Ailloud | Catch-at-age analyses |
 | DTU-Aqua	| Julie Davies | Ageing expertise and SMartDots expertise |
 
