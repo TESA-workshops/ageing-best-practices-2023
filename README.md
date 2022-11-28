@@ -78,6 +78,7 @@ How is ageing data used to estimate growth model parameters?
 | 16:20 | Overview of the day and plan for tomorrow |
 
 **Short talk** Stephen Wischniowski (PBS) - A lab managers's perspective (10-15 mins)
+
 **Short talk** Tania Davignon-Burton (BIO) - An ager's perspective (10-15 mins)
 
 #### Wednesday February 01
@@ -161,7 +162,7 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 ### External experts
 
 | Institution | Name | Expertise |
-| ------ | -----|
+| ------ | -----| -----|
 | NOAA NMFS	| Eric Robillard | Mamager of the ageing laboratory at Woods Hole |
 | NOAA NMFS	| Lisa Ailloud | Catch-at-age analyses |
 | DTU-Aqua	| Julie Davies | Ageing expertise and SMartDots expertise |
