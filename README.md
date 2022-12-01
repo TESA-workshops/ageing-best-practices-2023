@@ -155,17 +155,17 @@ The only prerequiste is that participants' mandated tasks involve collection of 
 
 If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.ca) and your local TESA rep.
 
-| | Region | Name | In person or virtual |
-| | ------ | -----| -----|
-| 1 | C&A   | Tracey Loewen | ? |
-| 2 | C&A   | Lauren Wiens | ? |
-| 3 | C&A   | Laura Alsip | ? |
-| 4 | QUE   | Kim Emond | In person |
-| 5 | QUE   | Hélène Dionne | In person |
-| 6 | QUE   | Nicolas LeCorre | In person |
-| 7 | QUE   | Andrew Smith | In person |
-| 8 | QUE   | Rénald Belley | In person |
-| 9 | QUE   | Mathieu Desgagnés | In person |
+| Number | Region | Name | In person or virtual |
+| --- | ------ | -----| -----|
+| 1 | C&A | Tracey Loewen | ? |
+| 2 | C&A | Lauren Wiens | ? |
+| 3 | C&A | Laura Alsip | ? |
+| 4 | QUE | Kim Emond | In person |
+| 5 | QUE | Hélène Dionne | In person |
+| 6 | QUE | Nicolas LeCorre | In person |
+| 7 | QUE | Andrew Smith | In person |
+| 8 | QUE | Rénald Belley | In person |
+| 9 | QUE | Mathieu Desgagnés | In person |
 | 10 | GULF	| Suncica Avlijas | In person |
 | 11 | GULF	| Abby Daigle | In person |
 | 12 | GULF	| Andrew Darcy | In person |
@@ -179,27 +179,28 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 | 20 | GULF	| Joeleen Savoie | In person |
 | 21 | GULF	| Jolene Sutton | In person |
 | 22 | GULF	| François-Étienne Sylvain | In person |
-| 23 | MAR  | Peter Comeau (co-chair) | In person |
-| 24 | MAR  | Nell den Heyer | ? |
-| 25 | MAR  | Quinn McCurdy | ? |
-| 26 | MAR  | George Nau | ? |
-| 27 | MAR  | Mark Billard | ? |
-| 28 | MAR  | Lynn Collier | ? |
-| 29 | MAR  | Tania Davignon-Burton | In person |
-| 30 | NL   | Aaron Adamack |  |
-| 31 | NL   | Meredith Schofield |  |
-| 32 | NL   | Andrea Perreault |  |
-| 33 | PAC   | Hawkshaw, Sarah | ? |
-| 34 | PAC   | Lavery, Madeline | ? |
-| 35 | PAC   | Yungwirth, Emily | ? |
-| 36 | PAC   | Dana Haggarty | ? |
-| 37 | PAC   | Holt, Kendra | ? |
-| 38 | PAC   | Herder, Erin | ? |
-| 39 | PAC   | Forrest, Robyn | ? |
-| 40 | PAC   | Jung, Yeongha | ? |
-| 41 | PAC   | Campbell, Barbara | ? |
-| 42 | PAC   | Wischniowski, Stephen | ? |
-|  | NCR   |  |  |
+| 23 | MAR | Peter Comeau (co-chair) | In person |
+| 24 | MAR | Nell den Heyer | ? |
+| 25 | MAR | Quinn McCurdy | ? |
+| 26 | MAR | George Nau | ? |
+| 27 | MAR | Mark Billard | ? |
+| 28 | MAR | Lynn Collier | ? |
+| 29 | MAR | Tania Davignon-Burton | In person |
+| 30 | NL | Aaron Adamack |  |
+| 31 | NL | Meredith Schofield |  |
+| 32 | NL | Andrea Perreault |  |
+| 33 | PAC | Hawkshaw, Sarah | ? |
+| 34 | PAC | Lavery, Madeline | ? |
+| 35 | PAC | Yungwirth, Emily | ? |
+| 36 | PAC | Dana Haggarty | ? |
+| 37 | PAC | Holt, Kendra | ? |
+| 38 | PAC | Herder, Erin | ? |
+| 39 | PAC | Forrest, Robyn | ? |
+| 40 | PAC | Jung, Yeongha | ? |
+| 41 | PAC | Campbell, Barbara | ? |
+| 42 | PAC | Wischniowski, Stephen | ? |
+|  | NCR |  |  |
+
 
 ### External experts
 
