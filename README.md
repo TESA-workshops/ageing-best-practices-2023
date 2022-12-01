@@ -189,16 +189,16 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 | 30 | NL | Aaron Adamack |  |
 | 31 | NL | Meredith Schofield |  |
 | 32 | NL | Andrea Perreault |  |
-| 33 | PAC | Hawkshaw, Sarah | ? |
-| 34 | PAC | Lavery, Madeline | ? |
-| 35 | PAC | Yungwirth, Emily | ? |
+| 33 | PAC | Sarah Hawkshaw | ? |
+| 34 | PAC | Madeline Lavery | ? |
+| 35 | PAC | Emily Yungwirth | ? |
 | 36 | PAC | Dana Haggarty | ? |
-| 37 | PAC | Holt, Kendra | ? |
-| 38 | PAC | Herder, Erin | ? |
-| 39 | PAC | Forrest, Robyn | ? |
-| 40 | PAC | Jung, Yeongha | ? |
-| 41 | PAC | Campbell, Barbara | ? |
-| 42 | PAC | Wischniowski, Stephen | ? |
+| 37 | PAC | Kendra Holt | ? |
+| 38 | PAC | Erin Herder | ? |
+| 39 | PAC | Robyn Forrest | ? |
+| 40 | PAC | Yeongha Jung | ? |
+| 41 | PAC | Barbara Campbell | ? |
+| 42 | PAC | Stephen Wischniowski | ? |
 |  | NCR |  |  |
 
 
