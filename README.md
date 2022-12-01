@@ -15,7 +15,7 @@ TESA workshop on best practices in ageing
 **Accommodation and parking:** 
 There are a number of hotel options in Moncton that offer government rates. These include the [Delta Beauséjour](https://www.marriott.com/en-us/hotels/yqmdr-delta-hotels-beausejour/overview/), the [Hilton Garden Inn and Canvas Moncton](https://www.hilton.com/en/locations/canada/new-brunswick/moncton/hilton-garden-inn/), and the [Hyatt Place Moncton](https://www.hyatt.com/en-US/hotel/canada/hyatt-place-moncton-downtown/yqmzm).
 
-The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), located around 1500 meters from downtown Moncton.
+The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), [located around 1500 meters from downtown Moncton](https://goo.gl/maps/b8MkB6J9Ydot5snE9).
 
 For participants coming to Moncton by car, there is very limited visitor parking at the GFC and some all-day parking on nearby streets. As such, it would be preferable if participants could come to the ASEC by foot or by taxi, or park on nearby streets.
 
