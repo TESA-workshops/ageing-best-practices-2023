@@ -3,7 +3,7 @@ TESA workshop on best practices in ageing
 
 ## Logistics
 
-**When:** Tuesday January 31 to Thursday February 02 2023 (tentative)
+**When:** Tuesday January 31 to Thursday February 02 2023
 
 **Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), Moncton, NB.  
 
@@ -62,7 +62,7 @@ How is ageing data used to estimate growth model parameters?
 
 ## Tentative schedule (still subject to change as we get closer to the workshop)
 
-### Tuesday January 31 2023
+### Tuesday January 31 2023 - Basics
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions |
@@ -85,7 +85,7 @@ How is ageing data used to estimate growth model parameters?
 
 **Short talk** Sylvie Robichaud (IML) - Herring ageing in the Gulf region (10-15 mins)
 
-### Wednesday February 01
+### Wednesday February 01 - Otolith images
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Tuesday |
@@ -104,7 +104,7 @@ How is ageing data used to estimate growth model parameters?
 **Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
 
-### Thursday February 01
+### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
