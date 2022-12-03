@@ -1,68 +1,22 @@
 # 2023 TESA best practices in ageing workshop
-TESA workshop on best practices in ageing
+
+Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways. 
+
+## Organisers
+
+[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography)
 
 ## Logistics
 
 **When:** Tuesday January 31 to Thursday February 02 2023
 
-**Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), Moncton, NB.  
+**Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), [343 Université Ave., Moncton, NB.](https://goo.gl/maps/b8MkB6J9Ydot5snE9)
 
 **Format:** In-person workshop with possibility to join via MS Teams
 
-**Objectives:** 
+## Schedule
 
-
-**Accommodation and parking:** 
-There are a number of hotel options in Moncton that offer government rates. These include the [Delta Beauséjour](https://www.marriott.com/en-us/hotels/yqmdr-delta-hotels-beausejour/overview/), the [Hilton Garden Inn and Canvas Moncton](https://www.hilton.com/en/locations/canada/new-brunswick/moncton/hilton-garden-inn/), and the [Hyatt Place Moncton](https://www.hyatt.com/en-US/hotel/canada/hyatt-place-moncton-downtown/yqmzm).
-
-The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), [located around 1500 meters from downtown Moncton](https://goo.gl/maps/b8MkB6J9Ydot5snE9).
-
-For participants coming to Moncton by car, there is very limited visitor parking at the GFC and some all-day parking on nearby streets. As such, it would be preferable if participants could come to the ASEC by foot or by taxi, or park on nearby streets.
-
-**Flights**
-
-Fly into Moncton airport (YQM).
-
-Taxi from the airport to downtown Moncton is about $25.
-
-## Target audience
-
-Biologists whose mandate deals with species that are or were routinely aged, technicians in charge of ageing fish individuals using otoliths, stock assessment scientists who analyse ageing data to determine growth and to inform age-based population models.
-
-The workshop is organised such that virtual participants are encouraged to attend the parts that best suit their interests and desires. 
-
-## Workshop outline (still in evolution)
-
-### Purpose
-A workshop to review best practices in ageing marine organisms and how this information feeds into stock assessments. It is hoped that this event will allow DFO participants to share experiences and learn from each other in order to improve the reliability of their ageing activities.
-
-### Chairs
-[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography)
-
-### Overview of topics to be covered
-
-#### Basics of age determination (validation, calibration, archival, analyses)
-Brief review of relevant litterature.
-
-Presentation of the Gulf Region Standard Operating Procedures document.
-
-
-#### Microscope digital photography of otoliths
-
-
-#### Otolith image annotation (age determination, ager comparisons, growth increments)
-Use of the [SmartDots software](https://smartdots.ices.dk/) for interacting with otolith images.
-
-#### From lengths frequencies to catch-at-age matrices
-How is ageing data used to compute catch-at-age matrices?
-
-#### Growth models
-How is ageing data used to estimate growth model parameters?
-
-
-## Tentative schedule (still subject to change as we get closer to the workshop)
-
-### Tuesday January 31 2023 - Basics
+### Tuesday January 31 2023 - Basics of age determination
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions |
@@ -77,15 +31,19 @@ How is ageing data used to estimate growth model parameters?
 | 15:00 |  |
 | 16:20 | Overview of the day and plan for tomorrow |
 
-**Short talk** Stephen Wischniowski (PBS) - A lab managers's perspective (10-15 mins)
+**Plenary by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (30-45 mins)
 
-**Short talk** Tania Davignon-Burton (BIO) - An ager's perspective (10-15 mins)
+**Short talk** Andrea Perreault (NAFC) - Length-stratified sampling (10-15 mins)
 
-**Short talk** Kim Emond and Hélène Dionne (IML) - Herring ageing in the Québec region (10-15 mins)
+**Short talk** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins)
 
-**Short talk** Sylvie Robichaud (IML) - Herring ageing in the Gulf region (10-15 mins)
+**Short talk** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins)
 
-### Wednesday February 01 - Otolith images
+**Short talk** Tania Davignon-Burton (BIO) - Title TBD  (10-15 mins)
+
+**Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+
+### Wednesday February 01 - Digital imaging of otoliths
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Tuesday |
@@ -101,8 +59,11 @@ How is ageing data used to estimate growth model parameters?
 | 16:20 | Overview of the day and plan for tomorrow |
 | 18:30 | Group dinner at Gusto |
 
-**Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+**Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots (30-45 mins)
 
+**Short talk** Marie-France Robichaud and Isabelle Forest (GFC) - Taking good pictures, and then annotating them in SmartDots  (10-15 mins)
+
+**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab? (10-15 mins)
 
 ### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
@@ -119,41 +80,39 @@ How is ageing data used to estimate growth model parameters?
 | 15:00 |  |
 | 16:20 | Wrap up (Ricard and Comeau) |
 
-**Short talk** Mike McMahon (BIO) - A data manager's perspective (10-15 mins)
+**Short talk** Mike McMahon (BIO) - From surveys to published assessment, a data manager's perspective on the use of age information (10-15 mins)
 
-**Short talk** Daniel Ricard (GFC) - A modeler's perspective (10-15 mins)
-
-**Short talk** Jordan Ouellette-Plante (IML) - age-length keys (10-15 mins)
+**Short talk** Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins)
 
 **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
 
-----
+### External experts
 
-**Original motivation** The original idea behind this workshop was formulated back in 2021 during a TESA committee meeting where different workshop topics were being discussed.
+| Institution | Name | Expertise |
+| ------ | -----| -----|
+| DTU-Aqua	| Julie Davies | Ageing expertise and SmartDots expertise |
 
-Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways.
+### Workshop dinner
 
-## Workshop dinner
+For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
 
-We will have a group dinner for those interested on Tuesday January 31 2023 at 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
+## Travels
 
-## Prerequisites
+### Accommodation and parking
 
-The only prerequiste is that participants' mandated tasks involve collection of ageing materials, age determination, or analysis of ageing data for stock assessments.
+There are a number of hotel options in Moncton that offer government rates. These include the [Delta Beauséjour](https://www.marriott.com/en-us/hotels/yqmdr-delta-hotels-beausejour/overview/), the [Hilton Garden Inn and Canvas Moncton](https://www.hilton.com/en/locations/canada/new-brunswick/moncton/hilton-garden-inn/), and the [Hyatt Place Moncton](https://www.hyatt.com/en-US/hotel/canada/hyatt-place-moncton-downtown/yqmzm).
 
-## Equipment and computer programs to be demonstrated
+The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), [located around 1500 meters from downtown Moncton](https://goo.gl/maps/b8MkB6J9Ydot5snE9).
 
-- otolith preparation and sectioning
-- Leica S8i microscopes using Leica LAS X software
-- SmartDots software for image annotation
-- methods for fitting growth models in R
-- methods for computing catch-at-age matrices in R
+For participants coming to Moncton by car, there is very limited visitor parking at the GFC and some all-day parking on nearby streets. As such, it would be preferable if participants could come to the ASEC by foot or by taxi, or park on nearby streets.
+
+### Flights
+
+Fly into the [Greater Moncton Roméo LeBlanc International Airport (YQM)](https://cyqm.ca/).
+
+Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
-
-[Spreadsheet of participants](./planning/workshop-participants.xlsx)
-
-If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.ca) and your local TESA rep.
 
 | Number | Region | Name | In person or virtual |
 | --- | ------ | -----| -----|
@@ -201,16 +160,9 @@ If you cannot attend then please email Daniel Ricard (Daniel.Ricard@dfo-mpo.gc.c
 | 42 | PAC | Stephen Wischniowski | ? |
 |  | NCR |  |  |
 
-
-### External experts
-
-| Institution | Name | Expertise |
-| ------ | -----| -----|
-| NOAA NMFS	| Lisa Ailloud | Catch-at-age analyses |
-| DTU-Aqua	| Julie Davies | Ageing expertise and SmartDots expertise |
-
-## Expected products
+## Expected deliverables
 
 Proceedings (Can. Tech. Rep.), which can hopefully be collaboratively written during the workshop.
 
-GitHub repositories to share presentations and other resources.
+GitHub repository to share presentations and other resources.
+
