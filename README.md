@@ -116,9 +116,9 @@ Taxi from the airport to downtown Moncton is about $25.
 
 | Number | Region | Name | In person or virtual |
 | --- | ------ | -----| -----|
-| 1 | C&A | Tracey Loewen | ? |
-| 2 | C&A | Lauren Wiens | ? |
-| 3 | C&A | Laura Alsip | ? |
+| 1 | C&A | Tracey Loewen | In person |
+| 2 | C&A | Lauren Wiens | Virtual |
+| 3 | C&A | Laura Alsip | Virtual |
 | 4 | QUE | Kim Emond | In person |
 | 5 | QUE | Hélène Dionne | In person |
 | 6 | QUE | Nicolas LeCorre | In person |
@@ -140,24 +140,26 @@ Taxi from the airport to downtown Moncton is about $25.
 | 22 | GULF	| François-Étienne Sylvain | In person |
 | 23 | MAR | Peter Comeau (co-chair) | In person |
 | 24 | MAR | Nell den Heyer | ? |
-| 25 | MAR | Quinn McCurdy | ? |
-| 26 | MAR | George Nau | ? |
-| 27 | MAR | Mark Billard | ? |
-| 28 | MAR | Lynn Collier | ? |
+| 25 | MAR | Quinn McCurdy | In person |
+| 26 | MAR | George Nau | In person |
+| 27 | MAR | Mark Billard | Virtually |
+| 28 | MAR | Lynn Collier | Virtually |
 | 29 | MAR | Tania Davignon-Burton | In person |
-| 30 | NL | Aaron Adamack |  |
-| 31 | NL | Meredith Schofield |  |
-| 32 | NL | Andrea Perreault |  |
-| 33 | PAC | Sarah Hawkshaw | ? |
-| 34 | PAC | Madeline Lavery | ? |
-| 35 | PAC | Emily Yungwirth | ? |
-| 36 | PAC | Dana Haggarty | ? |
-| 37 | PAC | Kendra Holt | ? |
-| 38 | PAC | Erin Herder | ? |
-| 39 | PAC | Robyn Forrest | ? |
-| 40 | PAC | Yeongha Jung | ? |
-| 41 | PAC | Barbara Campbell | ? |
-| 42 | PAC | Stephen Wischniowski | ? |
+| 30 | MAR | Dheeraj Busawon | In person |
+| 31 | MAR | Cornelia den Heyer | In person |
+| 32 | NL | Aaron Adamack | Virtually |
+| 33 | NL | Meredith Schofield | Virtually |
+| 34 | NL | Andrea Perreault | Virtually |
+| 35 | PAC | Sarah Hawkshaw | Virtually |
+| 36 | PAC | Madeline Lavery | Virtually |
+| 37 | PAC | Emily Yungwirth | Virtually |
+| 38 | PAC | Dana Haggarty | Virtually |
+| 39 | PAC | Kendra Holt | In person |
+| 40 | PAC | Erin Herder | Virtually |
+| 41 | PAC | Robyn Forrest | Virtually |
+| 42 | PAC | Yeongha Jung | Virtually |
+| 43 | PAC | Barbara Campbell | Virtually |
+| 44 | PAC | Stephen Wischniowski | Virtually |
 |  | NCR |  |  |
 
 ## Expected deliverables
