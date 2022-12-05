@@ -1,0 +1,48 @@
+## Workshop outline
+
+### Purpose
+A workshop to review best practices in ageing marine organisms and how this information feeds into stock assessments. It is hoped that this event will allow DFO participants to share experiences and learn from each other in order to improve the reliability of their ageing activities.
+
+
+### Overview of topics to be covered
+
+#### Basics of age determination (validation, calibration, archival, analyses)
+Brief review of relevant litterature.
+
+Presentation of the Gulf Region Standard Operating Procedures document.
+
+
+#### Microscope digital photography of otoliths
+
+
+#### Otolith image annotation (age determination, ager comparisons, growth increments)
+Use of the [SmartDots software](https://smartdots.ices.dk/) for interacting with otolith images.
+
+#### From lengths frequencies to catch-at-age matrices
+How is ageing data used to compute catch-at-age matrices?
+
+#### Growth models
+How is ageing data used to estimate growth model parameters?
+
+## Prerequisites
+
+The only prerequiste is that participants' mandated tasks involve collection of ageing materials, age determination, or analysis of ageing data for stock assessments.
+
+## Equipment and computer programs to be demonstrated
+
+- otolith preparation and sectioning
+- Leica S8i microscopes using Leica LAS X software
+- SmartDots software for image annotation
+- methods for fitting growth models in R
+- methods for computing catch-at-age matrices in R
+
+**Original motivation** The original idea behind this workshop was formulated back in 2021 during a TESA committee meeting where different workshop topics were being discussed.
+
+
+[Spreadsheet of participants](./planning/workshop-participants.xlsx)
+
+## Target audience
+
+Biologists whose mandate deals with species that are or were routinely aged, technicians in charge of ageing fish individuals using otoliths, stock assessment scientists who analyse ageing data to determine growth and to inform age-based population models.
+
+The workshop is organised such that virtual participants are encouraged to attend the parts that best suit their interests and desires. 
