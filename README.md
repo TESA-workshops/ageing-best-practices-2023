@@ -63,7 +63,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk** Marie-France Robichaud and Isabelle Forest (GFC) - Taking good pictures, and then annotating them in SmartDots  (10-15 mins)
 
-**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab? (10-15 mins)
+**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab. (10-15 mins)
 
 ### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
