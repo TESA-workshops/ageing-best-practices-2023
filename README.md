@@ -20,60 +20,65 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions |
-| 9:15 | Motivation for workshop (Ricard and Comeau) |
-| 9:45 | Ageing basics (Comeau) |
-| 10:15 | |
+| 9:15 | Motivation for workshop (Daniel Ricard and Peter Comeau) |
+| 9:45 | Ageing basics (Peter Comeau and Daniel Ricard) |
+| 10:15 | Sampling design ideas of relevance to collecting ageing structures (Andrea Perreault) |
 | 10:30 | Break |
-| 10:45 | |
-| 12:00 | Do head count for Wednesday dinner, then Lunch |
-| 13:15 |  |
+| 10:45 | Age validation and ager calibration |
+| 12:00 | Do head count for Wednesday dinner, then lunch |
+| 13:15 | Otolith preparation methods, storage and inventory of ageing structures |
 | 14:45 | Break |
-| 15:00 |  |
+| 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality |
 | 16:20 | Overview of the day and plan for tomorrow |
+| 17:00 | 5 à 7 (optional)|
 
 **Plenary by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (30-45 mins)
 
 **Short talk** Andrea Perreault (NAFC) - Length-stratified sampling (10-15 mins)
 
-**Short talk** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins)
+**Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
 
-**Short talk** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins)
+**Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins)
 
-**Short talk** Tania Davignon-Burton (BIO) - Title TBD  (10-15 mins)
+**Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Title TBD  (10-15 mins)
 
-**Short talk** Tracey Loewen (Ontario and Prairie Region) - otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+**Short talk (10-15 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+
+**Short talk (10-15 mins)** Stephen Wischniowski (Pacific Region) - Title TBD
 
 ### Wednesday February 01 - Digital imaging of otoliths
 | Time |  |
 |  ---- |  - |
+| 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw  |
+| 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin and sectioning with surface grinder |
+| 8:40 | Practical demo 3: imaging of flatfish otoliths and age determination by visual examination |
 | 9:00 | Quick recap of Tuesday |
-| 9:15 |  |
-| 9:45 |  |
-| 10:15 | |
+| 9:15 | Taking good images of otoliths (Karen Robertson)  |
+| 9:45 | Archiving of digital images (Daniel Ricard)  |
+| 10:15 | SmartDots: a tool for otolith annotations and quality-control (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | |
+| 10:45 |  |
 | 12:00 | Lunch |
 | 13:15 |  |
 | 14:45 | Break |
 | 15:00 |  |
 | 16:20 | Overview of the day and plan for tomorrow |
-| 18:30 | Group dinner at Gusto |
+| 17:00 | 5 à 7 (optional)|
+| 18:30 | Group dinner at Gusto (optional)|
 
 **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots (30-45 mins)
 
-**Short talk** Marie-France Robichaud and Isabelle Forest (GFC) - Taking good pictures, and then annotating them in SmartDots  (10-15 mins)
+**Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and then annotating them in SmartDots  (10-15 mins)
 
-**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab. (10-15 mins)
+**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab, and what you can do with such a nice tool (10-15 mins)
 
 ### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 |  |
-| 9:45 |  |
-| 10:15 | |
+| 9:15 | Fitting growth models to ageing data (Daniel Ricard)|
 | 10:30 | Break |
-| 10:45 | |
+| 10:45 | Computing catch-at-age matrices using length samples and age-length keys |
 | 12:00 | Lunch |
 | 13:15 |  |
 | 14:45 | Break |
@@ -86,15 +91,18 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
 
+
 ### External experts
 
 | Institution | Name | Expertise |
 | ------ | -----| -----|
 | DTU-Aqua	| Julie Davies | Ageing expertise and SmartDots expertise |
 
+
 ### Workshop dinner
 
 For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
+
 
 ## Travels
 
@@ -166,5 +174,4 @@ Taxi from the airport to downtown Moncton is about $25.
 
 Proceedings (Can. Tech. Rep.), which can hopefully be collaboratively written during the workshop.
 
-GitHub repository to share presentations and other resources.
-
+This GitHub repository to share presentations and other resources.
