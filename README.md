@@ -4,7 +4,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 ## Organisers
 
-[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography)
+[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
 
 ## Logistics
 
@@ -12,7 +12,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Where:** [Atlantic Science Enterprise Centre (ASEC)](https://www.dfo-mpo.gc.ca/science/organization/sec-ces/atlantic-atlantique/index-eng.html), [343 Université Ave., Moncton, NB.](https://goo.gl/maps/b8MkB6J9Ydot5snE9)
 
-**Format:** In-person workshop with possibility to join via MS Teams
+**Format:** Hybrid, in-person workshop with possibility to join via MS Teams
 
 ## Schedule
 
@@ -24,7 +24,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | 9:45 | Ageing basics (Peter Comeau and Daniel Ricard) |
 | 10:15 | Sampling design ideas of relevance to collecting ageing structures (Andrea Perreault) |
 | 10:30 | Break |
-| 10:45 | Age validation and ager calibration |
+| 10:45 | Age validation and ager calibration (Daniel Ricard) |
 | 12:00 | Do head count for Wednesday dinner, then lunch |
 | 13:15 | Otolith preparation methods, storage and inventory of ageing structures |
 | 14:45 | Break |
@@ -72,6 +72,8 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab, and what you can do with such a nice tool (10-15 mins)
 
+**Short talk (10-15 mins)** Stephen Wischniowski (Pacific Region) - Title TBD
+
 ### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
 |  ---- |  - |
@@ -91,6 +93,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
 
+**Short talk (10-15 mins)** Stephen Wischniowski (Pacific Region) - Title TBD
 
 ### External experts
 
