@@ -129,7 +129,7 @@ Taxi from the airport to downtown Moncton is about $25.
 | --- | ------ | -----| -----|
 | 1 | C&A | Laura Alsip | In person |
 | 2 | C&A | Kevin Hedges | Virtual |
-| 3 | C&A | Michael Legge | Virtual |
+| 3 | C&A | Michael Legge | In person |
 | 4 | C&A | Tracey Loewen | In person |
 | 5 | C&A | Brendan Malley | Virtual |
 | 6 | C&A | Lenore Vandenbyllaardt | Virtual |
