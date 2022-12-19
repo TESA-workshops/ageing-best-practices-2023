@@ -127,39 +127,39 @@ Taxi from the airport to downtown Moncton is about $25.
 
 | Number | Region | Name | In person or virtual |
 | --- | ------ | -----| -----|
-| 1 | C&A | Tracey Loewen | In person |
-| 2 | C&A | Lauren Wiens | Virtual |
-| 3 | C&A | Laura Alsip | Virtual |
-| 4 | C&A | Michael Legge | Virtual or in person
-| 5 | C&A | Lenore Vandenbyllaardt | Virtual |
-| 6 | C&A | Kevin Hedges | Virtual |
+| 1 | C&A | Laura Alsip | In person |
+| 2 | C&A | Kevin Hedges | Virtual |
+| 3 | C&A | Michael Legge | Virtual |
+| 4 | C&A | Tracey Loewen | In person |
+| 5 | C&A | Brendan Malley | Virtual |
+| 6 | C&A | Lenore Vandenbyllaardt | Virtual |
 | 7 | C&A | Rick Wastle | Virtual |
-| 8 | QUE | Kim Emond | In person |
-| 9 | QUE | Hélène Dionne | In person |
-| 10 | QUE | Nicolas LeCorre | Virtual |
-| 11 | QUE | Andrew Smith | Virtual |
-| 12 | QUE | Rénald Belley | Virtual |
-| 13 | QUE | Mathieu Desgagnés | In person |
-| 14 | GULF	| Suncica Avlijas | In person |
-| 15 | GULF	| Abby Daigle | In person |
-| 16 | GULF	| Andrew Darcy | In person |
-| 17 | GULF	| Isabelle Forest | In person |
-| 18 | GULF	| Matthew Horsman | In person |
-| 19 | GULF	| Kirdy Morrill | In person |
-| 20 | GULF | Daniel Ricard (co-chair)| In person |
-| 21 | GULF	| Karen Robertson | In person |
-| 22 | GULF	| Nicolas Rolland | In person |
+| 8 | C&A | Lauren Wiens | Virtual |
+| 9 | QUE | Rénald Belley | In person |
+| 10 | QUE | Mathieu Desgagnés | In person |
+| 11 | QUE | Hélène Dionne | Virtual |
+| 12 | QUE | Kim Emond | Virtual |
+| 13 | QUE | Nicolas LeCorre | Virtual |
+| 14 | QUE | Andrew Smith | In person |
+| 15 | GULF	| Suncica Avlijas | In person |
+| 16 | GULF	| Abby Daigle | In person |
+| 17 | GULF	| Andrew Darcy | In person |
+| 18 | GULF	| Isabelle Forest | In person |
+| 19 | GULF	| Matthew Horsman | In person |
+| 20 | GULF	| Kirdy Morrill | In person |
+| 21 | GULF | Daniel Ricard (co-chair)| In person |
+| 22 | GULF	| Karen Robertson | In person |
 | 23 | GULF	| Sylvie Robichaud | In person |
-| 24 | GULF	| Joeleen Savoie | In person |
-| 25 | GULF	| Jolene Sutton | In person |
-| 26 | GULF	| François-Étienne Sylvain | In person |
-| 27 | MAR | Peter Comeau (co-chair) | In person |
-| 28 | MAR | Nell den Heyer | Virtual or in person |
-| 29 | MAR | George Nau | In person |
-| 30 | MAR | Mark Billard | Virtual |
+| 24 | GULF	| Nicolas Rolland | In person |
+| 25 | GULF	| Joeleen Savoie | In person |
+| 26 | GULF	| Jolene Sutton | In person |
+| 27 | GULF	| François-Étienne Sylvain | In person |
+| 28 | MAR | Mark Billard | In person |
+| 29 | MAR | Peter Comeau (co-chair) | In person |
+| 30 | MAR | Nell den Heyer | Virtual |
 | 31 | MAR | Lynn Collier | Virtual |
-| 32 | MAR | Tania Davignon-Burton | In person |
-| 33 | MAR | Cornelia den Heyer | In person |
+| 32 | MAR | George Nau | Virtual |
+| 33 | MAR | Tania Davignon-Burton | In person |
 | 34 | MAR | Gregory Puncher | Virtual |
 | 35 | MAR | Danni Harper | Virtual |
 | 36 | MAR | Kelly Kraska | Virtual |
