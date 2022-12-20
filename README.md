@@ -135,12 +135,12 @@ Taxi from the airport to downtown Moncton is about $25.
 | 6 | C&A | Brendan Malley | Virtual |
 | 7 | C&A | Lenore Vandenbyllaardt | Virtual |
 | 8 | C&A | Rick Wastle | Virtual |
-| 9 | QUE | Rénald Belley | In person |
-| 10 | QUE | Mathieu Desgagnés | In person |
-| 11 | QUE | Hélène Dionne | Virtual |
-| 12 | QUE | Kim Emond | Virtual |
+| 9 | QUE | Rénald Belley | Virtual |
+| 10 | QUE | Mathieu Desgagnés | Virtual |
+| 11 | QUE | Hélène Dionne | In person |
+| 12 | QUE | Kim Emond | In person |
 | 13 | QUE | Nicolas LeCorre | Virtual |
-| 14 | QUE | Andrew Smith | In person |
+| 14 | QUE | Andrew Smith | Virtual |
 | 15 | GULF	| Suncica Avlijas | In person |
 | 16 | GULF	| Abby Daigle | In person |
 | 17 | GULF	| Andrew Darcy | In person |
@@ -154,7 +154,7 @@ Taxi from the airport to downtown Moncton is about $25.
 | 25 | GULF	| Joeleen Savoie | In person |
 | 26 | GULF	| Jolene Sutton | In person |
 | 27 | GULF	| François-Étienne Sylvain | In person |
-| 28 | MAR | Mark Billard | In person |
+| 28 | MAR | Mark Billard | Virtual |
 | 29 | MAR | Peter Comeau (co-chair) | In person |
 | 30 | MAR | Nell den Heyer | Virtual |
 | 31 | MAR | Lynn Collier | Virtual |
