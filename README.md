@@ -170,19 +170,20 @@ Taxi from the airport to downtown Moncton is about $25.
 | 41 | NL | Hannah Polaczek | Virtual |
 | 42 | NL | Gillian Forbes | In person |
 | 43 | NL | Marc Legresley | Virtual |
-| 44 | PAC | Sarah Hawkshaw | Virtual |
-| 45 | PAC | Madeline Lavery | Virtual |
-| 46 | PAC | Emily Yungwirth | Virtual |
-| 47 | PAC | Kendra Holt | Virtual |
-| 48 | PAC | Erin Herder | Virtual |
-| 49 | PAC | Robyn Forrest | Virtual |
-| 50 | PAC | Yeongha Jung | Virtual |
-| 51 | PAC | Barbara Campbell | Virtual |
-| 52 | PAC | Stephen Wischniowski | Virtual |
-| 53 | PAC | Kiana Matwichuk | Virtual |
-| 54 | PAC | Karalea Cantera | Virtual |
-| 55 | PAC | Audrey Ty | Virtual |
-| 56 | PAC | Mackenzie Mazur | In person |
+| 44 | NL | Kelly Antaya | Virtual |
+| 45 | PAC | Sarah Hawkshaw | Virtual |
+| 46 | PAC | Madeline Lavery | Virtual |
+| 47 | PAC | Emily Yungwirth | Virtual |
+| 48 | PAC | Kendra Holt | Virtual |
+| 49 | PAC | Erin Herder | Virtual |
+| 50 | PAC | Robyn Forrest | Virtual |
+| 51 | PAC | Yeongha Jung | Virtual |
+| 52 | PAC | Barbara Campbell | Virtual |
+| 53 | PAC | Stephen Wischniowski | Virtual |
+| 54 | PAC | Kiana Matwichuk | Virtual |
+| 55 | PAC | Karalea Cantera | Virtual |
+| 56 | PAC | Audrey Ty | Virtual |
+| 57 | PAC | Mackenzie Mazur | In person |
 |  | NCR |  |  |
 
 ## Expected deliverables
