@@ -1,0 +1,299 @@
+---
+title: "Growth models"
+author: "Daniel Ricard - DFO Science Gulf Region"
+date: "2023-02-02 - TESA Workshop"
+output: 
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "seahorse"
+    fonttheme: "structurebold"
+    slide_level: 2
+bibliography: refs.bib
+csl: csas.csl
+urlcolor: blue
+header-includes:
+- \AtBeginDocument{\title[Growth models]{A primer on fitting growth models to ageing data}}
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+suppressPackageStartupMessages(library(gulf))
+
+
+x <- read.card(species=40, card.type="bio")
+idx <- which(x$age.material==1 & x$age>0 & x$age<99 & x$length>0 & x$length<100 & x$stratum %in% c(415:439))
+
+x <- x[idx,]
+
+x$sex <- ifelse(x$sex %in% c(1,2), x$sex, 0)
+x$sex.str <- sex.str(x$sex)
+```
+
+## von Bertalanffy growth model - background
+
+- original published in 1934, the growth model of vonBertalanffy is the most commonly used in fisheries science
+- the basis of the model is that growth is the result of opposing forces on anabolism and catabolism
+
+@VB-1934
+
+
+## von Bertalanffy growth model - notation
+
+Model parameterised with age at length 0:
+
+\begin{equation*}
+L_{a} = L_{\infty} \times \left(1 - exp \left(-k \left(a - t_{0} \right) \right)\right)
+\end{equation*}
+
+Alternatively, the model can be parameterised with the length at age 0:
+
+\begin{equation*}
+L_{a} = \left(\left(L_{\infty} - L_{0} \right) \times \left(1 - exp \left(-k a \right) \right) \right) + L_{0}
+\end{equation*}
+
+## von Bertalanffy growth model - parameters
+
+- $L_{\infty}$ is the asymptotic length that an individual will reach as it ages
+- $k$ is not a "growth parameter"
+- $t_{0}$ or $L_{0}$ are the model intercept
+
+## von Bertalanffy growth model - using age at length 0
+
+```{r VB1}
+## using t0 
+vb.t0.fct <- function(Linf, k, t0, a){
+  L <- Linf * (1-exp(-k * (a-t0)))
+  return(L)
+}
+
+t0 <- -1
+k <- c(0.25,0.1)
+Linf <- c(70,50)
+ages <- -1:20
+
+L.VB11 <- vb.t0.fct(Linf[1], k[1], t0, ages)
+L.VB12 <- vb.t0.fct(Linf[1], k[2], t0, ages)
+L.VB21 <- vb.t0.fct(Linf[2], k[1], t0, ages)
+L.VB22 <- vb.t0.fct(Linf[2], k[2], t0, ages)
+
+my.cols <- c("#d8b365","#5ab4ac")
+
+plot(ages, L.VB11, type='l', ylim=c(0,70), xlab="age", ylab="length (cm)", lty=1, col=my.cols[1], lwd=2)
+lines(ages, L.VB12, lty=1, col=my.cols[2], lwd=2)
+lines(ages, L.VB21, lty=2, col=my.cols[1], lwd=2)
+lines(ages, L.VB22, lty=2, col=my.cols[2], lwd=2)
+abline(v=0)
+abline(h=Linf[1], lty=3, col=grey(0.4), lwd=2)
+abline(h=Linf[2], lty=3, col=grey(0.4), lwd=2)
+
+l.txt <- apply(expand.grid(t0, k, Linf), 1, function(x) paste("Linf=",x[3], ", k=",x[2], ", t0=",x[1], sep="")) 
+
+
+legend("bottomright", l.txt, lty=c(1,1,2,2), col=c(my.cols[1],my.cols[2],my.cols[1],my.cols[2]))
+
+```
+
+## von Bertalanffy growth model - using length at age 0
+
+```{r VB2}
+## using t0 
+L0 <- 5
+k <- c(0.25,0.1)
+Linf <- c(70,50)
+ages <- 0:20
+L.VB11 <- ((Linf[1]-L0) * (1 - exp(-k[1]*ages))) + L0
+L.VB12 <- ((Linf[1]-L0) * (1 - exp(-k[2]*ages))) + L0
+L.VB21 <- ((Linf[2]-L0) * (1 - exp(-k[1]*ages))) + L0
+L.VB22 <- ((Linf[2]-L0) * (1 - exp(-k[2]*ages))) + L0
+
+my.cols <- c("#d8b365","#5ab4ac")
+
+plot(ages, L.VB11, type='l', ylim=c(0,70), xlab="age", ylab="length (cm)", lty=1, col=my.cols[1], lwd=2)
+lines(ages, L.VB12, lty=1, col=my.cols[2], lwd=2)
+lines(ages, L.VB21, lty=2, col=my.cols[1], lwd=2)
+lines(ages, L.VB22, lty=2, col=my.cols[2], lwd=2)
+abline(v=0)
+abline(h=Linf[1], lty=3, col=grey(0.4), lwd=2)
+abline(h=Linf[2], lty=3, col=grey(0.4), lwd=2)
+
+l.txt <- paste("Linf=", Linf, ", ", "k=", k)
+
+l.txt <- apply(expand.grid(L0, k, Linf), 1, function(x) paste("Linf=",x[3], ", k=",x[2], ", L0=",x[1], sep="")) 
+
+legend("bottomright", l.txt, lty=c(1,1,2,2), col=c(my.cols[1],my.cols[2],my.cols[1],my.cols[2]))
+
+```
+
+
+## First-order derivative of VB function
+```{r}
+vb.t0.fct <- function(Linf, k, t0, a){
+  L <- Linf * (1-exp(-k * (a-t0)))
+  return(L)
+}
+
+t0 <- -1
+k <- 0.2
+Linf <- 70
+ages <- seq(1,20,0.25)
+
+my.df <- data.frame(age=ages,length=vb.t0.fct(Linf, k, t0, ages))
+
+
+my.df[2:nrow(my.df),"delta.length"] <- my.df[2:nrow(my.df),"length"] - my.df[1:(nrow(my.df)-1),"length"]
+
+alpha <- 1E-02
+beta <- 3
+my.df$weight <- (alpha * (my.df$length^beta)) / 1000
+
+my.df[2:nrow(my.df),"delta.weight"] <- my.df[2:nrow(my.df),"weight"] - my.df[1:(nrow(my.df)-1),"weight"]
+
+mm <- matrix(c(rep(0,4), 0,1,2,0, 0,3,4,0, rep(0,4)), nc=4, byrow=TRUE)
+
+ll <- layout(mm, widths=c(0.05,0.45,0.45,0.05), heights=c(0.01,0.45,0.45,0.09)) # layout.show(ll)
+
+par(mar=c(0,0,0,0))
+plot(length~age, data=my.df, type='l', axes=FALSE)
+axis(side=2)
+box()
+mtext(side=2, "Length (cm)", line=2.5)
+
+plot(delta.length~age, data=my.df, type='l', axes=FALSE)
+axis(side=4)
+box()
+mtext(side=4, "dL/dt (cm)", line=2.5)
+
+plot(weight~age, data=my.df, type='l', axes=FALSE)
+axis(side=1)
+axis(side=2)
+box()
+mtext(side=2, "Weight (kg)", line=2.5)
+mtext(side=1, "age", line=2.0)
+
+plot(delta.weight~age, data=my.df, type='l', axes=FALSE)
+axis(side=1)
+axis(side=4)
+box()
+mtext(side=4, "dW/dt (kg)", line=2.5)
+mtext(side=1, "age", line=2.0)
+
+```
+\begin{equation}
+\delta L / \delta t = 
+\end{equation}
+
+
+## Replace length with weight
+
+\begin{equation*}
+W = \alpha L^{\beta}
+\end{equation*}
+
+
+
+## Ageing data for American Plaice in the southern Gulf of St. Lawrence
+
+```{r plaice, echo=FALSE, out.width='90%'}
+library(ggplot2)
+g <- ggplot(data=x[sample(1:nrow(x),500),], aes(x=age, y=length, col=as.factor(sex.str))) +
+  geom_jitter() 
+g
+```
+
+## Fitting a single VB growth model for American Plaice 
+
+- in R, the *nls* function can be used to fit a VB model to data consisting in age-length pairs
+- we will help *nls* by providing starting values for each parameter to be estimated
+
+## Fitting a single VB growth model for American Plaice 
+
+```{r plaiceVB1}
+VB.fit <- nls(
+  length ~ Linf * (1-exp(-k * (age-t0))), 
+  data=x,
+  start=list(Linf=50, k=0.1, t0=-1)
+  )
+
+print(summary(VB.fit))
+ages <- 1:30
+pred.df <- data.frame(age=ages, sex.str="unobserved")
+pred.df$length <- predict(VB.fit, newdata=pred.df)
+```
+
+## Fitting a single VB growth model for American Plaice 
+
+```{r plaiceVB2, echo=FALSE, out.width='90%'}
+g2 <- g + geom_line(data=pred.df, aes(x=age, y=length, col=as.factor(sex.str)))
+g2
+```
+
+
+## Fitting a VB growth model with sex-specific parameter values
+
+```{r plaiceVB3}
+idx <- which(x$sex %in% c(1,2))
+x <- x[idx,]
+
+x$sex.n <- x$sex-1
+
+VB.fit <- nls(
+  length ~ (Linf+(sex.n*Linf.sex.dev))*(1 - exp((-k+(sex.n*k.sex.dev)) * (age - t0))),
+  data=x,
+  start=list(Linf=50, Linf.sex.dev=15, k=0.1, k.sex.dev=0, t0=-1)
+  )
+
+
+print(summary(VB.fit))
+ages <- 1:30
+pred.df <- expand.grid(age=ages, sex.n=c(0,1))
+pred.df$length <- predict(VB.fit, newdata=pred.df)
+```
+
+
+## Fitting a VB growth model with sex-specific parameter values
+
+```{r plaiceVB4, echo=FALSE, out.width='90%'}
+g3 <- ggplot(data=x[sample(1:nrow(x),500),], aes(x=age, y=length, col=as.factor(sex.n))) +
+  geom_jitter() + geom_line(data=pred.df, aes(x=age, y=length, col=as.factor(sex.n)))
+g3
+
+
+```
+
+## Fitting a VB growth model with sex-specific and decadal parameter values
+
+
+
+## Alternatively, implement as a Bayesian model in JAGS
+
+
+## Alternatively, implement in TMB
+
+
+## Individual growth trajectories 
+
+
+
+## Fitting a mixed effects VB model to growth trajetories
+
+
+## Using length frequencies to estimate growth
+
+What if no ageing is available? What if we could use length frequencies to track cohorts and estimate their growth?
+
+
+## Other growth models
+
+- Gompertz model
+- 
+
+
+## Questions, comments, suggestions
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{teleost-navire-stock-poissons-jacques-cartier.png}
+\end{center}
+
+## References

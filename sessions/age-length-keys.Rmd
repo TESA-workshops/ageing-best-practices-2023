@@ -1,4 +1,30 @@
+---
+title: "Catch-at-age matrices"
+author: "Daniel Ricard - DFO Science Gulf Region"
+date: "2023-02-02 - TESA Workshop"
+output: 
+  beamer_presentation:
+    theme: "Madrid"
+    colortheme: "seahorse"
+    fonttheme: "structurebold"
+    slide_level: 2
+urlcolor: blue
+header-includes:
+- \AtBeginDocument{\title[Catch-at-age matrices]{A primer on turning length frequencies into ages}}
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## 
 
 
-for a given year, marginal probability distribution of length as a function of age, or age as a function of length
+## Questions, comments and suggestions
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{teleost-navire-stock-poissons-jacques-cartier.png}
+\end{center}
+
 
