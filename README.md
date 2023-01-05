@@ -17,12 +17,13 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
+Rapporteurs:
 | Time |  |
 |  ---- |  - |
 | 9:00 | Introductions |
 | 9:15 | Motivation for workshop (Daniel Ricard and Peter Comeau) |
 | 9:45 | Ageing basics (Peter Comeau and Daniel Ricard) |
-| 10:15 | Sampling design ideas of relevance to collecting ageing structures (Andrea Perreault) |
+| 10:15 | Sampling design ideas of relevance to collecting ageing structures (Daniel Ricard) |
 | 10:30 | Break |
 | 10:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
 | 12:00 | Do head count for Wednesday dinner, then lunch |
@@ -39,8 +40,6 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Plenary talk by DFO expert (30-45 mins)** Stephen Wischniowski (Pacific Region) - A whirlwind tour of ageing activities in the Pacific Region of DFO
 
-**Short talk** Andrea Perreault (NAFC) - Length-stratified sampling (10-15 mins)
-
 **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
 
 **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins)
@@ -49,6 +48,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 
 ### Wednesday February 01 - Digital imaging of otoliths
+Rapporteurs:
 | Time |  |
 |  ---- |  - |
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
@@ -77,6 +77,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 **Short talk** David Fishman (GFC) - Onwards with a DFO SmartDots Web API, and integration with a digital image archival and retrieval app (10-15 mins)
 
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
+Rapporteurs:
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
@@ -84,10 +85,13 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | 10:30 | Break |
 | 10:45 | Computing catch-at-age matrices using length samples and age-length keys |
 | 12:00 | Lunch |
-| 13:00 | Group discussion to draft recommendations for "best practices in ageing" |
+| 13:00 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
+| 14:00 | Group discussion to draft recommendations for "best practices in ageing" |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document |
 | 16:20 | Wrap up (Ricard and Comeau) |
+
+**Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins)
 
 **Short talk** Mike McMahon (BIO) - From surveys to published assessment, a data manager's perspective on the use of age information (10-15 mins)
 
@@ -134,15 +138,15 @@ Taxi from the airport to downtown Moncton is about $25.
 | 6 | C&A | Brendan Malley | Virtual |
 | 7 | C&A | Lenore Vandenbyllaardt | Virtual |
 | 8 | C&A | Rick Wastle | Virtual |
-| 9 | QUE | Rénald Belley | Virtual |
-| 10 | QUE | Mathieu Desgagnés | Virtual |
-| 11 | QUE | Hélène Dionne | In person |
-| 12 | QUE | Kim Emond | In person |
-| 13 | QUE | Nicolas LeCorre | Virtual |
-| 14 | QUE | Andrew Smith | Virtual |
-| 15 | GULF	| Suncica Avlijas | In person |
-| 16 | GULF	| Abby Daigle | In person |
-| 17 | GULF	| Andrew Darcy | In person |
+| 9 | C&A | Xinhua Zhu | Virtual |
+| 10 | QUE | Rénald Belley | Virtual |
+| 11 | QUE | Mathieu Desgagnés | Virtual |
+| 12 | QUE | Hélène Dionne | In person |
+| 13 | QUE | Kim Emond | In person |
+| 14 | QUE | Nicolas LeCorre | Virtual |
+| 15 | QUE | Andrew Smith | Virtual |
+| 16 | GULF	| Suncica Avlijas | In person |
+| 17 | GULF	| Abby Daigle | In person |
 | 18 | GULF	| Isabelle Forest | In person |
 | 19 | GULF	| Matthew Horsman | In person |
 | 20 | GULF	| Kirdy Morrill | In person |
@@ -150,39 +154,38 @@ Taxi from the airport to downtown Moncton is about $25.
 | 22 | GULF	| Karen Robertson | In person |
 | 23 | GULF	| Sylvie Robichaud | In person |
 | 24 | GULF	| Nicolas Rolland | In person |
-| 25 | GULF	| Joeleen Savoie | In person |
-| 26 | GULF	| Jolene Sutton | In person |
-| 27 | GULF	| François-Étienne Sylvain | In person |
-| 28 | MAR | Mark Billard | Virtual |
-| 29 | MAR | Peter Comeau (co-chair) | In person |
-| 30 | MAR | Nell den Heyer | Virtual |
-| 31 | MAR | Lynn Collier | Virtual |
-| 32 | MAR | George Nau | In person |
-| 33 | MAR | Tania Davignon-Burton | In person |
-| 34 | MAR | Gregory Puncher | Virtual |
-| 35 | MAR | Danni Harper | Virtual |
-| 36 | MAR | Kelly Kraska | Virtual |
-| 37 | NL | Aaron Adamack | Virtual |
-| 38 | NL | Meredith Schofield | In person |
-| 39 | NL | Andrea Perreault | Virtual |
-| 40 | NL | Dwight Drover | In person |
-| 41 | NL | Hannah Polaczek | Virtual |
-| 42 | NL | Gillian Forbes | In person |
-| 43 | NL | Marc Legresley | Virtual |
-| 44 | NL | Kelly Antaya | Virtual |
-| 45 | PAC | Sarah Hawkshaw | Virtual |
-| 46 | PAC | Madeline Lavery | Virtual |
-| 47 | PAC | Emily Yungwirth | Virtual |
-| 48 | PAC | Kendra Holt | Virtual |
-| 49 | PAC | Erin Herder | Virtual |
-| 50 | PAC | Robyn Forrest | Virtual |
-| 51 | PAC | Yeongha Jung | Virtual |
-| 52 | PAC | Barbara Campbell | Virtual |
-| 53 | PAC | Stephen Wischniowski | Virtual |
-| 54 | PAC | Kiana Matwichuk | Virtual |
-| 55 | PAC | Karalea Cantera | Virtual |
-| 56 | PAC | Audrey Ty | Virtual |
-| 57 | PAC | Mackenzie Mazur | In person |
+| 25 | GULF	| Jolene Sutton | In person |
+| 26 | GULF	| François-Étienne Sylvain | In person |
+| 27 | MAR | Mark Billard | Virtual |
+| 28 | MAR | Peter Comeau (co-chair) | In person |
+| 29 | MAR | Nell den Heyer | Virtual |
+| 30 | MAR | Lynn Collier | Virtual |
+| 31 | MAR | Tania Davignon-Burton | In person |
+| 32 | MAR | Danni Harper | In person |
+| 33 | MAR | Kelly Kraska | Virtual |
+| 34 | MAR | George Nau | Virtual |
+| 35 | MAR | Gregory Puncher | Virtual |
+| 36 | NL | Aaron Adamack | Virtual |
+| 37 | NL | Kelly Antaya | Virtual |
+| 38 | NL | Dwight Drover | In person |
+| 39 | NL | Gillian Forbes | In person |
+| 40 | NL | Marc Legresley | Virtual |
+| 41 | NL | Andrea Perreault | Virtual |
+| 42 | NL | Hannah Polaczek | Virtual |
+| 43 | NL | Meredith Schofield | In person |
+| 44 | PAC | Barbara Campbell | Virtual |
+| 45 | PAC | Karalea Cantera | Virtual |
+| 46 | PAC | Robyn Forrest | Virtual |
+| 47 | PAC | Sarah Hawkshaw | Virtual |
+| 48 | PAC | Erin Herder | Virtual |
+| 49 | PAC | Kendra Holt | Virtual |
+| 50 | PAC | Yeongha Jung | Virtual |
+| 51 | PAC | Madeline Lavery | Virtual |
+| 52 | PAC | Kiana Matwichuk | Virtual |
+| 53 | PAC | Mackenzie Mazur | In person |
+| 54 | PAC | Audrey Ty | Virtual |
+| 55 | PAC | Stephen Wischniowski | Virtual |
+| 56 | PAC | Emily Yungwirth | Virtual |
 |  | NCR |  |  |
 
 ## Expected deliverables
