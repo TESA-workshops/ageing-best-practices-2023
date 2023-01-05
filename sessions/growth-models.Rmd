@@ -33,7 +33,7 @@ x$sex.str <- sex.str(x$sex)
 
 ## von Bertalanffy growth model - background
 
-- original published in 1934, the growth model of vonBertalanffy is the most commonly used in fisheries science
+- original published in 1934, the growth model of von Bertalanffy is the most commonly used in fisheries science
 - the basis of the model is that growth is the result of opposing forces on anabolism and catabolism
 
 @VB-1934

@@ -8,17 +8,198 @@ output:
     colortheme: "seahorse"
     fonttheme: "structurebold"
     slide_level: 2
+bibliography: refs.bib
+csl: csas.csl
 urlcolor: blue
 header-includes:
 - \AtBeginDocument{\title[Catch-at-age matrices]{A primer on turning length frequencies into ages}}
-
+- \usepackage{bm}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(gulf))
 ```
 
-## 
+```{r data, include=FALSE, cache=TRUE}
+yr<-1995
+## landings
+ziff <- read.ziff(year=1995)
+# table(ziff$nafo.division, exclude=FALSE)
+stacac.code <- species.code(40, input.coding="rv", output.coding="stacac")
+idx<-which(ziff$species.code==stacac.code & ziff$nafo.division=="4T")
+ziff <- ziff[idx,]
+table(ziff$gear.class, ziff$gear.category)
+## bio cards
+x <- read.card(species=40, year=yr, card.type="bio")
+idx <- which(x$age.material==1 & x$age>0 & x$age<99 & x$length>0 & x$length<100 & x$stratum %in% c(415:439))
+x <- x[idx,]
+## length frequencies
+x.comm <- read.comlen(species=40, year=yr)
+x.comm$gear.cat <- gear.class(x.comm$gear.alpha)
+#table(x.comm$gear.alpha, x.comm$gear.cat)
+#table(x.comm$sex)
+ff <- freq(x.comm, by=c("gear.cat"), scale=FALSE)
+lvars <- names(ff)[2:ncol(ff)]
+n.ind.measured <- sum(ff[lvars])
+sample.weight.measured <- sum(aggregate(weight.sampled~sample.number, data=x.comm, sum))
+sample.weight.caught <-  sum(aggregate(weight.caught~sample.number, data=x.comm, sum))
+
+## for analyses, scale the length frequencies by the size of landings
+ff.scaled <- freq(x.comm, by=c("gear.cat"), scale=TRUE)
+```
+
+## Goals
+
+- compute a catch-at-age matrix that will be used as input to an age-strutured population model
+- in our case, compute one row of that matrix for a specific year 
+
+
+## Landings
+
+Zonal Interchange File Format (ZIFF) are used to retrieve American Plaice landings data from NAFO Division 4T
+
+
+
+## Example for American Plaice from the southern Gulf of St. Lawrence
+
+```{r ziff}
+yr
+ziff.agg <- aggregate(round.weight~gear.class,data=ziff, sum)
+ziff.agg$round.weight.mt <- ziff.agg$round.weight / 1000
+ziff.agg
+sum(ziff.agg$round.weight.mt)
+
+```
+
+## Length frequencies
+
+Example of the available `r nrow(x.comm)` length frequency samples available for American Plaice in NAFO Division 4T in `r yr`, a total of `r n.ind.measured` individuals were measured. From the annual landings of `r sum(ziff.agg$round.weight.mt)` mt, the port samples come from landings of `r sample.weight.caught` lbs (`r sample.weight.caught/2.2` kg) and the weight of sampled individuals was `r sample.weight.measured`  lbs (`r sample.weight.measured/2.2` kg).
+
+## Length frequencies
+
+```{r, out.width='90%'}
+my.cols <- c("#d8b365","#5ab4ac")
+my.cols.alpha <- c("#d8b36560","#5ab4ac60")
+
+dbarplot(ff[1,lvars], col=my.cols.alpha[1], xlab="Length (cm)", ylab="Number of individuals")
+lines(as.numeric(lvars), ff[1,lvars], col=my.cols[1])
+dbarplot(ff[2,lvars], col=my.cols.alpha[2], add=TRUE)
+lines(as.numeric(lvars), ff[2,lvars], col=my.cols[2])
+legend("topleft", c("seine","trawl"), pch=15, col=my.cols)
+```
+
+## Age-length pairs
+
+Length versus age for the `r nrow(x)` aged individuals from the `r yr` September survey (the figure is a random sample of 500 individuals with jitter added to ages)
+
+## Age-length pairs
+
+```{r, out.width='90%'}
+g <- ggplot(data=x[sample(1:nrow(x),500),], aes(x=age, y=length, col=as.factor(sex))) +
+  geom_jitter() 
+g
+```
+
+## Notation from Ailloud and Hoenig (2019)
+
+@Ailloud-Hoenig-2019-theory
+
+\begin{small}
+\begin{tabular}{p{8cm}ll}
+Age class & $i$ &  $1,2,...,I$ \\
+Length bin & $j$ & $1, 2,..., J$ \\
+Year & $k$ & $1, 2,..., K$ \\
+Number of fish of age $i$ and length bin $j$ in the age-length sample & $n_{ij}$ & \\
+Number of fish of length $j$ in the length frequency sample & $y_{j}$ & \\
+Number of fish of age $i$ in the age only sample & $x_{i}$ & \\
+Total size of the age-length sample & $n$ & \\
+Total size of the length frequency sample & $N$ & \\
+Total size of the age only sample & $M$ & \\
+Total number of fish belonging to the $i^{th}$ age class of the age-length sample & $n_{i.}$ & \\
+Total number of fish belonging to the $j^{th}$ length bin of the age-length sample & $n_{.j}$ & \\
+\end{tabular}
+\end{small}
+
+
+## Empirical age-length key
+
+From the sample of fish that were aged, we can examine the number of individuals at each age and length:
+
+\begin{equation*}
+\begin{bmatrix}
+n_{age=1,length=1} & n_{age=1,length=2} & ... & n_{age=1,length=J}\\
+n_{age=2,1} & n_{age=2,length=2} & ... & n_{age=2,length=J}\\
+... & ... & ... & ... \\
+n_{age=I,1} & n_{age=I,length=2} & ... & n_{age=I,length=J}\\
+\end{bmatrix}
+\end{equation*}
+
+
+## Example for American Plaice from the southern Gulf of St. Lawrence
+
+Empirical age-length key from the `r nrow(x)` aged individuals from the `r yr` September survey
+
+
+```{r alkey1, out.width='70%'}
+table(x$age)
+g <- ggplot(data=x, aes(x=as.factor(length), y=as.factor(age))) +
+  stat_bin2d()
+g
+
+```
+
+The probabilities at each length will sum to 1.0, in other words, they are marginal probabilities of being a certain age at a given length
+
+
+## Forward age-length key
+
+\begin{equation*}
+\hat{P} \left( i | j \right) = \hat{q}_{ij} = n_{ij}/n_{j}
+\end{equation*}
+
+\begin{equation*}
+\hat{A} = \bm{Q} Y/N
+\end{equation*}
+
+## Catch-at-age matrices
+
+For our example to compute the catch-at-age matrix for American Plaice in 1995, we have the following information:
+
+- total landings of American Plaice by gear type
+
+- length frequency samples from port sampling activities
+- length frequency samples from at-sea observers
+- length frequency samples from the September survey
+
+- age-length pairs obtained from ageing the otoliths collected from port sampling activities
+- age-length pairs obtained from ageing the otoliths collected from at-sea observers
+- age-length pairs obtained from ageing the otoliths collected in the September survey
+
+
+## Showing the 3 pieces together
+
+```{r}
+mm <- matrix(c(rep(0,5), 0,1:3,0, rep(0,5)), nc=3)
+ll <- layout(mm, widths=c(0.09,0.9,0.01), heights=c(0.05,0.3,0.3,0.3,0.05))
+## length frequencies
+## age-length key
+## catch-at-age
+```
+
+
+## Complications and solutions
+
+- some years have no data
+- some ages are not present in the aged samples
+- some lengths are not present in the aged samples
+- 
+
+## Catch-at-age matrices
+
+Extend the analyses to all years where data is available
+
 
 
 ## Questions, comments and suggestions
@@ -28,3 +209,4 @@ knitr::opts_chunk$set(echo = FALSE)
 \end{center}
 
 
+## References

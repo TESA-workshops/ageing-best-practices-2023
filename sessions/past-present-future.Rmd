@@ -1,0 +1,22 @@
+---
+title: "Past, present and future of age determination using otoliths"
+author: "Daniel Ricard - DFO Science Gulf Region"
+date: "2023-01-21 to 2023-02-02 - TESA Workshop"
+output: beamer_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Past
+
+
+## Present
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Future
+
