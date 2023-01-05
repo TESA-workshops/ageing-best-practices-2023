@@ -1,5 +1,5 @@
 ---
-title: "Past, present and future of age determination using otoliths"
+title: "Age validation, age verification and ager calibration"
 author: "Daniel Ricard - DFO Science Gulf Region"
 date: "2023-01-21 to 2023-02-02 - TESA Workshop"
 output: 
@@ -12,7 +12,7 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[Past, present and future]{Past, present and future of age determination using otoliths}}
+- \AtBeginDocument{\title[Validation, verification and calibration]{Age validation, age verification and ager calibration}}
 - \usepackage{bm}
 ---
 
@@ -20,18 +20,20 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Past
-
-
-## Present
+## Validation
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
 
-## Future
+## Verification
 
-- Image analysis / Artificial Intelligence 
-- microchemistry
-- imaging as per Keyence capabilities
+- Bullet 1
+- Bullet 2
+- Bullet 3
 
+## Calibration
+
+- Bullet 1
+- Bullet 2
+- Bullet 3

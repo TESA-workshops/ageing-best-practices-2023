@@ -1,5 +1,5 @@
 ---
-title: "Past, present and future of age determination using otoliths"
+title: "Otolith preparation methods, storage and inventory of ageing structures"
 author: "Daniel Ricard - DFO Science Gulf Region"
 date: "2023-01-21 to 2023-02-02 - TESA Workshop"
 output: 
@@ -12,7 +12,7 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[Past, present and future]{Past, present and future of age determination using otoliths}}
+- \AtBeginDocument{\title[Preparation, storage and inventory]{Otolith preparation methods, storage and inventory of ageing structures}}
 - \usepackage{bm}
 ---
 
@@ -20,18 +20,20 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Past
-
-
-## Present
+## Preparation
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
 
-## Future
+## Storage
 
-- Image analysis / Artificial Intelligence 
-- microchemistry
-- imaging as per Keyence capabilities
+- Bullet 1
+- Bullet 2
+- Bullet 3
 
+## Inventory
+
+- Bullet 1
+- Bullet 2
+- Bullet 3

@@ -12,7 +12,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 ## Organisers
 
-[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) & [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
+[Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) and [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
 
 ## Schedule
 
@@ -24,7 +24,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | 9:45 | Ageing basics (Peter Comeau and Daniel Ricard) |
 | 10:15 | Sampling design ideas of relevance to collecting ageing structures (Andrea Perreault) |
 | 10:30 | Break |
-| 10:45 | Age validation and ager calibration (Daniel Ricard and others) |
+| 10:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
 | 12:00 | Do head count for Wednesday dinner, then lunch |
 | 13:15 | Otolith preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
 | 14:45 | Break |
@@ -33,7 +33,9 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | 17:00 | 5 à 7 (optional)|
 
 
-**Plenary talk by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (30-45 mins)
+**Opening remarks by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (15-20 mins)
+
+**Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
 **Plenary talk by DFO expert (30-45 mins)** Stephen Wischniowski (Pacific Region) - A whirlwind tour of ageing activities in the Pacific Region of DFO
 
@@ -45,18 +47,16 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins)
 
-**Short talk (10-15 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
-
 
 ### Wednesday February 01 - Digital imaging of otoliths
 | Time |  |
 |  ---- |  - |
-| 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw  |
-| 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin and sectioning with surface grinder |
-| 8:40 | Practical demo 3: imaging of flatfish otoliths and age determination by visual examination |
-| 9:00 | Practical demo 4: herring ageing |
+| 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
+| 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin, and sectioning with surface grinder |
+| 8:40 | Practical demo 3: mounting of herring otoliths in epoxy resin, and otolith imaging |
+| 9:00 | Practical demo 4: age determination by visual examination |
 | 9:30 | Quick recap of Tuesday |
-| 9:45 | SmartDots: a tool for otolith annotations and quality-control (Julie Davies) |
+| 9:45 | SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
 | 10:30 | Break |
 | 10:45 | Taking good images of otoliths (Karen Robertson) |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
@@ -76,7 +76,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 **Short talk** David Fishman (GFC) - Onwards with a DFO SmartDots Web API, and integration with a digital image archival and retrieval app (10-15 mins)
 
-### Thursday February 01 - Analyses: growth models and catch-at-age matrices 
+### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
@@ -84,7 +84,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | 10:30 | Break |
 | 10:45 | Computing catch-at-age matrices using length samples and age-length keys |
 | 12:00 | Lunch |
-| 13:00 | Group discussion to draft recommendations for best practices in ageing |
+| 13:00 | Group discussion to draft recommendations for "best practices in ageing" |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document |
 | 16:20 | Wrap up (Ricard and Comeau) |

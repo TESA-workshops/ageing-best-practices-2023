@@ -1,7 +1,7 @@
 ---
-title: "Past, present and future of age determination using otoliths"
+title: "Archiving of digital images and integration into SmartDots"
 author: "Daniel Ricard - DFO Science Gulf Region"
-date: "2023-01-21 to 2023-02-02 - TESA Workshop"
+date: "2023-02-01 - TESA Workshop"
 output: 
   beamer_presentation:
     theme: "Madrid"
@@ -12,7 +12,7 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[Past, present and future]{Past, present and future of age determination using otoliths}}
+- \AtBeginDocument{\title[SmartDots]{Archiving of digital images and integration into SmartDots}}
 - \usepackage{bm}
 ---
 
@@ -20,18 +20,20 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Past
-
-
-## Present
+## Preparation
 
 - Bullet 1
 - Bullet 2
 - Bullet 3
 
-## Future
+## Storage
 
-- Image analysis / Artificial Intelligence 
-- microchemistry
-- imaging as per Keyence capabilities
+- Bullet 1
+- Bullet 2
+- Bullet 3
 
+## Inventory
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
