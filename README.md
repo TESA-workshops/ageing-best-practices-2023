@@ -161,9 +161,9 @@ Taxi from the airport to downtown Moncton is about $25.
 | 29 | MAR | Nell den Heyer | Virtual |
 | 30 | MAR | Lynn Collier | Virtual |
 | 31 | MAR | Tania Davignon-Burton | In person |
-| 32 | MAR | Danni Harper | In person |
+| 32 | MAR | Danni Harper | Virtual |
 | 33 | MAR | Kelly Kraska | Virtual |
-| 34 | MAR | George Nau | Virtual |
+| 34 | MAR | George Nau | In person |
 | 35 | MAR | Gregory Puncher | Virtual |
 | 36 | NL | Aaron Adamack | Virtual |
 | 37 | NL | Kelly Antaya | Virtual |
