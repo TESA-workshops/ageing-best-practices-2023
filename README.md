@@ -183,9 +183,10 @@ Taxi from the airport to downtown Moncton is about $25.
 | 51 | PAC | Madeline Lavery | Virtual |
 | 52 | PAC | Kiana Matwichuk | Virtual |
 | 53 | PAC | Mackenzie Mazur | In person |
-| 54 | PAC | Audrey Ty | Virtual |
-| 55 | PAC | Stephen Wischniowski | Virtual |
-| 56 | PAC | Emily Yungwirth | Virtual |
+| 54 | PAC | Judy McArthur | Virtual |
+| 55 | PAC | Audrey Ty | Virtual |
+| 56 | PAC | Stephen Wischniowski | Virtual |
+| 57 | PAC | Emily Yungwirth | Virtual |
 |  | NCR |  |  |
 
 ## Expected deliverables

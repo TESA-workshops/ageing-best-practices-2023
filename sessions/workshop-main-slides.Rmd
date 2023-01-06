@@ -1,0 +1,37 @@
+---
+title: "TESA Workshop on ageing"
+author: "Chairs: Daniel Ricard (GFC) and Peter Comeau (BIO)"
+date: "2023-01-31 to 2023-02-02"
+output: beamer_presentation
+urlcolor: blue
+header-includes:
+- \AtBeginDocument{\title[TESA Workshop on ageing]{TESA workshop Best practices in ageing}}
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+suppressPackageStartupMessages(library(ggplot2))
+suppressPackageStartupMessages(library(gulf))
+```
+
+## Day 1 - Tuesday January 31 2023
+
+[Validation, verification and calibration](./validation-verification-calibration.pdf)
+
+
+## Day 2 - Wednesday February 01 2023
+
+## Day 3 - Thursday February 02 2023
+
+[Growth models](./growth-models.pdf)
+
+[Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
+
+## Recommendations
+
+
+
+## Proceedings
+
+
