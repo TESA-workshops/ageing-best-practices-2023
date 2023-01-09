@@ -128,66 +128,68 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-| Number | Region | Name | In person or virtual |
-| --- | ------ | -----| -----|
-| 1 | C&A | Laura Alsip | Virtual |
-| 2 | C&A | Lauren Burke | Virtual |
-| 3 | C&A | Kevin Hedges | Virtual |
-| 4 | C&A | Michael Legge | In person |
-| 5 | C&A | Tracey Loewen | In person |
-| 6 | C&A | Brendan Malley | Virtual |
-| 7 | C&A | Lenore Vandenbyllaardt | Virtual |
-| 8 | C&A | Rick Wastle | Virtual |
-| 9 | C&A | Xinhua Zhu | Virtual |
-| 10 | QUE | Rénald Belley | Virtual |
-| 11 | QUE | Mathieu Desgagnés | Virtual |
-| 12 | QUE | Hélène Dionne | In person |
-| 13 | QUE | Kim Emond | In person |
-| 14 | QUE | Nicolas LeCorre | Virtual |
-| 15 | QUE | Andrew Smith | Virtual |
-| 16 | GULF	| Suncica Avlijas | In person |
-| 17 | GULF	| Abby Daigle | In person |
-| 18 | GULF	| Isabelle Forest | In person |
-| 19 | GULF	| Matthew Horsman | In person |
-| 20 | GULF	| Kirdy Morrill | In person |
-| 21 | GULF | Daniel Ricard (co-chair)| In person |
-| 22 | GULF	| Karen Robertson | In person |
-| 23 | GULF	| Sylvie Robichaud | In person |
-| 24 | GULF	| Nicolas Rolland | In person |
-| 25 | GULF	| Jolene Sutton | In person |
-| 26 | GULF	| François-Étienne Sylvain | In person |
-| 27 | MAR | Mark Billard | Virtual |
-| 28 | MAR | Peter Comeau (co-chair) | In person |
-| 29 | MAR | Nell den Heyer | Virtual |
-| 30 | MAR | Lynn Collier | Virtual |
-| 31 | MAR | Tania Davignon-Burton | In person |
-| 32 | MAR | Danni Harper | Virtual |
-| 33 | MAR | Kelly Kraska | Virtual |
-| 34 | MAR | George Nau | In person |
-| 35 | MAR | Gregory Puncher | Virtual |
-| 36 | NL | Aaron Adamack | Virtual |
-| 37 | NL | Kelly Antaya | Virtual |
-| 38 | NL | Dwight Drover | In person |
-| 39 | NL | Gillian Forbes | In person |
-| 40 | NL | Marc Legresley | Virtual |
-| 41 | NL | Andrea Perreault | Virtual |
-| 42 | NL | Hannah Polaczek | Virtual |
-| 43 | NL | Meredith Schofield | In person |
-| 44 | PAC | Barbara Campbell | Virtual |
-| 45 | PAC | Karalea Cantera | Virtual |
-| 46 | PAC | Robyn Forrest | Virtual |
-| 47 | PAC | Sarah Hawkshaw | Virtual |
-| 48 | PAC | Erin Herder | Virtual |
-| 49 | PAC | Kendra Holt | Virtual |
-| 50 | PAC | Yeongha Jung | Virtual |
-| 51 | PAC | Madeline Lavery | Virtual |
-| 52 | PAC | Kiana Matwichuk | Virtual |
-| 53 | PAC | Mackenzie Mazur | In person |
-| 54 | PAC | Judy McArthur | Virtual |
-| 55 | PAC | Audrey Ty | Virtual |
-| 56 | PAC | Stephen Wischniowski | Virtual |
-| 57 | PAC | Emily Yungwirth | Virtual |
-|  | NCR |  |  |
+List of participants as of 2023-01-09
+
+|	Number	|	Region	|	Name	|	In person or virtual	|
+|	---	|	---	|	---	|	---	|
+|	1	|	C&A	|	Laura Alsip	|	Virtual	|
+|	2	|	C&A	|	Lauren Burke	|	Virtual	|
+|	3	|	C&A	|	Kevin J Hedges	|	Virtual	|
+|	4	|	C&A	|	Michael Legge	|	In person	|
+|	5	|	C&A	|	Tracey Loewen	|	In person	|
+|	6	|	C&A	|	Brendan K Malley	|	Virtual	|
+|	7	|	C&A	|	Lenore J Vandenbyllaardt	|	Virtual	|
+|	8	|	C&A	|	Rick J Wastle	|	Virtual	|
+|	9	|	C&A	|	Xinhua Zhu	|	Virtual	|
+|	10	|	GLF	|	Suncica Avlijas	|	In person	|
+|	11	|	GLF	|	Abby Daigle	|	In person	|
+|	12	|	GLF	|	Isabelle Forest	|	In person	|
+|	13	|	GLF	|	Matthew Horsman	|	In person	|
+|	14	|	GLF	|	Kirby Morrill	|	In person	|
+|	15	|	GLF	|	Daniel Ricard	|	In person	|
+|	16	|	GLF	|	Karen Robertson	|	In person	|
+|	17	|	GLF	|	Sylvie Robichaud	|	In person	|
+|	18	|	GLF	|	Nicolas Rolland	|	In person	|
+|	19	|	GLF	|	Jolene Sutton	|	In person	|
+|	20	|	GLF	|	François-Étienne Sylvain	|	In person	|
+|	21	|	MAR	|	Mark Billard	|	Virtual	|
+|	22	|	MAR	|	Lynn Collier	|	Virtual	|
+|	23	|	MAR	|	Peter Comeau	|	In person	|
+|	24	|	MAR	|	Tania Davignon-Burton	|	In person	|
+|	25	|	MAR	|	Nell den Heyer	|	Virtual	|
+|	26	|	MAR	|	Danni Harper	|	Virtual	|
+|	27	|	MAR	|	Kelly Kraska	|	Virtual	|
+|	28	|	MAR	|	George Nau	|	In person	|
+|	29	|	MAR	|	Gregory Puncher	|	Virtual	|
+|	30	|	NL	|	Aaron Adamack	|	Virtual	|
+|	31	|	NL	|	Kelly Antaya	|	Virtual	|
+|	32	|	NL	|	Dwight Drover	|	Virtual	|
+|	33	|	NL	|	Gillian Forbes	|	In person	|
+|	34	|	NL	|	Marc Legresley	|	Virtual	|
+|	35	|	NL	|	Andrea Perreault	|	Virtual	|
+|	36	|	NL	|	Hannah Polaczek	|	Virtual	|
+|	37	|	NL	|	Meredith Schofield	|	In person	|
+|	38	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	39	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	40	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	41	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	42	|	PAC	|	Erin Herder	|	Virtual	|
+|	43	|	PAC	|	Kendra Holt	|	Virtual	|
+|	44	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	45	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	46	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	47	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	48	|	PAC	|	Judy McArthur	|	Virtual	|
+|	49	|	PAC	|	Audrey Ty	|	Virtual	|
+|	50	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	51	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	52	|	QUE	|	Rénald Belley	|	Virtual	|
+|	53	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	54	|	QUE	|	Hélène Dionne	|	In person	|
+|	55	|	QUE	|	Kim Emond	|	In person	|
+|	56	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	57	|	QUE	|	Andrew Smith	|	Virtual	|
+
 
 ## Expected deliverables
 
