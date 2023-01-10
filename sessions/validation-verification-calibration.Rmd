@@ -22,18 +22,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Validation
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- American Plaice
 
 ## Verification
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Winter Flounder ages by Marie-France
+- White Hake ages by Andrew
 
 ## Calibration
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- American Plaice example
+- Andrew White Hake experience
+

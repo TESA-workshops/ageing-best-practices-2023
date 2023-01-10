@@ -20,25 +20,24 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 Rapporteurs:
 | Time |  |
 |  ---- |  - |
-| 9:00 | Introductions |
-| 9:15 | Motivation for workshop (Daniel Ricard and Peter Comeau) |
-| 9:45 | Ageing basics (Peter Comeau and Daniel Ricard) |
-| 10:15 | Sampling design ideas of relevance to collecting ageing structures (Daniel Ricard) |
+| 9:00 | Roundtable: participants introduction |
+| 9:15 | Motivation for workshop and presentation on ageing basics (Peter Comeau and Daniel Ricard) |
+| 10:00 | Opening remarks by external expert (Julie Davies) |
 | 10:30 | Break |
 | 10:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
-| 12:00 | Do head count for Wednesday dinner, then lunch |
-| 13:15 | Otolith preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
+| 12:00 | Do head count for Wednesday dinner, then lunch break |
+| 13:00 | Otolith preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
+| 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
 | 16:20 | Overview of the day and plan for tomorrow |
-| 17:00 | 5 à 7 (optional)|
-
+| 17:00 | 5 à 7 (optional) |
 
 **Opening remarks by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (15-20 mins)
 
-**Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
+**Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - A whirlwind tour of ageing activities in the Pacific Region of DFO
 
-**Plenary talk by DFO expert (30-45 mins)** Stephen Wischniowski (Pacific Region) - A whirlwind tour of ageing activities in the Pacific Region of DFO
+**Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
 **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
 
@@ -58,21 +57,19 @@ Rapporteurs:
 | 9:30 | Quick recap of Tuesday |
 | 9:45 | SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | Taking good images of otoliths (Karen Robertson) |
+| 10:45 | Taking good images of otoliths (Karen Robertson and others) |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 | 12:00 | Lunch |
-| 13:15 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard) |
+| 13:15 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies) |
 | 14:45 | Break |
-| 15:00 | Measuring growth increments of annotated otolith images (Daniel Ricard) |
+| 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
 | 16:20 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
 | 18:30 | Group dinner at Gusto (optional)|
 
 **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots (30-45 mins)
 
-**Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and then annotating them in SmartDots  (10-15 mins)
-
-**Short talk** Émilie Simard (IML) - An impartial asssessment of whether you should get a Keyence microscope for your ageing lab, and what you can do with such a nice tool (10-15 mins)
+**Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins)
 
 **Short talk** David Fishman (GFC) - Onwards with a DFO SmartDots Web API, and integration with a digital image archival and retrieval app (10-15 mins)
 
@@ -81,7 +78,8 @@ Rapporteurs:
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | Fitting growth models to ageing data (Daniel Ricard)|
+| 9:15 | Analyses of ageing data (Lisa Ailloud) |
+| 9:45 | Fitting growth models to ageing data (Daniel Ricard)|
 | 10:30 | Break |
 | 10:45 | Computing catch-at-age matrices using length samples and age-length keys |
 | 12:00 | Lunch |
@@ -93,9 +91,9 @@ Rapporteurs:
 
 **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins)
 
-**Short talk** Mike McMahon (BIO) - From surveys to published assessment, a data manager's perspective on the use of age information (10-15 mins)
+**Plenary talk by external expert** Lisa Ailloud (NOAA NMFS) - A general theory of age-length keys (20-30 mins)
 
-**Short talk** Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins)
+**Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins)
 
 **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
 
@@ -104,7 +102,7 @@ Rapporteurs:
 | Institution | Name | Expertise |
 | ------ | -----| -----|
 | DTU-Aqua	| Julie Davies | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
-
+| NOAA-NMFS	| Lisa Ailloud | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
 
 ### Workshop dinner
 
@@ -189,7 +187,6 @@ List of participants as of 2023-01-09
 |	55	|	QUE	|	Kim Emond	|	In person	|
 |	56	|	QUE	|	Nicolas Le Corre	|	Virtual	|
 |	57	|	QUE	|	Andrew Smith	|	Virtual	|
-
 
 ## Expected deliverables
 

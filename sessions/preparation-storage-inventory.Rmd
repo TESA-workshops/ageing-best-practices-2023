@@ -22,18 +22,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Preparation
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Epoxy
+
+- Saws, noise and dust
+
 
 ## Storage
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Ideal situation
+
+- Reality
+
+
 
 ## Inventory
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- OpenData and FGP datasets as a starting point
+
