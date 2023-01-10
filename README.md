@@ -42,7 +42,7 @@ Rapporteurs:
 
 **Opening remarks by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (15-20 mins)
 
-**Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - A whirlwind tour of ageing activities in the Pacific Region of DFO
+**Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck
 
 **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
 
