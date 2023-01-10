@@ -14,6 +14,13 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 [Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) and [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
 
+## External experts
+
+| Name | Institution | Expertise |
+| ------ | -----| -----|
+| Julie Davies	| DTU-Aqua (Denmark) | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
+| Lisa Ailloud	| NOAA-NMFS (USA) | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
+
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
@@ -97,12 +104,6 @@ Rapporteurs:
 
 **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
 
-### External experts
-
-| Institution | Name | Expertise |
-| ------ | -----| -----|
-| DTU-Aqua	| Julie Davies | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
-| NOAA-NMFS	| Lisa Ailloud | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
 
 ### Workshop dinner
 
