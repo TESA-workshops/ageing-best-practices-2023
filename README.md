@@ -40,7 +40,7 @@ Rapporteurs:
 | 16:20 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional) |
 
-**Opening remarks by external expert** Julie Davies (DTU-Aqua)	- Title TBD  (15-20 mins)
+**Opening remarks by external expert (15-20 mins)** Julie Davies (DTU-Aqua)	- Title TBD  
 
 **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck
 
