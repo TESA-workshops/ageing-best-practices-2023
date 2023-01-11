@@ -59,7 +59,7 @@ Rapporteurs:
 |  ---- |  - |
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
 | 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin, and sectioning with surface grinder |
-| 8:40 | Practical demo 3: mounting of herring otoliths in epoxy resin, and otolith imaging |
+| 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
 | 9:00 | Practical demo 4: age determination by visual examination |
 | 9:30 | Quick recap of Tuesday |
 | 9:45 | SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
