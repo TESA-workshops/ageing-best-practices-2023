@@ -167,28 +167,29 @@ List of participants as of 2023-01-11
 |	34	|	NL	|	Marc Legresley	|	Virtual	|
 |	35	|	NL	|	Andrea Perreault	|	Virtual	|
 |	36	|	NL	|	Hannah Polaczek	|	Virtual	|
-|	37	|	NL	|	Meredith Schofield	|	In person	|
-|	38	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	39	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	40	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	41	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	42	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	43	|	PAC	|	Erin Herder	|	Virtual	|
-|	44	|	PAC	|	Kendra Holt	|	Virtual	|
-|	45	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	46	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	47	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	48	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	49	|	PAC	|	Judy McArthur	|	Virtual	|
-|	50	|	PAC	|	Audrey Ty	|	Virtual	|
-|	51	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	52	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	53	|	QUE	|	Rénald Belley	|	Virtual	|
-|	54	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	55	|	QUE	|	Hélène Dionne	|	In person	|
-|	56	|	QUE	|	Kim Emond	|	In person	|
-|	57	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	58	|	QUE	|	Andrew Smith	|	Virtual	|
+|	37	|	NL	|	Kierstyn Rideout	|	In person	|
+|	38	|	NL	|	Meredith Schofield	|	In person	|
+|	39	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	40	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	41	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	42	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	43	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	44	|	PAC	|	Erin Herder	|	Virtual	|
+|	45	|	PAC	|	Kendra Holt	|	Virtual	|
+|	46	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	47	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	48	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	49	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	50	|	PAC	|	Judy McArthur	|	Virtual	|
+|	51	|	PAC	|	Audrey Ty	|	Virtual	|
+|	52	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	53	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	54	|	QUE	|	Rénald Belley	|	Virtual	|
+|	55	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	56	|	QUE	|	Hélène Dionne	|	In person	|
+|	57	|	QUE	|	Kim Emond	|	In person	|
+|	58	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	59	|	QUE	|	Andrew Smith	|	Virtual	|
 
 ## Expected deliverables
 
