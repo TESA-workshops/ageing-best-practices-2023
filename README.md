@@ -127,7 +127,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of participants as of 2023-01-09
+List of participants as of 2023-01-11
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -170,24 +170,25 @@ List of participants as of 2023-01-09
 |	37	|	NL	|	Meredith Schofield	|	In person	|
 |	38	|	PAC	|	Barbara Campbell	|	Virtual	|
 |	39	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	40	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	41	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	42	|	PAC	|	Erin Herder	|	Virtual	|
-|	43	|	PAC	|	Kendra Holt	|	Virtual	|
-|	44	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	45	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	46	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	47	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	48	|	PAC	|	Judy McArthur	|	Virtual	|
-|	49	|	PAC	|	Audrey Ty	|	Virtual	|
-|	50	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	51	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	52	|	QUE	|	Rénald Belley	|	Virtual	|
-|	53	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	54	|	QUE	|	Hélène Dionne	|	In person	|
-|	55	|	QUE	|	Kim Emond	|	In person	|
-|	56	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	57	|	QUE	|	Andrew Smith	|	Virtual	|
+|	40	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	41	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	42	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	43	|	PAC	|	Erin Herder	|	Virtual	|
+|	44	|	PAC	|	Kendra Holt	|	Virtual	|
+|	45	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	46	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	47	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	48	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	49	|	PAC	|	Judy McArthur	|	Virtual	|
+|	50	|	PAC	|	Audrey Ty	|	Virtual	|
+|	51	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	52	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	53	|	QUE	|	Rénald Belley	|	Virtual	|
+|	54	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	55	|	QUE	|	Hélène Dionne	|	In person	|
+|	56	|	QUE	|	Kim Emond	|	In person	|
+|	57	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	58	|	QUE	|	Andrew Smith	|	Virtual	|
 
 ## Expected deliverables
 
