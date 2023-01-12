@@ -24,7 +24,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
-Rapporteurs:
+Rapporteurs: TBD
 | Time |  |
 |  ---- |  - |
 | 9:00 | Roundtable: participants introduction |
@@ -46,7 +46,7 @@ Rapporteurs:
 | 17:00 | 5 à 7 (optional) |
 
 ### Wednesday February 01 - Digital imaging of otoliths
-Rapporteurs:
+Rapporteurs: TBD
 | Time |  |
 |  ---- |  - |
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
@@ -54,48 +54,39 @@ Rapporteurs:
 | 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
 | 9:00 | Practical demo 4: age determination by visual examination |
 | 9:30 | Quick recap of Tuesday |
-| 9:45 | SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
+| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots, a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | Taking good images of otoliths (Karen Robertson and others) |
+| 10:45 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins)|
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
+|       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
 | 13:15 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
-| 16:20 | Overview of the day and plan for tomorrow |
+| 15:30 | Open discussion about digital images and SmartDots |
+| 16:00 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
 | 18:30 | Group dinner at Gusto (optional)|
 
-**Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots (30-45 mins)
-
-**Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins)
-
-**Short talk** David Fishman (GFC) - Onwards with a DFO SmartDots Web API, and integration with a digital image archival and retrieval app (10-15 mins)
 
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
-Rapporteurs:
+Rapporteurs: TBD
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | Analyses of ageing data (Lisa Ailloud) |
-| 9:45 | Fitting growth models to ageing data (Daniel Ricard)|
+| 9:15 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) |
+| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) |
 | 10:30 | Break |
-| 10:45 | Computing catch-at-age matrices using length samples and age-length keys |
+| 10:45 | Fitting growth models to ageing data (Daniel Ricard)|
+| 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
+|       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
+|       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
 | 12:00 | Lunch |
 | 13:00 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
 | 14:00 | Group discussion to draft recommendations for "best practices in ageing" |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document |
 | 16:20 | Wrap up (Ricard and Comeau) |
-
-**Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins)
-
-**Plenary talk by external expert** Lisa Ailloud (NOAA NMFS) - A general theory of age-length keys (20-30 mins)
-
-**Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins)
-
-**Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins)
-
 
 ### Workshop dinner
 
