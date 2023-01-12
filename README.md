@@ -119,7 +119,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of the 61 participants as of 2023-01-12 (23 in person and 38 virtual)
+List of the 60 participants as of 2023-01-12 (23 in person and 37 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -178,12 +178,11 @@ List of the 61 participants as of 2023-01-12 (23 in person and 38 virtual)
 |	53	|	PAC	|	Audrey Ty	|	Virtual	|
 |	54	|	PAC	|	Stephen Wischniowski	|	Virtual	|
 |	55	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	56	|	QUE	|	Rénald Belley	|	Virtual	|
-|	57	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	58	|	QUE	|	Hélène Dionne	|	In person	|
-|	59	|	QUE	|	Kim Emond	|	In person	|
-|	60	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	61	|	QUE	|	Andrew Smith	|	Virtual	|
+|	56	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	57	|	QUE	|	Hélène Dionne	|	In person	|
+|	58	|	QUE	|	Kim Emond	|	In person	|
+|	59	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	60	|	QUE	|	Andrew Smith	|	Virtual	|
 
 ## Expected deliverables
 
