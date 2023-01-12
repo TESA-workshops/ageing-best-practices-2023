@@ -119,7 +119,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of participants as of 2023-01-12
+List of the 61 participants as of 2023-01-12 (23 in person and 38 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
