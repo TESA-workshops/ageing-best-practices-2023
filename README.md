@@ -82,7 +82,9 @@ Rapporteurs: TBD
 |       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
 |       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
 | 12:00 | Lunch |
-| 13:00 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
+| 13:00 | Past, present and future of age determination |
+|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Title TBD (10-15 mins) |
+| 13:30 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
 | 14:00 | Group discussion to draft recommendations for "best practices in ageing" |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document |

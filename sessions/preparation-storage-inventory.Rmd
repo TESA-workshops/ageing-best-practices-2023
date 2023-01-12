@@ -1,7 +1,7 @@
 ---
 title: "Obtaining and cataloguing ageing structures, preparation methods, storage and inventory"
 author: "Daniel Ricard - DFO Science Gulf Region"
-date: "2023-01-31"
+date: "2023-01-31 - TESA Workshop"
 output: 
   beamer_presentation:
     theme: "Madrid"
