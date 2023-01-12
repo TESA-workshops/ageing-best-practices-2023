@@ -43,13 +43,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - OpenData and FGP datasets as a starting point
 - Write a metadata record for each "otolith collection"
 - The dataset shared in the public domain is the summary of physical otoliths in the collection
-- By also adding the number of otoliths that have been aged, the "git diff" on the OpenData dataset represents a progress report of sort
--
+- By also adding the number of otoliths that have been aged, the "git diff" on the OpenData dataset represents a [progress report of sort](https://github.com/dfo-gulf-science/fgp-datasets/commit/a7683278f9eba33c5a55f0fd8b092cb7867de21e)
 
 - Gulf Region otolith collections on [dmapps](http://dmapps/en/inventory/resources/8cc8a924-1dbf-11ea-9bf1-1860247f53e3/)
-  - 4T American Plaice on [dmapps](http://dmapps/en/inventory/resources/c1c739ee-a0ae-0e14-9c11-8568b75169b9/), on [OpenData]() and on [FGP]()
-  - 4T Atlantic Cod on [dmapps](http://dmapps/en/inventory/resources/1d41c12a-4d33-8992-e651-d76e481c7862/), on [OpenData]() and on [FGP]()
-  - 4T White Hake on [dmapps](http://dmapps/en/inventory/resources/b3356b27-c9c4-198a-592e-6c271bd4680a/), on [OpenData]() and on [FGP]()
-  - 4T Yellowtail Flounder on [dmapps](http://dmapps/en/inventory/resources/98913402-688c-1615-9895-ec96b214be5a/), on [OpenData]() and on [FGP]()
-  - 4T Winter Flounder on [dmapps](http://dmapps/en/inventory/resources/bb3143f3-ae44-cb62-924d-a78304e1d1b4/), on [OpenData]() and on [FGP]()
-  - 4RST Witch Flounder on [dmapps](http://dmapps/en/inventory/resources/f1c1efaa-33fa-d224-05e4-bc1cc329197e/), on [OpenData]() and on [FGP]()
+  - 4T American Plaice on [dmapps](http://dmapps/en/inventory/resources/c1c739ee-a0ae-0e14-9c11-8568b75169b9/), on [OpenData](https://open.canada.ca/data/dataset/c1c739ee-a0ae-0e14-9c11-8568b75169b9) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/c1c739ee-a0ae-0e14-9c11-8568b75169b9)
+  - 4T Atlantic Cod on [dmapps](http://dmapps/en/inventory/resources/1d41c12a-4d33-8992-e651-d76e481c7862/), on [OpenData](https://open.canada.ca/data/dataset/1d41c12a-4d33-8992-e651-d76e481c7862) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/1d41c12a-4d33-8992-e651-d76e481c7862)
+  - 4T White Hake on [dmapps](http://dmapps/en/inventory/resources/b3356b27-c9c4-198a-592e-6c271bd4680a/), on [OpenData](https://open.canada.ca/data/dataset/b3356b27-c9c4-198a-592e-6c271bd4680a) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/b3356b27-c9c4-198a-592e-6c271bd4680a)
+  - 4T Yellowtail Flounder on [dmapps](http://dmapps/en/inventory/resources/98913402-688c-1615-9895-ec96b214be5a/), on [OpenData](https://open.canada.ca/data/dataset/98913402-688c-1615-9895-ec96b214be5a) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/98913402-688c-1615-9895-ec96b214be5a)
+  - 4T Winter Flounder on [dmapps](http://dmapps/en/inventory/resources/bb3143f3-ae44-cb62-924d-a78304e1d1b4/), on [OpenData](https://open.canada.ca/data/dataset/bb3143f3-ae44-cb62-924d-a78304e1d1b4) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/bb3143f3-ae44-cb62-924d-a78304e1d1b4)
+  - 4RST Witch Flounder on [dmapps](http://dmapps/en/inventory/resources/f1c1efaa-33fa-d224-05e4-bc1cc329197e/), on [OpenData](https://open.canada.ca/data/dataset/f1c1efaa-33fa-d224-05e4-bc1cc329197e) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/f1c1efaa-33fa-d224-05e4-bc1cc329197e)

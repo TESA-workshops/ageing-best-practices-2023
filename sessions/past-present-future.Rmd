@@ -1,7 +1,7 @@
 ---
 title: "Past, present and future of age determination using otoliths"
 author: "Daniel Ricard - DFO Science Gulf Region"
-date: "2023-01-21 to 2023-02-02 - TESA Workshop"
+date: "2023-02-02"
 output: 
   beamer_presentation:
     theme: "Madrid"

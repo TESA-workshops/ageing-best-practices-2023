@@ -69,10 +69,12 @@ suppressPackageStartupMessages(library(gulf))
 
 - Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys
 
+- [Past, present and future of age determination](./past-present-future.pdf)
+
 ## Recommendations
 
 
-## Proceedings draft
+## Proceedings draft document
 
 - [draft DFO Technical Report](../proceedings/_book/techreport-english.pdf)
 

@@ -1,5 +1,5 @@
 ---
-title: "Archiving of digital images and integration into SmartDots"
+title: "Getting data out of SmartDots"
 author: "Daniel Ricard - DFO Science Gulf Region"
 date: "2023-02-01"
 output: 
@@ -12,7 +12,7 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[SmartDots]{Archiving of digital images and integration into SmartDots}}
+- \AtBeginDocument{\title[SmartDots]{Getting growth increments data out of SmartDots}}
 - \usepackage{bm}
 ---
 
@@ -20,20 +20,11 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Preparation
+## SmartDots reporting
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+## Growth increments
 
-## Storage
+## Biological intercept
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+## Growth trajectories
 
-## Inventory
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
