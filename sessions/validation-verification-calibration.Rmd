@@ -1,7 +1,7 @@
 ---
 title: "Age validation, age verification and ager calibration"
 author: "Daniel Ricard - DFO Science Gulf Region"
-date: "2023-01-21 to 2023-02-02 - TESA Workshop"
+date: "2023-01-31"
 output: 
   beamer_presentation:
     theme: "Madrid"
@@ -20,17 +20,59 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Validation
+## Standard Operating Procedures document
 
-- American Plaice
+\begin{columns}
+\column{0.5\textwidth}
+Our regional attempt at rescuing and formalising the available information about ageing procedures
 
-## Verification
+\column{0.5\textwidth}
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{SOP-cover.png}
+\end{center}
 
-- Winter Flounder ages by Marie-France
-- White Hake ages by Andrew
+\end{columns}
 
-## Calibration
 
-- American Plaice example
-- Andrew White Hake experience
+## Age validation
 
+- The review by @Campana-2001-review is a must-read for anyone involved in age determination activities
+
+- A necessary step to establish the existence and the frequency of opaque and translucent zones
+
+## Age validation - 4T American Plaice
+
+\begin{columns}
+\column{0.5\textwidth}
+A validation study usually involves a bomb radiocarbon assay
+
+\column{0.5\textwidth}
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{Morin-et-al-cover.png}
+\end{center}
+
+\end{columns}
+
+
+## Otolith reference collection
+
+- Physical collection
+
+- Digital images of physical collection
+
+## Ager calibration
+
+- American Plaice and White Hake examples
+  - R Markdown document that performs a calibration run, where the assigned ages are compared to the "true" ages in the reference collection
+
+- Otolith exchange with other labs
+
+## Age verification
+
+- Recent example for American Plaice and Winter Flounder
+- R Markdown document that provides the information required to verify and validate the assigned ages 
+- Outliers are identified and flagged
+  - What constitutes an outlier?
+- The first step is for the ager to go and re-age these otoliths
+- The second step is to ascertain that the identified outliers are aged with certainty
+- The ages are now ready to be included in the production database, in our case in the bio cards

@@ -5,7 +5,7 @@ date: "2023-01-31 to 2023-02-02"
 output: beamer_presentation
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[TESA Workshop on ageing]{TESA workshop Best practices in ageing}}
+- \AtBeginDocument{\title[TESA Workshop on ageing]{TESA workshop - Best practices in ageing}}
 
 ---
 
@@ -17,23 +17,84 @@ suppressPackageStartupMessages(library(gulf))
 
 ## Day 1 - Tuesday January 31 2023
 
+- Basics of ageing by Peter Comeau
 
+- [Obtaining and cataloguing otoliths, preparation, storage and inventory](./preparation-storage-inventory.pdf)
 
-[Validation, verification and calibration](./validation-verification-calibration.pdf)
+- Plenary talk by Tracey Loewen (DFO Central and Arctic)
 
+- Plenary talk by Stephen Wischniowski (DFO Pacific)
+
+- [Validation, verification and calibration](./validation-verification-calibration.pdf)
+
+- Age determination in a production ageing environment
+  - Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
+  - Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region
+  - Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment
+
+- Towards establishing a sclerochronology community within DFO
+
+## Community building ideas
+
+- Community of Age Reading Experts (CARE) as a test case
+- Identify the great value of otolith exchanges between labs
+- Develop a shared understanding of what physical and digital samples we have, and what they were/are/will be used for
 
 ## Day 2 - Wednesday February 01 2023
 
+- Practical sessions / tour of the GFC ageing lab
+
+- SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies)
+
+- Taking good images of otoliths (Karen Robertson and others)
+
+- Archiving of digital images and integration with SmartDots (David Fishman and Daniel Ricard)
+
+- SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies)
+
+- [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments..pdf)
+
+
 ## Day 3 - Thursday February 02 2023
 
-[Growth models](./growth-models.pdf)
+- Plenary talk by Lisa Ailloud (NOAA NMFS SEFSC)
 
-[Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
+- Plenary talk by Andrea Perreault (NAFC) 
+
+- [Growth models](./growth-models.pdf)
+
+- [Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
+
+- CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments
+
+- Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys
 
 ## Recommendations
 
 
+## Proceedings draft
 
-## Proceedings
+- [draft DFO Technical Report](../proceedings/_book/techreport-english.pdf)
 
 
+## Homework results - by region
+
+```{r homework0, include=FALSE}
+in.df <- readxl::read_xlsx("../planning/Ageing-workshop-regional-homework-all-regions.xlsx", skip=3)
+in.df$ageing.structure <- in.df$`Ageing structure`
+```
+
+```{r homework1}
+library(ggplot2)
+g <- ggplot(data=in.df, aes(factor(Region))) +
+  geom_bar()
+g
+```
+
+## Homework results - by ageing structure
+
+```{r homework2}
+g <- ggplot(data=in.df, aes(factor(ageing.structure))) +
+  geom_bar()
+g
+```

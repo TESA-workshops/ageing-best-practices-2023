@@ -52,11 +52,11 @@ Rapporteurs: TBD
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
 | 8:20 | Practical demo 2: mounting of Atlantic Cod otoliths in epoxy resin, and sectioning with surface grinder |
 | 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
-| 9:00 | Practical demo 4: age determination by visual examination |
+| 9:00 | Practical demo 4: age determination by visual examination of whole otoliths, example with American Plaice |
 | 9:30 | Quick recap of Tuesday |
 | 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots, a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins)|
+| 10:45 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
@@ -79,7 +79,7 @@ Rapporteurs: TBD
 | 10:30 | Break |
 | 10:45 | Fitting growth models to ageing data (Daniel Ricard)|
 | 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
-|       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
+|       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
 |       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
 | 12:00 | Lunch |
 | 13:00 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |

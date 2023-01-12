@@ -1,7 +1,7 @@
 ---
-title: "Otolith preparation methods, storage and inventory of ageing structures"
+title: "Obtaining and cataloguing ageing structures, preparation methods, storage and inventory"
 author: "Daniel Ricard - DFO Science Gulf Region"
-date: "2023-01-21 to 2023-02-02 - TESA Workshop"
+date: "2023-01-31"
 output: 
   beamer_presentation:
     theme: "Madrid"
@@ -12,13 +12,17 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[Preparation, storage and inventory]{Otolith preparation methods, storage and inventory of ageing structures}}
+- \AtBeginDocument{\title[Preparation, storage and inventory]{Obtaining and cataloguing ageing structures, preparation methods, storage and inventory}}
 - \usepackage{bm}
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Obtaining ageing structures
+
+
 
 ## Preparation
 
@@ -34,8 +38,18 @@ knitr::opts_chunk$set(echo = FALSE)
 - Reality
 
 
-
 ## Inventory
 
 - OpenData and FGP datasets as a starting point
+- Write a metadata record for each "otolith collection"
+- The dataset shared in the public domain is the summary of physical otoliths in the collection
+- By also adding the number of otoliths that have been aged, the "git diff" on the OpenData dataset represents a progress report of sort
+-
 
+- Gulf Region otolith collections on [dmapps](http://dmapps/en/inventory/resources/8cc8a924-1dbf-11ea-9bf1-1860247f53e3/)
+  - 4T American Plaice on [dmapps](http://dmapps/en/inventory/resources/c1c739ee-a0ae-0e14-9c11-8568b75169b9/), on [OpenData]() and on [FGP]()
+  - 4T Atlantic Cod on [dmapps](http://dmapps/en/inventory/resources/1d41c12a-4d33-8992-e651-d76e481c7862/), on [OpenData]() and on [FGP]()
+  - 4T White Hake on [dmapps](http://dmapps/en/inventory/resources/b3356b27-c9c4-198a-592e-6c271bd4680a/), on [OpenData]() and on [FGP]()
+  - 4T Yellowtail Flounder on [dmapps](http://dmapps/en/inventory/resources/98913402-688c-1615-9895-ec96b214be5a/), on [OpenData]() and on [FGP]()
+  - 4T Winter Flounder on [dmapps](http://dmapps/en/inventory/resources/bb3143f3-ae44-cb62-924d-a78304e1d1b4/), on [OpenData]() and on [FGP]()
+  - 4RST Witch Flounder on [dmapps](http://dmapps/en/inventory/resources/f1c1efaa-33fa-d224-05e4-bc1cc329197e/), on [OpenData]() and on [FGP]()
