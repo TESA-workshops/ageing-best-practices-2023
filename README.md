@@ -162,28 +162,28 @@ List of participants as of 2023-01-12
 |	37	|	NL	|	Hannah Polaczek	|	Virtual	|
 |	38	|	NL	|	Kierstyn Rideout	|	In person	|
 |	39	|	NL	|	Meredith Schofield	|	In person	|
-|	40	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	41	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	42	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	43	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	44	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	45	|	PAC	|	Erin Herder	|	Virtual	|
-|	46	|	PAC	|	Kendra Holt	|	Virtual	|
-|	47	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	48	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	49	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	50	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	51	|	PAC	|	Judy McArthur	|	Virtual	|
-|	52	|	PAC	|	Audrey Ty	|	Virtual	|
-|	53	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	54	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	55	|	QUE	|	Rénald Belley	|	Virtual	|
-|	56	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	57	|	QUE	|	Hélène Dionne	|	In person	|
-|	58	|	QUE	|	Kim Emond	|	In person	|
-|	59	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	60	|	QUE	|	Andrew Smith	|	Virtual	|
-
+|	40	|	NL	|	Jaime Thomson	|	In person	|
+|	41	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	42	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	43	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	44	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	45	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	46	|	PAC	|	Erin Herder	|	Virtual	|
+|	47	|	PAC	|	Kendra Holt	|	Virtual	|
+|	48	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	49	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	50	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	51	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	52	|	PAC	|	Judy McArthur	|	Virtual	|
+|	53	|	PAC	|	Audrey Ty	|	Virtual	|
+|	54	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	55	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	56	|	QUE	|	Rénald Belley	|	Virtual	|
+|	57	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	58	|	QUE	|	Hélène Dionne	|	In person	|
+|	59	|	QUE	|	Kim Emond	|	In person	|
+|	60	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	61	|	QUE	|	Andrew Smith	|	Virtual	|
 
 ## Expected deliverables
 
