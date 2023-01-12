@@ -31,27 +31,19 @@ Rapporteurs:
 | 9:15 | Motivation for workshop and presentation on ageing basics (Peter Comeau and Daniel Ricard) |
 | 10:00 | Opening remarks by external expert (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
+| 10:45 | Obtaining otoliths, preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
+| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | Otolith preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
+| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck |
+| 13:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
+|       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
+|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) |
+|       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) |
 | 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
 | 16:20 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional) |
-
-**Opening remarks by external expert (15-20 mins)** Julie Davies (DTU-Aqua)	- Title TBD  
-
-**Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck
-
-**Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths
-
-**Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
-
-**Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins)
-
-**Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins)
-
 
 ### Wednesday February 01 - Digital imaging of otoliths
 Rapporteurs:
