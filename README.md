@@ -119,7 +119,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of the 60 participants as of 2023-01-12 (23 in person and 37 virtual)
+List of the 60 participants as of 2023-01-12 (22 in person and 38 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -147,7 +147,7 @@ List of the 60 participants as of 2023-01-12 (23 in person and 37 virtual)
 |	22	|	MAR	|	Mark Billard	|	Virtual	|
 |	23	|	MAR	|	Lynn Collier	|	Virtual	|
 |	24	|	MAR	|	Peter Comeau	|	In person	|
-|	25	|	MAR	|	Tania Davignon-Burton	|	In person	|
+|	25	|	MAR	|	Tania Davignon-Burton	|	Virtual	|
 |	26	|	MAR	|	Nell den Heyer	|	Virtual	|
 |	27	|	MAR	|	Danni Harper	|	Virtual	|
 |	28	|	MAR	|	Kelly Kraska	|	Virtual	|
