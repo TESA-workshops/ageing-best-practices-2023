@@ -36,9 +36,11 @@ suppressPackageStartupMessages(library(gulf))
 
 ## Community building ideas
 
-- Community of Age Reading Experts (CARE) as a test case
+- Community of Age Reading Experts ([CARE](https://care.psmfc.org/)) as a test case
 - Identify the great value of otolith exchanges between labs
 - Develop a shared understanding of what physical and digital samples we have, and what they were/are/will be used for
+- Shared References related to age determination
+- ...
 
 ## Day 2 - Wednesday February 01 2023
 
