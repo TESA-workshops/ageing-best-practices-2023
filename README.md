@@ -148,7 +148,7 @@ List of the 63 participants as of 2023-01-19 (25 in person and 38 virtual)
 |	30	|	MAR	|	Liz Miller	|	In person	|
 |	31	|	MAR	|	George Nau	|	Virtual	|
 |	32	|	MAR	|	Gregory Puncher	|	In person	|
-	33	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
+|	33	|	MAR	|	Catriona Regnier-McKellar |	Virtual	|
 |	34	|	NL	|	Aaron Adamack	|	Virtual	|
 |	35	|	NL	|	Kelly Antaya	|	Virtual	|
 |	36	|	NL	|	Dwight Drover	|	Virtual	|
