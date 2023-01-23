@@ -183,6 +183,7 @@ List of the 66 participants as of 2023-01-23 (27 in person and 39 virtual)
 |	65	|	QUE	|	Nicolas Le Corre	|	Virtual	|
 |	66	|	QUE	|	Andrew Smith	|	Virtual	|
 
+
 ## Expected deliverables
 
 Recommendations on what constitutes best practices for ageing procedures, otolith imaging and analyses that use age information.
