@@ -65,12 +65,14 @@ A validation study usually involves a bomb radiocarbon assay
 
 - Digital images of physical collection
 
+
 ## Ager calibration
 
 - American Plaice and White Hake examples
   - R Markdown document that performs a calibration run, where the assigned ages are compared to the "true" ages in the reference collection
 
 - Otolith exchange with other labs
+
 
 ## Age verification
 

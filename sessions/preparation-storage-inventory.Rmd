@@ -20,30 +20,57 @@ header-includes:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Standard operating procedures
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{SOP-EN-cover.png}
+\end{center}
+
+
+
 ## Obtaining ageing structures
 
+- Samples from commercial landings
+  - Port sampling
+  - At-sea observers
+- Samples from research surveys
+  - Length stratified sampling
+  - Sex and length stratified sampling
+
+## Cataloguing
 
 
 ## Preparation
 
-- Epoxy
+- Cleaning
+- Polishing
+- Mounting in epoxy resin
+  - Clear resin
+  - Opaque resin
+- Mounting on wax
+- Mounting on microscope slide
 
-- Saws, noise and dust
+- Sectioning
+  - Saws, noise and dust
+
+- Imaging (more on that tomorrow)
 
 
 ## Storage
 
 - Ideal situation
+  - Central quality-controlled environment with archival level documentation of physical samples 
 
 - Reality
+  - Hapzard collections of different ageing structures located in a number of places, and with varying levels of documentation
 
 
 ## Inventory
 
 - OpenData and FGP datasets as a starting point
-- Write a metadata record for each "otolith collection"
-- The dataset shared in the public domain is the summary of physical otoliths in the collection
-- By also adding the number of otoliths that have been aged, the "git diff" on the OpenData dataset represents a [progress report of sort](https://github.com/dfo-gulf-science/fgp-datasets/commit/a7683278f9eba33c5a55f0fd8b092cb7867de21e)
+- write a metadata record for each "otolith collection"
+- the dataset shared in the public domain is the summary of physical otoliths in the collection
+- by also adding the number of otoliths that have been aged, the "git diff" on the OpenData dataset represents a [progress report of sort](https://github.com/dfo-gulf-science/fgp-datasets/commit/a7683278f9eba33c5a55f0fd8b092cb7867de21e)
 
 - Gulf Region otolith collections on [dmapps](http://dmapps/en/inventory/resources/8cc8a924-1dbf-11ea-9bf1-1860247f53e3/)
   - 4T American Plaice on [dmapps](http://dmapps/en/inventory/resources/c1c739ee-a0ae-0e14-9c11-8568b75169b9/), on [OpenData](https://open.canada.ca/data/dataset/c1c739ee-a0ae-0e14-9c11-8568b75169b9) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/c1c739ee-a0ae-0e14-9c11-8568b75169b9)
@@ -52,3 +79,5 @@ knitr::opts_chunk$set(echo = FALSE)
   - 4T Yellowtail Flounder on [dmapps](http://dmapps/en/inventory/resources/98913402-688c-1615-9895-ec96b214be5a/), on [OpenData](https://open.canada.ca/data/dataset/98913402-688c-1615-9895-ec96b214be5a) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/98913402-688c-1615-9895-ec96b214be5a)
   - 4T Winter Flounder on [dmapps](http://dmapps/en/inventory/resources/bb3143f3-ae44-cb62-924d-a78304e1d1b4/), on [OpenData](https://open.canada.ca/data/dataset/bb3143f3-ae44-cb62-924d-a78304e1d1b4) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/bb3143f3-ae44-cb62-924d-a78304e1d1b4)
   - 4RST Witch Flounder on [dmapps](http://dmapps/en/inventory/resources/f1c1efaa-33fa-d224-05e4-bc1cc329197e/), on [OpenData](https://open.canada.ca/data/dataset/f1c1efaa-33fa-d224-05e4-bc1cc329197e) and on [FGP](https://gcgeo.gc.ca/geonetwork/metadata/eng/f1c1efaa-33fa-d224-05e4-bc1cc329197e)
+
+## Thoughts and discussion

@@ -22,9 +22,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## SmartDots reporting
 
+
 ## Growth increments
+
 
 ## Biological intercept
 
+
 ## Growth trajectories
+
 

@@ -25,13 +25,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Present
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Otolith collection programs with associated production ageing activities
+- SmartDots and other methods to interact with otolith images
+- Reporting abilities to conduct verifications and calibrations 
 
 ## Future
 
 - Image analysis / Artificial Intelligence 
-- microchemistry
-- imaging as per Keyence capabilities
-
+- Microchemistry
+- Imaging as per Keyence capabilities
+- 

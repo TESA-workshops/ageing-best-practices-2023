@@ -5,7 +5,7 @@ date: "2023-01-31 to 2023-02-02"
 output: beamer_presentation
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[TESA Workshop on ageing]{TESA workshop - Best practices in ageing}}
+- \AtBeginDocument{\title[TESA Workshop on age determination]{TESA workshop - Best practices in age determination}}
 
 ---
 
@@ -15,9 +15,103 @@ suppressPackageStartupMessages(library(ggplot2))
 suppressPackageStartupMessages(library(gulf))
 ```
 
+## What is TESA?
+
+[TESA webpage on GCpedia](https://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES)
+
+
+## Motivations and steps leading to this workshop
+
+- initial idea proposed to TESA committee back in 2021
+- age-based assessments are commonly used in providing science advice
+- many new DFO scientists might not be familiar with best practices in fish age determination
+- catch-at-age information is an important component of age-based population models
+
+- there is no community of DFO scientists with age determination tasks beyond regional groups
+
+
+## Land acknowledgment
+
+The city of Moncton is located in traditional Mi'kmaq territory
+
+
+[Elsipogtog Mi'kmaq cultural centre](https://heritagepathtour.com/)
+
+[Site d’interprétation Micmac de Gespeg](http://www.micmacgespeg.ca/)
+
+
+## Workshop participants
+
+- potential participants initially identified regionally through TESA
+- participants that received and accepted the Outlook meeting request
+- snowball effect of having a virtual event, and the fact that we didn't turn anyone down
+- please make sure that your presence is correctly noted in [GitHub README page](https://github.com/TESA-workshops/ageing-best-practices-2023)
+
+- __please make sure that your presence is correctly documented in the draft workshop proceedings__
+
+
+```{r participants, include=FALSE}
+par.df <- readxl::read_xlsx("../planning/workshop-participants.xlsx", sheet = "for-README", skip=1)
+par.df <- par.df[2:nrow(par.df),c(2,4,6,8)]
+
+```
+```{r, results='asis'}
+knitr::kable(aggregate(Number~Region,par.df,length))
+```
+
+## External experts
+\includegraphics[width=0.60\textwidth]{julie.png}
+
+\includegraphics[width=1.0\textwidth]{lisa.png}
+
+## External expert that says hello
+
+\begin{columns}
+\column{0.3\textwidth}
+\begin{small}
+Hi Dan and Peter,
+
+As you can see from these photos, I am having a miserable time here, so the least you can do is to toast me in my time of despair...
+
+All the best,
+
+Steve
+\end{small}
+\column{0.7\textwidth}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{campana.png}
+\includegraphics[width=0.5\textwidth]{campana2.png}
+\end{center}
+
+\end{columns}
+
+## Training vs. workshop
+
+- Share your ideas and experiences
+- Ask questions that may have an answer within the participants' collective knowledge 
+- Formulating best practices can also mean identifying bad practices
+- Our shared goal is to obtain age estimates that are unbiased and precise
+
+- Collective experience of workshop participants is vast
+
+
+## Virtual meeting
+
+- In person participants
+  - Rotating rapporteur role
+  - Use your microphone when talking
+  
+- Guidelines for MS Teams 
+  - Raise hand to make an intervention
+  - Turn on your camera when speaking (unless you have bandwidth issues)
+  - Unmute yourself to talk
+
+- We will pause and repeat if there are connection issues with the external experts
+
+
 ## Day 1 - Tuesday January 31 2023
 
-- Basics of ageing by Peter Comeau
+- Basics of age determination by Peter Comeau
 
 - [Obtaining and cataloguing otoliths, preparation, storage and inventory](./preparation-storage-inventory.pdf)
 
@@ -33,6 +127,11 @@ suppressPackageStartupMessages(library(gulf))
   - Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment
 
 - Towards establishing a sclerochronology community within DFO
+
+## Roundtable of introductions for in person participants
+
+- Name, position and region, mandated tasks that are making you attend this workshop
+
 
 ## Community building ideas
 
