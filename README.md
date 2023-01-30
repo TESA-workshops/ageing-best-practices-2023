@@ -112,7 +112,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of the 68 participants as of 2023-01-29 (27 in person and 41 virtual)
+List of the 69 participants as of 2023-01-30 (27 in person and 42 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -153,37 +153,38 @@ List of the 68 participants as of 2023-01-29 (27 in person and 41 virtual)
 |	35	|	MAR	|	George Nau	|	Virtual	|
 |	36	|	MAR	|	Gregory Puncher	|	In person	|
 |	37	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
-|	38	|	NL	|	Aaron Adamack	|	Virtual	|
-|	39	|	NL	|	Kelly Antaya	|	Virtual	|
-|	40	|	NL	|	Dwight Drover	|	Virtual	|
-|	41	|	NL	|	Gillian Forbes	|	In person	|
-|	42	|	NL	|	Victoria Healey	|	Virtual	|
-|	43	|	NL	|	Marc Legresley	|	Virtual	|
-|	44	|	NL	|	Andrea Perreault	|	Virtual	|
-|	45	|	NL	|	Hannah Polaczek	|	Virtual	|
-|	46	|	NL	|	Kierstyn Rideout	|	In person	|
-|	47	|	NL	|	Meredith Schofield	|	In person	|
-|	48	|	NL	|	Jaime Thomson	|	In person	|
-|	49	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	50	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	51	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	52	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	53	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	54	|	PAC	|	Erin Herder	|	Virtual	|
-|	55	|	PAC	|	Kendra Holt	|	Virtual	|
-|	56	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	57	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	58	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	59	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	60	|	PAC	|	Judy McArthur	|	Virtual	|
-|	61	|	PAC	|	Audrey Ty	|	Virtual	|
-|	62	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	63	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	64	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	65	|	QUE	|	Hélène Dionne	|	In person	|
-|	66	|	QUE	|	Kim Emond	|	In person	|
-|	67	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	68	|	QUE	|	Andrew Smith	|	Virtual	|
+|	38	|	MAR	|	Emily Way-Nee	|	Virtual	|
+|	39	|	NL	|	Aaron Adamack	|	Virtual	|
+|	40	|	NL	|	Kelly Antaya	|	Virtual	|
+|	41	|	NL	|	Dwight Drover	|	Virtual	|
+|	42	|	NL	|	Gillian Forbes	|	In person	|
+|	43	|	NL	|	Victoria Healey	|	Virtual	|
+|	44	|	NL	|	Marc Legresley	|	Virtual	|
+|	45	|	NL	|	Andrea Perreault	|	Virtual	|
+|	46	|	NL	|	Hannah Polaczek	|	Virtual	|
+|	47	|	NL	|	Kierstyn Rideout	|	In person	|
+|	48	|	NL	|	Meredith Schofield	|	In person	|
+|	49	|	NL	|	Jaime Thomson	|	In person	|
+|	50	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	51	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	52	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	53	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	54	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	55	|	PAC	|	Erin Herder	|	Virtual	|
+|	56	|	PAC	|	Kendra Holt	|	Virtual	|
+|	57	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	58	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	59	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	60	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	61	|	PAC	|	Judy McArthur	|	Virtual	|
+|	62	|	PAC	|	Audrey Ty	|	Virtual	|
+|	63	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	64	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	65	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	66	|	QUE	|	Hélène Dionne	|	In person	|
+|	67	|	QUE	|	Kim Emond	|	In person	|
+|	68	|	QUE	|	Nicolas Le Corre	|	Virtual	|
+|	69	|	QUE	|	Andrew Smith	|	Virtual	|
 
 
 ## Expected deliverables

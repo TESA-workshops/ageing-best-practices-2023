@@ -17,8 +17,9 @@ suppressPackageStartupMessages(library(gulf))
 
 ## What is TESA?
 
+The purpose of the Technical Expertise in Stock Assessment (TESA) program is to promote stock assessment excellence through organizing national activities that contribute to the development of expertise in stock assessment across DFO.
+ 
 [TESA webpage on GCpedia](https://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES)
-
 
 ## Motivations and steps leading to this workshop
 
@@ -53,14 +54,16 @@ The city of Moncton is located in traditional Mi'kmaq territory
 ```{r participants, include=FALSE}
 par.df <- readxl::read_xlsx("../planning/workshop-participants.xlsx", sheet = "for-README", skip=1)
 par.df <- par.df[2:nrow(par.df),c(2,4,6,8)]
-
 ```
+
+## Workshop participants
+
 ```{r, results='asis'}
 knitr::kable(aggregate(Number~Region,par.df,length))
 ```
 
 ## External experts
-\includegraphics[width=0.60\textwidth]{julie.png}
+\includegraphics[width=0.55\textwidth]{julie.png}
 
 \includegraphics[width=1.0\textwidth]{lisa.png}
 
@@ -115,7 +118,7 @@ Steve
 
 - [Obtaining and cataloguing otoliths, preparation, storage and inventory](./preparation-storage-inventory.pdf)
 
-- Plenary talk by Tracey Loewen (DFO Central and Arctic)
+- Plenary talk by Tracey Loewen and Rick Wastle (DFO Central and Arctic)
 
 - Plenary talk by Stephen Wischniowski (DFO Pacific)
 
@@ -126,12 +129,11 @@ Steve
   - Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region
   - Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment
 
-- Towards establishing a sclerochronology community within DFO
+- Steps towards establishing a sclerochronology community within DFO
 
 ## Roundtable of introductions for in person participants
 
 - Name, position and region, mandated tasks that are making you attend this workshop
-
 
 ## Community building ideas
 
@@ -143,7 +145,7 @@ Steve
 
 ## Day 2 - Wednesday February 01 2023
 
-- Practical sessions / tour of the GFC ageing lab
+- Morning practical sessions / tour of the GFC ageing labs
 
 - SmartDots: a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies)
 
@@ -156,11 +158,12 @@ Steve
 - [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments..pdf)
 
 
+
 ## Day 3 - Thursday February 02 2023
 
 - Plenary talk by Lisa Ailloud (NOAA NMFS SEFSC)
 
-- Plenary talk by Andrea Perreault (NAFC) 
+- Plenary talk by Andrea Perreault (NAFC)
 
 - [Growth models](./growth-models.pdf)
 
@@ -172,7 +175,7 @@ Steve
 
 - [Past, present and future of age determination](./past-present-future.pdf)
 
-## Recommendations
+## Recommendations about "best practices"
 
 
 ## Proceedings draft document
