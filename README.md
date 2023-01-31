@@ -14,7 +14,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 [Daniel Ricard](mailto:Daniel.Ricard@dfo-mpo.gc.ca) (Gulf Fisheries Centre, Moncton NB) and [Peter Comeau](mailto:Peter.Comeau@dfo-mpo.gc.ca) (Bedford Institute of Oceanography, Dartmouth NS)
 
-## External experts
+## External experts (attending virtually)
 
 | Name | Institution | Expertise |
 | ------ | -----| -----|
@@ -27,8 +27,7 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 Rapporteurs: TBD
 | Time |  |
 |  ---- |  - |
-| 9:00 | Roundtable: participants introduction |
-| 9:15 | Motivation for workshop and presentation on ageing basics (Peter Comeau and Daniel Ricard) |
+| 9:00 | Motivation for workshop, in-person participants introduction and presentation on ageing basics (Peter Comeau and Daniel Ricard) |
 | 10:00 | Opening remarks by external expert (Julie Davies) |
 | 10:30 | Break |
 | 10:45 | Obtaining otoliths, preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
@@ -68,7 +67,6 @@ Rapporteurs: TBD
 | 17:00 | 5 à 7 (optional)|
 | 18:30 | Group dinner at Gusto (optional)|
 
-
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
 Rapporteurs: TBD
 | Time |  |
@@ -87,7 +85,7 @@ Rapporteurs: TBD
 | 13:30 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
 | 14:00 | Group discussion to draft recommendations for "best practices in ageing" |
 | 14:45 | Break |
-| 15:00 | Group discussion to draft proceedings document |
+| 15:00 | Group discussion to draft proceedings document and to identify some potential future activities related to age determination |
 | 16:20 | Wrap up (Ricard and Comeau) |
 
 ### Workshop dinner

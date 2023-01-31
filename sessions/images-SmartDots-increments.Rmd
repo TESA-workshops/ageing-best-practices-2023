@@ -22,13 +22,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## SmartDots reporting
 
+- SmartDots provides two options for reporting : a report and a dataset 
 
 ## Growth increments
 
+- The coordinates of annotation can be used to compute the distance between points
 
 ## Biological intercept
 
+- The article by @Campana-1998-backcalculations provides the background to compute a biological intercept
 
 ## Growth trajectories
 
+- We now have an age-length pair for each year in the life of the fish individual from which the otolith was removed
 
