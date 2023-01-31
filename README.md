@@ -74,10 +74,10 @@ Rapporteurs: TBD
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
-| 9:15 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) |
-| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) |
+| 9:15 | Fitting growth models to ageing data (Daniel Ricard) |
+| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins)|
 | 10:30 | Break |
-| 10:45 | Fitting growth models to ageing data (Daniel Ricard)|
+| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) |
 | 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
 |       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
 |       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |

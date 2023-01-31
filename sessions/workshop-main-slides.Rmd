@@ -26,14 +26,14 @@ The purpose of the Technical Expertise in Stock Assessment (TESA) program is to 
 - initial idea proposed to TESA committee back in 2021
 - age-based assessments are commonly used in providing science advice
 - many new DFO scientists might not be familiar with best practices in fish age determination
-- catch-at-age information is an important component of age-based population models
+- catch-at-age information is a key component of age-based population models
 
 - there is no community of DFO scientists with age determination tasks beyond regional groups
 
 
 ## Land acknowledgment
 
-The city of Moncton is located in traditional Mi'kmaq territory
+The city of Moncton is located in traditional [Mi'kmaq territory](https://native-land.ca/maps/territories/mikmaq/)
 
 [Elsipogtog Mi'kmaq cultural centre](https://heritagepathtour.com/)
 
@@ -41,15 +41,17 @@ The city of Moncton is located in traditional Mi'kmaq territory
 
 [Site d’interprétation Micmac de Gespeg](http://www.micmacgespeg.ca/)
 
+[Native Land Digitial](https://native-land.ca/)
+
 
 ## Workshop participants
 
-- potential participants initially identified regionally through TESA
-- participants that received and accepted the Outlook meeting request
+- potential participants initially identified regionally through TESA regional reps
+- our current list of participants is based on those who received and accepted the Outlook meeting request
 - snowball effect of having a virtual event, and the fact that we didn't turn anyone down
-- please make sure that your presence is correctly noted in [GitHub README page](https://github.com/TESA-workshops/ageing-best-practices-2023)
+- please make sure that your presence is correctly noted in the [GitHub README page](https://github.com/TESA-workshops/ageing-best-practices-2023)
 
-- __please make sure that your presence is correctly documented in the draft workshop proceedings__
+- __please make sure that your attendance is correctly documented in the draft workshop proceedings__
 
 
 ```{r participants, include=FALSE}
@@ -58,6 +60,7 @@ par.df <- par.df[2:nrow(par.df),c(2,4,6,8)]
 ```
 
 ## Workshop participants
+Regional breakdown of the `r nrow(par.df)` registered participants 
 
 ```{r, results='asis'}
 knitr::kable(aggregate(Number~Region,par.df,length))
@@ -73,6 +76,7 @@ knitr::kable(aggregate(Number~Region,par.df,length))
 \begin{columns}
 \column{0.3\textwidth}
 \begin{small}
+\noindent
 Hi Dan and Peter,
 
 As you can see from these photos, I am having a miserable time here, so the least you can do is to toast me in my time of despair...
@@ -84,7 +88,7 @@ Steve
 \column{0.7\textwidth}
 \begin{center}
 \includegraphics[width=0.8\textwidth]{campana.png}
-\includegraphics[width=0.5\textwidth]{campana2.png}
+\includegraphics[width=0.65\textwidth]{campana2.png}
 \end{center}
 
 \end{columns}
@@ -92,57 +96,74 @@ Steve
 ## Training vs. workshop
 
 - Share your ideas and experiences
-- Ask questions that may have an answer within the participants' collective knowledge 
+- Ask questions, it is very likely that the answers are within the participants' collective knowledge 
 - Formulating best practices can also mean identifying bad practices
 - Our shared goal is to obtain age estimates that are unbiased and precise
 
-- Collective experience of workshop participants is vast
+- Collective experience of workshop participants is quite vast, and sharing this experience is a goal of this workshop
+- Collectively develop recommendations formulated as "best practices in age determination"
+- Proceedings report to document our work and to share it with colleagues that could not attend
 
-
-## Virtual meeting
+## Hybrid meeting format
 
 - In person participants
   - Rotating rapporteur role
   - Use your microphone when talking
+  - If wireless microphones act up, we will ask participants to put their phones on airplane mode
   
 - Guidelines for MS Teams 
   - Raise hand to make an intervention
   - Turn on your camera when speaking (unless you have bandwidth issues)
   - Unmute yourself to talk
+  - The chat will be monitored for questions and comments
 
 - We will pause and repeat if there are connection issues with the external experts
 
+## Roundtable of introductions for in person participants
+
+- Name, position and region, mandated tasks that are making you attend this workshop, regional context
 
 ## Day 1 - Tuesday January 31 2023
 
-- Basics of age determination by Peter Comeau
+\begin{tiny}
+\begin{itemize}
+\item{Basics of age determination by Peter Comeau (BIO)}
+\item{Opening remarks by Julie Davies}
+\item{\href{./preparation-storage-inventory.pdf}{Obtaining and cataloguing otoliths, preparation, storage and inventory}}
 
-- [Obtaining and cataloguing otoliths, preparation, storage and inventory](./preparation-storage-inventory.pdf)
+\item{Plenary talk by Tracey Loewen and Rick Wastle (DFO Central and Arctic)}
 
-- Plenary talk by Tracey Loewen and Rick Wastle (DFO Central and Arctic)
+\item{Plenary talk by Stephen Wischniowski (DFO Pacific)}
 
-- Plenary talk by Stephen Wischniowski (DFO Pacific)
+\item{\href{./validation-verification-calibration.pdf}{Validation, calibration and verification}}
 
-- [Validation, verification and calibration](./validation-verification-calibration.pdf)
+\item{Age determination in a production ageing environment}
+  \begin{itemize}
+  \item{Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region}
+  \item{Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region}
+  \item{Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment}
+  \end{itemize}
 
-- Age determination in a production ageing environment
-  - Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region
-  - Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region
-  - Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment
+\item{Steps towards establishing a sclerochronology community within DFO}
+\end{itemize}
+\end{tiny}
 
-- Steps towards establishing a sclerochronology community within DFO
+##
 
-## Roundtable of introductions for in person participants
+\begin{center}
+\includegraphics[width=1.0\textwidth]{nice-background.png}
+\end{center}
 
-- Name, position and region, mandated tasks that are making you attend this workshop
 
 ## Community building ideas
 
 - Community of Age Reading Experts ([CARE](https://care.psmfc.org/)) as a test case
-- Identify the great value of otolith exchanges between labs
+- Identify opportunities to have otolith exchanges between labs
 - Develop a shared understanding of what physical and digital samples we have, and what they were/are/will be used for
-- Shared References related to age determination
+- Shared references related to age determination
+- The proceedings from this workshop
 - ...
+
 
 ## Day 2 - Wednesday February 01 2023
 
@@ -159,14 +180,13 @@ Steve
 - [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments..pdf)
 
 
-
 ## Day 3 - Thursday February 02 2023
 
 - Plenary talk by Lisa Ailloud (NOAA NMFS SEFSC)
 
-- Plenary talk by Andrea Perreault (NAFC)
-
 - [Growth models](./growth-models.pdf)
+
+- Plenary talk by Andrea Perreault (NAFC)
 
 - [Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
 

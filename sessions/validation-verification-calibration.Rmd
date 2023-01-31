@@ -12,7 +12,7 @@ bibliography: refs.bib
 csl: csas.csl
 urlcolor: blue
 header-includes:
-- \AtBeginDocument{\title[Validation, verification and calibration]{Age validation, age verification and ager calibration}}
+- \AtBeginDocument{\title[Validation, calibration and verification]{Age validation, ager calibration and age verification}}
 - \usepackage{bm}
 ---
 
@@ -44,7 +44,7 @@ Our regional attempt at rescuing and formalising the available information about
 
 \begin{columns}
 \column{0.5\textwidth}
-A validation study usually involves a bomb radiocarbon assay
+A validation study often involves a bomb radiocarbon assay
 
 \column{0.5\textwidth}
 \begin{center}
@@ -54,17 +54,16 @@ A validation study usually involves a bomb radiocarbon assay
 \end{columns}
 
 
-## 
-
-[DATA QUALITY ASSURANCE REPOSITORY](https://www.ices.dk/community/Pages/PGCCDBS-doc-repository.aspx)
-
 
 ## Otolith reference collection
+
+- Series of otoliths of known ages used to determine whether an ager provides accurate and unbiased ages
 
 - Physical collection
 
 - Digital images of physical collection
 
+- An important step to allow for ager calibration
 
 ## Ager calibration
 
@@ -83,3 +82,8 @@ A validation study usually involves a bomb radiocarbon assay
 - The first step is for the ager to go and re-age these otoliths
 - The second step is to ascertain that the identified outliers are aged with certainty
 - The ages are now ready to be included in the production database, in our case in the bio cards
+
+## ICES data quality assurance repository
+
+[DATA QUALITY ASSURANCE REPOSITORY](https://www.ices.dk/community/Pages/PGCCDBS-doc-repository.aspx)
+
