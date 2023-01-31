@@ -148,7 +148,7 @@ List of the 70 participants as of 2023-01-30 (28 in person and 42 virtual)
 |	32	|	MAR	|	Kelly Kraska	|	In person	|
 |	33	|	MAR	|	Lingbo Lee	|	Virtual	|
 |	34	|	MAR	|	Ellen MacEachern	|	In person	|
-|	35	|	MAR	|	Liz Miller	|	In person	|
+|	35	|	MAR	|	Liz Miller	|	Virtual	|
 |	36	|	MAR	|	George Nau	|	Virtual	|
 |	37	|	MAR	|	Gregory Puncher	|	In person	|
 |	38	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
