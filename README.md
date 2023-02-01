@@ -45,7 +45,7 @@ Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 | 17:00 | 5 à 7 (optional) |
 
 ### Wednesday February 01 - Digital imaging of otoliths
-Rapporteurs: TBD
+Rapporteur: Daniel Ricard
 | Time |  |
 |  ---- |  - |
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
@@ -59,7 +59,7 @@ Rapporteurs: TBD
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
 | 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) |
-| 13:45 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies) |
+| 13:45 | SmartDots reporting features (Julie Davies and Daniel Ricard) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
 | 15:30 | Open discussion about digital images and SmartDots |
