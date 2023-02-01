@@ -36,6 +36,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - The article by @Campana-1998-backcalculations provides the background to compute a biological intercept
 
+```{r}
+plaice.df <- read.csv("C:/Users/RicardD/Downloads/SmartDots_Event_498_Ae51ibklb2dz5z0jo4vqanrl1_468/Report_DotsDistancesSmartDots_2023131e51ibklb2dz5z0jo4vqanrl1.csv")
+IDs <- unique(plaice.df$AnnotationID)
+
+  idx <- which(plaice.df$AnnotationID==IDs[1])
+  this.df <- plaice.df[idx,]
+plot(distance~mark, this.df, type='l', xlim=c(0,30), ylim=c(0,8))
+
+for(ii in IDs[2:length(IDs)]){
+  idx <- which(plaice.df$AnnotationID==ii)
+  this.df <- plaice.df[idx,]
+  oo <- order(this.df$mark)
+  lines(distance~mark, this.df[oo,], type='l')
+}
+```
+
 ## Growth trajectories
 
 - We now have an age-length pair for each year in the life of the fish individual from which the otolith was removed

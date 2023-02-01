@@ -1,0 +1,73 @@
+---
+title: "Literature of relevance to age estimation in marine organisms"
+author: "Daniel Ricard"
+date: '`r paste0("Last modified timestap: ", format(Sys.time(), "%Y-%m-%d %H:%M:%S"))`'
+output: pdf_document
+bibliography: ageing-references.bib
+csl: csas.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## References of interest
+
+If you can only read one paper, read @Campana-2001-review.
+
+
+### Sample size
+
+[@He-etal-2016-sample-size]
+
+[@Goodyear-2019-modelling]
+
+### Ageing basics
+[@Dwyer-etal-2003]
+
+[@Clay-Clay-1991-white-hake]
+
+[@Campana-Neilson-1985-microstructure]
+
+[@Campana-1998-backcalculations]
+
+[@Charles-etal-2013-sectioning]
+
+### Validation studies
+
+[@Armsworthy-Campana-2010-halibut-validation]
+
+[@Morin-etal-2013-plaice-validation]
+
+[@Cadigan-Campana-2016-redfish]
+
+### Growth increments
+
+[@Campana-Thorrold-increments-elements-2001]
+
+[@Sinclair-et-al-2002-CJFAS]
+
+[@Swain-et-al-2007-ProceedingsB]
+
+### Image analysis
+
+[@Moen-etal-2018]
+
+[@Myers-etal-2020]
+
+### Growth models
+
+[@Perreault-etal-CJFSA-2020]
+
+### Catch-at-age
+
+[@Ailloud-Hoenig-2019-theory]
+
+### Chemistry
+
+[@Stanley-etal-2016-cod-geochemistry]
+
+[@Reis-Santos-etal-biogeochemical-2022]
+
+# References
