@@ -87,3 +87,4 @@ A validation study often involves a bomb radiocarbon assay
 
 [DATA QUALITY ASSURANCE REPOSITORY](https://www.ices.dk/community/Pages/PGCCDBS-doc-repository.aspx)
 
+## References

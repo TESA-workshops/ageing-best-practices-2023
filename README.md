@@ -24,17 +24,17 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
-Rapporteurs: TBD
+Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 | Time |  |
 |  ---- |  - |
-| 9:00 | Motivation for workshop, in-person participants introduction and presentation on ageing basics (Peter Comeau and Daniel Ricard) |
+| 9:00 | Motivation for workshop, in-person participants introduction and [presentation on ageing basics](./sessions/Ageing Workshop Comeau.pptx) (Peter Comeau and Daniel Ricard) |
 | 10:00 | Opening remarks by external expert (Julie Davies) |
 | 10:30 | Break |
-| 10:45 | Obtaining otoliths, preparation methods, storage and inventory of ageing structures (Daniel Ricard and others) |
+| 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
 | 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
 | 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck |
-| 13:45 | Age validation, age verification and ager calibration (Daniel Ricard and others) |
+| 13:45 | [Age validation, age verification and ager calibration](./sessions/validation-verification-calibration.pdf) (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
 |       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
@@ -65,7 +65,7 @@ Rapporteurs: TBD
 | 15:30 | Open discussion about digital images and SmartDots |
 | 16:00 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional)|
-| 18:30 | Group dinner at Gusto (optional)|
+| 18:30 | Group dinner at Pump House (optional)|
 
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
 Rapporteurs: TBD
@@ -90,7 +90,7 @@ Rapporteurs: TBD
 
 ### Workshop dinner
 
-For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Gusto Italian Grill & Bar](https://gustoitaliangrill.ca/menu/).
+For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Pump House](https://www.pumphousebrewpub.ca/).
 
 ## Travels
 
@@ -110,7 +110,7 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of the 70 participants as of 2023-01-30 (28 in person and 42 virtual)
+List of the 77 participants as of 2023-01-31 (29 in person and 48 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -143,47 +143,54 @@ List of the 70 participants as of 2023-01-30 (28 in person and 42 virtual)
 |	27	|	MAR	|	Lynn Collier	|	Virtual	|
 |	28	|	MAR	|	Peter Comeau	|	In person	|
 |	29	|	MAR	|	Tania Davignon-Burton	|	Virtual	|
-|	30	|	MAR	|	Nell den Heyer	|	Virtual	|
-|	31	|	MAR	|	Danni Harper	|	Virtual	|
-|	32	|	MAR	|	Kelly Kraska	|	In person	|
-|	33	|	MAR	|	Lingbo Lee	|	Virtual	|
-|	34	|	MAR	|	Ellen MacEachern	|	In person	|
-|	35	|	MAR	|	Liz Miller	|	Virtual	|
-|	36	|	MAR	|	George Nau	|	Virtual	|
-|	37	|	MAR	|	Gregory Puncher	|	In person	|
-|	38	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
-|	39	|	MAR	|	Emily Way-Nee	|	Virtual	|
-|	40	|	NL	|	Aaron Adamack	|	Virtual	|
-|	41	|	NL	|	Kelly Antaya	|	Virtual	|
-|	42	|	NL	|	Dwight Drover	|	Virtual	|
-|	43	|	NL	|	Gillian Forbes	|	In person	|
-|	44	|	NL	|	Victoria Healey	|	Virtual	|
-|	45	|	NL	|	Marc Legresley	|	Virtual	|
-|	46	|	NL	|	Andrea Perreault	|	Virtual	|
-|	47	|	NL	|	Hannah Polaczek	|	Virtual	|
-|	48	|	NL	|	Kierstyn Rideout	|	In person	|
-|	49	|	NL	|	Meredith Schofield	|	In person	|
-|	50	|	NL	|	Jaime Thomson	|	In person	|
-|	51	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	52	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	53	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	54	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	55	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	56	|	PAC	|	Erin Herder	|	Virtual	|
-|	57	|	PAC	|	Kendra Holt	|	Virtual	|
-|	58	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	59	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	60	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	61	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	62	|	PAC	|	Judy McArthur	|	Virtual	|
-|	63	|	PAC	|	Audrey Ty	|	Virtual	|
-|	64	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	65	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	66	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	67	|	QUE	|	Hélène Dionne	|	In person	|
-|	68	|	QUE	|	Kim Emond	|	In person	|
-|	69	|	QUE	|	Nicolas Le Corre	|	Virtual	|
-|	70	|	QUE	|	Andrew Smith	|	Virtual	|
+|	30	|	MAR	|	Allan Debertin	|	Virtual	|
+|	31	|	MAR	|	Nell den Heyer	|	Virtual	|
+|	32	|	MAR	|	Danni Harper	|	Virtual	|
+|	33	|	MAR	|	Kelly Kraska	|	In person	|
+|	34	|	MAR	|	Lingbo Li	|	Virtual	|
+|	35	|	MAR	|	Ellen MacEachern	|	In person	|
+|	36	|	MAR	|	Jessie Mcintyre	|	Virtual	|
+|	37	|	MAR	|	Liz Miller	|	Virtual	|
+|	38	|	MAR	|	George Nau	|	Virtual	|
+|	39	|	MAR	|	Gregory Puncher	|	In person	|
+|	40	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
+|	41	|	MAR	|	Emily Way-Nee	|	Virtual	|
+|	42	|	MAR	|	Gabrielle, Wilson	|	Virtual	|
+|	43	|	NL	|	Aaron Adamack	|	Virtual	|
+|	44	|	NL	|	Kelly Antaya	|	Virtual	|
+|	45	|	NL	|	Dwight Drover	|	Virtual	|
+|	46	|	NL	|	Gillian Forbes	|	In person	|
+|	47	|	NL	|	Victoria Healey	|	Virtual	|
+|	48	|	NL	|	Marc Legresley	|	Virtual	|
+|	49	|	NL	|	Andrea Perreault	|	Virtual	|
+|	50	|	NL	|	Hannah Polaczek	|	Virtual	|
+|	51	|	NL	|	Kierstyn Rideout	|	In person	|
+|	52	|	NL	|	Meredith Schofield	|	In person	|
+|	53	|	NL	|	Jaime Thomson	|	In person	|
+|	54	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	55	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	56	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	57	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	58	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	59	|	PAC	|	Erin Herder	|	Virtual	|
+|	60	|	PAC	|	Kendra Holt	|	Virtual	|
+|	61	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
+|	62	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	63	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	64	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	65	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	66	|	PAC	|	Judy McArthur	|	Virtual	|
+|	67	|	PAC	|	Maya Miller	|	Virtual	|
+|	68	|	PAC	|	Chelsea Rothkop	|	Virtual	|
+|	69	|	PAC	|	Audrey Ty	|	Virtual	|
+|	70	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	71	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	72	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	73	|	QUE	|	Hélène Dionne	|	In person	|
+|	74	|	QUE	|	Kim Emond	|	In person	|
+|	75	|	QUE	|	Andrew Smith	|	Virtual	|
+|	76	|	DAL	|	Christopher Corriveau	|	In person	|
+|	77	|	DAL	|	Ellie Weise	|	In person	|
 
 ## Expected deliverables
 

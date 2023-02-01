@@ -67,9 +67,9 @@ knitr::kable(aggregate(Number~Region,par.df,length))
 ```
 
 ## External experts
-\includegraphics[width=0.55\textwidth]{julie.png}
+\includegraphics[width=0.55\textwidth]{./images/julie.png}
 
-\includegraphics[width=1.0\textwidth]{lisa.png}
+\includegraphics[width=1.0\textwidth]{./images/lisa.png}
 
 ## External expert that says hello
 
@@ -87,8 +87,8 @@ Steve
 \end{small}
 \column{0.7\textwidth}
 \begin{center}
-\includegraphics[width=0.8\textwidth]{campana.png}
-\includegraphics[width=0.65\textwidth]{campana2.png}
+\includegraphics[width=0.8\textwidth]{./images/campana.png}
+\includegraphics[width=0.65\textwidth]{./images/campana2.png}
 \end{center}
 
 \end{columns}
@@ -139,9 +139,11 @@ Steve
 
 \item{Age determination in a production ageing environment}
   \begin{itemize}
+  \begin{tiny}
   \item{Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region}
   \item{Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region}
   \item{Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment}
+  \end{tiny}
   \end{itemize}
 
 \item{Steps towards establishing a sclerochronology community within DFO}
@@ -151,7 +153,7 @@ Steve
 ##
 
 \begin{center}
-\includegraphics[width=1.0\textwidth]{nice-background.png}
+\includegraphics[width=1.0\textwidth]{./images/nice-background.png}
 \end{center}
 
 
@@ -177,7 +179,7 @@ Steve
 
 - SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies)
 
-- [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments..pdf)
+- [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments.pdf)
 
 
 ## Day 3 - Thursday February 02 2023
@@ -202,7 +204,6 @@ Steve
 ## Proceedings draft document
 
 - [draft DFO Technical Report](../proceedings/_book/techreport-english.pdf)
-
 
 ## Homework results - by region
 

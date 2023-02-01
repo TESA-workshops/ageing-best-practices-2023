@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Standard operating procedures
 
 \begin{center}
-  \includegraphics[width=1.0\textwidth]{SOP-EN-cover.png}
+  \includegraphics[width=1.0\textwidth]{./images/SOP-EN-cover.png}
 \end{center}
 
 
@@ -76,7 +76,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 \column{0.4\textwidth}
 \begin{center}
-  \includegraphics[width=1.0\textwidth]{paa-vault.png}
+  \includegraphics[width=1.0\textwidth]{./images/paa-vault.png}
 \end{center}
 
 \end{columns}
