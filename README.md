@@ -54,12 +54,12 @@ Rapporteurs: TBD
 | 9:00 | Practical demo 4: age determination by visual examination of whole otoliths, example with American Plaice |
 | 9:30 | Quick recap of Tuesday |
 | 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots, a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
-| 10:30 | Break |
-| 10:45 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) |
+| 10:45 | Break |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
-| 13:15 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies) |
+| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) |
+| 13:45 | SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
 | 15:30 | Open discussion about digital images and SmartDots |
