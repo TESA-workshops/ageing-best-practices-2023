@@ -28,7 +28,7 @@ Our regional attempt at rescuing and formalising the available information about
 
 \column{0.5\textwidth}
 \begin{center}
-  \includegraphics[width=1.0\textwidth]{SOP-cover.png}
+  \includegraphics[width=1.0\textwidth]{./images/SOP-cover.png}
 \end{center}
 
 \end{columns}
@@ -48,7 +48,7 @@ A validation study often involves a bomb radiocarbon assay
 
 \column{0.5\textwidth}
 \begin{center}
-  \includegraphics[width=1.0\textwidth]{Morin-et-al-cover.png}
+  \includegraphics[width=1.0\textwidth]{./images/Morin-et-al-cover.png}
 \end{center}
 
 \end{columns}

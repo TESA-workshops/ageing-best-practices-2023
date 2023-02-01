@@ -23,10 +23,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ## SmartDots reporting
 
 - SmartDots provides two options for reporting : a report and a dataset 
+- The dataset contains all the annotations associated with an event
+
 
 ## Growth increments
 
 - The coordinates of annotation can be used to compute the distance between points
+- The coordinates in pixels can be related to the scale of the image to calculate the coordinates in millimeters
+- The growth increments in millimeters can be obtained from the annotations
 
 ## Biological intercept
 
@@ -35,4 +39,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Growth trajectories
 
 - We now have an age-length pair for each year in the life of the fish individual from which the otolith was removed
+
+## References
 
