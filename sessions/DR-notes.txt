@@ -1,2 +1,36 @@
 I would like to recognize that I am participating today from traditional Mi'Kmaq territory in what is known
 colonially as Moncton, New Brunswick, Canada.
+
+## Fitting a VB growth model with sex-specific and decadal parameter values
+
+
+
+## Alternatively, implement as a Bayesian model in JAGS
+
+
+## Alternatively, implement in TMB
+
+
+## Individual growth trajectories
+
+
+
+## Fitting a mixed effects VB model to growth trajetories
+
+
+## Using length frequencies to estimate growth
+
+What if no ageing is available? What if we could use length frequencies to track cohorts and estimate their growth?
+
+
+## Other growth models
+
+- Gompertz model
+-
+
+
+##
+
+\begin{center}
+  \includegraphics[width=1.0\textwidth]{./images/teleost-navire-stock-poissons-jacques-cartier.png}
+\end{center}

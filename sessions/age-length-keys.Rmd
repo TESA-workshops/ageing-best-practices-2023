@@ -152,7 +152,6 @@ g
 
 The probabilities at each length will sum to 1.0, in other words, they are marginal probabilities of being a certain age at a given length
 
-
 ## Forward age-length key
 
 \begin{equation*}
@@ -199,14 +198,6 @@ ll <- layout(mm, widths=c(0.09,0.9,0.01), heights=c(0.05,0.3,0.3,0.3,0.05))
 ## Catch-at-age matrices
 
 Extend the analyses to all years where data is available
-
-
-
-## Questions, comments and suggestions
-
-\begin{center}
-  \includegraphics[width=1.0\textwidth]{teleost-navire-stock-poissons-jacques-cartier.png}
-\end{center}
 
 
 ## References

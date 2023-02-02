@@ -184,11 +184,11 @@ Steve
 
 ## Day 3 - Thursday February 02 2023
 
-- Plenary talk by Lisa Ailloud (NOAA NMFS SEFSC)
-
 - [Growth models](./growth-models.pdf)
 
 - Plenary talk by Andrea Perreault (NAFC)
+
+- Plenary talk by Lisa Ailloud (NOAA NMFS SEFSC)
 
 - [Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
 
@@ -200,12 +200,11 @@ Steve
 
 ## Recommendations on "best practices in age determination"
 
-
 ## Proceedings draft document
 
 - [draft DFO Technical Report](../proceedings/_book/techreport-english.pdf)
 
-## Homework results - by region
+## Summary of homework results
 
 ```{r homework0, include=FALSE}
 in.df <- readxl::read_xlsx("../planning/Ageing-workshop-regional-homework-all-regions.xlsx", skip=3)
@@ -225,4 +224,34 @@ g
 g <- ggplot(data=in.df, aes(factor(ageing.structure))) +
   geom_bar()
 g
+```
+
+## Homework results - timeline by stock
+
+
+## Using OpenData inventory
+
+```{r homework3}
+plaice.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4T-American-Plaice-ages.csv")
+plaice.df$stock <- "DFO-American-Plaice-NAFO-4T"
+witch.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4RST-Witch-Flounder-ages.csv")
+witch.df$stock <- "DFO-Witch-Flounder-NAFO-4RST"
+cod.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4TVN-Atlantic-Cod-ages.csv")
+cod.df$stock <- "DFO-Atlantic-Cod-NAFO-4TVN"
+hake.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4T-White-Hake-ages.csv")
+hake.df$stock <- "DFO-White-Hake-NAFO-4T"
+winter.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4T-Winter-Flounder-ages.csv")
+winter.df$stock <- "DFO-Winter-Flounder-NAFO-4T"
+yellowtail.df <- read.csv("../../fgp-datasets/otolith_collection/NAFO-4T-yellowtail-Flounder-ages.csv")
+yellowtail.df$stock <- "DFO-Yellowtail-Flounder-NAFO-4T"
+
+in.df <- rbind(plaice.df, witch.df, cod.df, hake.df,winter.df,yellowtail.df)
+in.df$date <- in.df$year_année + (in.df$month_mois/12)
+in.df$stock <- factor(in.df$stock)
+
+par(mar=c(4,12,1,1))
+plot(in.df$date, in.df$stock, cex=log(in.df$number.otoliths_nombre.otolithes)*0.2, pch=19, yaxt='n', xlab="Decimal year", ylab="")
+axis(side=2, at=1:6, levels(in.df$stock), las=1)
+
+
 ```

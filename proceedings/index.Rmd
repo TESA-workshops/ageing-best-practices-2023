@@ -1,5 +1,5 @@
 ---
-title: "Proceedings of the Technical Expertise in Stock Assessment (TESA) national workshop on Best pratices in ageing, 31 January, 01-02 February 2023 in Moncton, New Brunswick"
+title: "Proceedings of the Technical Expertise in Stock Assessment (TESA) national workshop on Best pratices in age estimation, 31 January, 01-02 February 2023 in Moncton, New Brunswick"
 french_title: Titre ici (*Nom latin de l'espèce*)
 year: 2023
 report_number: nnn

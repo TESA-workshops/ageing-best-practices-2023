@@ -1,1 +1,3 @@
 # Day 2 {#sec:day2}
+
+Digital imaging and SmartDots

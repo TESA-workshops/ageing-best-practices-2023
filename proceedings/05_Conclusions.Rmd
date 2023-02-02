@@ -1,4 +1,57 @@
+# Remarks from external experts
+
+
+
 # Recommendations
 
+\begin{itemize}
+\item{Otolith cataloguing, storage and inventory}
+\begin{enumerate}
+\item{Pairs of otoliths removed from an individual should be uniquely identified}
+\item{Otolith should be stored in an environment that minimizes degradation and that maintains readability}
+\item{An inventory of the physical otoliths available should be documented and updated regularly}
+\end{enumerate}
+
+\item{Preparing for changes associated with a warming climate}
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\item{Reference collection}
+\begin{enumerate}
+\item{Actively curate reference collections so that old otoliths that have lost their readability are replaced by new otoliths}
+\end{enumerate}
+
+
+\item{Digital imaging of ageing structures}
+\begin{enumerate}
+\item{the file naming convention to use when taking images of otoliths should uniquely identify each structure }
+\end{enumerate}
+
+\item{Annotation of digital images}
+\begin{enumerate}
+\item{}
+\end{enumerate}
+
+\item{Analysis of age estimates}
+\begin{enumerate}
+\item{The sampling design used in the collection of data should be accounted for in all subsequent analyses of age estimates}
+\item{Analyses that compute catch-at-age matrices from length samples and age estimates should strive to be fully documented and reproducible}
+\item{Contemporary procedures that reduce bias in age structure estimates should be used}
+\end{enumerate}
+
+\item{Institutional}
+\begin{enumerate}
+\item{Emulate the Community of Age Reading Experts (CARE) for the Atlantic and Arctic Oceans}
+\item{Foster a community of DFO scientists whose mandated tasks include sampling of ageing structures, age estimation using ageing structures or analysis of age estimates data}
+\item{Creation of a DFO committee that meets yearly to ensure that age estimations practices in different labs follow shared best practices}
+\item{Provide support for inter-regional otolith exchanges and secondary reader testing}
+\item{Canadian representation on appropriate ICES working groups related to age estimation (WGBIOP or WGSMART)}
+\end{enumerate}
+
+\end{itemize}
+
+
 # Acknowledgements
+
 

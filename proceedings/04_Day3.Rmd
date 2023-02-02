@@ -1,1 +1,3 @@
 # Day 3 {#sec:day3}
+
+Growth models, age-length keys and catch-at-age calculations
