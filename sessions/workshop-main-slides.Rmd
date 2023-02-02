@@ -150,21 +150,21 @@ Steve
 \end{itemize}
 \end{tiny}
 
-##
-
-\begin{center}
-\includegraphics[width=1.0\textwidth]{./images/nice-background.png}
-\end{center}
-
 
 ## Community building ideas
 
 - Community of Age Reading Experts ([CARE](https://care.psmfc.org/)) as a test case
-- Identify opportunities to have otolith exchanges between labs
+- Identify opportunities to have otolith exchanges between labs, and to be able to connect with secondary age readers
 - Develop a shared understanding of what physical and digital samples we have, and what they were/are/will be used for
-- Shared references related to age determination
 - The proceedings from this workshop
+- Shared references related to age determination, ideally something searchable, perhaps even a narrative of relevant literature by topic? 
+- Development of a DFO tool to manage otolith images
+- Use of SmartDots for image annotation
 - ...
+- Recognize the training requirements that lead to technicians that can perform reliable age estimation
+- Recognize that all DFO regions perform analytical endeavours that involve age estimation 
+- Recognize that having a forum to move towards best practices in age estimation is important
+
 
 
 ## Day 2 - Wednesday February 01 2023
@@ -177,7 +177,7 @@ Steve
 
 - Archiving of digital images and integration with SmartDots (David Fishman and Daniel Ricard)
 
-- SmartDots reporting features - example for American Plaice reference collection (Daniel Ricard and Julie Davies)
+- SmartDots reporting features (Julie Davies and Daniel Ricard)
 
 - [Growth increment measurements from annotated otolith images (Daniel Ricard)](images-SmartDots-increments.pdf)
 
@@ -192,17 +192,21 @@ Steve
 
 - [Age-length keys and catch-at-age matrices](./age-length-keys.pdf)
 
-- CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments
+- CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments - Andrew Smith (IML)
 
 - Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys
+
+- Developing aging clocks for fish using DNA methylation (team from Dalhousie)
 
 - [Past, present and future of age determination](./past-present-future.pdf)
 
 ## Recommendations on "best practices in age determination"
 
+
 ## Proceedings draft document
 
 - [draft DFO Technical Report](../proceedings/_book/techreport-english.pdf)
+
 
 ## Summary of homework results
 
@@ -249,9 +253,18 @@ in.df <- rbind(plaice.df, witch.df, cod.df, hake.df,winter.df,yellowtail.df)
 in.df$date <- in.df$year_année + (in.df$month_mois/12)
 in.df$stock <- factor(in.df$stock)
 
+
+```
+
+```{r}
 par(mar=c(4,12,1,1))
 plot(in.df$date, in.df$stock, cex=log(in.df$number.otoliths_nombre.otolithes)*0.2, pch=19, yaxt='n', xlab="Decimal year", ylab="")
 axis(side=2, at=1:6, levels(in.df$stock), las=1)
-
-
 ```
+
+##
+
+\begin{center}
+\includegraphics[width=1.0\textwidth]{./images/nice-background.png}
+\end{center}
+
