@@ -30,3 +30,8 @@ The objectives of this workshop were to create a forum for discussion and for ex
 - guidance on digital imaging of otoliths
 
 - guidance on going from length frequency samples and age-length keys to catch-at-age matrices that feed into age-based population models
+
+## Format
+
+Table \@ref(tab:participants)
+

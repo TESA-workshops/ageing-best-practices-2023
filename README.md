@@ -68,7 +68,7 @@ Rapporteur: Daniel Ricard
 | 18:30 | Group dinner at Pump House (optional)|
 
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
-Rapporteurs: TBD
+Rapporteur: Jacob Burbank
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
@@ -110,87 +110,85 @@ Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
-List of the 77 participants as of 2023-01-31 (29 in person and 48 virtual)
+List of the 75 participants as of 2023-02-03 (29 in person and 46 virtual)
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
 |	1	|	C&A	|	Laura Alsip	|	Virtual	|
 |	2	|	C&A	|	Lauren Burke	|	Virtual	|
-|	3	|	C&A	|	Kevin J Hedges	|	Virtual	|
-|	4	|	C&A	|	Michael Legge	|	In person	|
-|	5	|	C&A	|	Tracey Loewen	|	In person	|
-|	6	|	C&A	|	Brendan K Malley	|	Virtual	|
-|	7	|	C&A	|	Lenore J Vandenbyllaardt	|	Virtual	|
-|	8	|	C&A	|	Rick J Wastle	|	Virtual	|
-|	9	|	C&A	|	Xinhua Zhu	|	Virtual	|
-|	10	|	GLF	|	Jacob Burbank	|	In person	|
-|	11	|	GLF	|	Abby Daigle	|	In person	|
-|	12	|	GLF	|	Andrew Darcy	|	In person	|
-|	13	|	GLF	|	Isabelle Forest	|	In person	|
-|	14	|	GLF	|	Matthew Horsman	|	In person	|
-|	15	|	GLF	|	Samantha Hudson	|	Virtual	|
-|	16	|	GLF	|	Colin MacFarlane	|	In person	|
-|	17	|	GLF	|	Kelsey McGee	|	In person	|
-|	18	|	GLF	|	Kirby Morrill	|	In person	|
-|	19	|	GLF	|	Daniel Ricard	|	In person	|
-|	20	|	GLF	|	Karen Robertson	|	In person	|
-|	21	|	GLF	|	Sylvie Robichaud	|	In person	|
-|	22	|	GLF	|	Nicolas Rolland	|	In person	|
-|	23	|	GLF	|	Jolene Sutton	|	In person	|
-|	24	|	GLF	|	François-Étienne Sylvain	|	In person	|
-|	25	|	GLF	|	Kari Underhill	|	In person	|
-|	26	|	MAR	|	Mark Billard	|	Virtual	|
-|	27	|	MAR	|	Lynn Collier	|	Virtual	|
-|	28	|	MAR	|	Peter Comeau	|	In person	|
-|	29	|	MAR	|	Tania Davignon-Burton	|	Virtual	|
-|	30	|	MAR	|	Allan Debertin	|	Virtual	|
-|	31	|	MAR	|	Nell den Heyer	|	Virtual	|
-|	32	|	MAR	|	Danni Harper	|	Virtual	|
-|	33	|	MAR	|	Kelly Kraska	|	In person	|
-|	34	|	MAR	|	Lingbo Li	|	Virtual	|
-|	35	|	MAR	|	Ellen MacEachern	|	In person	|
-|	36	|	MAR	|	Jessie Mcintyre	|	Virtual	|
-|	37	|	MAR	|	Liz Miller	|	Virtual	|
-|	38	|	MAR	|	George Nau	|	Virtual	|
-|	39	|	MAR	|	Gregory Puncher	|	In person	|
-|	40	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
-|	41	|	MAR	|	Emily Way-Nee	|	Virtual	|
-|	42	|	MAR	|	Gabrielle, Wilson	|	Virtual	|
-|	43	|	NL	|	Aaron Adamack	|	Virtual	|
-|	44	|	NL	|	Kelly Antaya	|	Virtual	|
-|	45	|	NL	|	Dwight Drover	|	Virtual	|
-|	46	|	NL	|	Gillian Forbes	|	In person	|
-|	47	|	NL	|	Victoria Healey	|	Virtual	|
-|	48	|	NL	|	Marc Legresley	|	Virtual	|
-|	49	|	NL	|	Andrea Perreault	|	Virtual	|
-|	50	|	NL	|	Hannah Polaczek	|	Virtual	|
-|	51	|	NL	|	Kierstyn Rideout	|	In person	|
-|	52	|	NL	|	Meredith Schofield	|	In person	|
-|	53	|	NL	|	Jaime Thomson	|	In person	|
-|	54	|	PAC	|	Barbara Campbell	|	Virtual	|
-|	55	|	PAC	|	Karalea Cantera	|	Virtual	|
-|	56	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	57	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	58	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	59	|	PAC	|	Erin Herder	|	Virtual	|
-|	60	|	PAC	|	Kendra Holt	|	Virtual	|
-|	61	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
-|	62	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	63	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	64	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	65	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	66	|	PAC	|	Judy McArthur	|	Virtual	|
-|	67	|	PAC	|	Maya Miller	|	Virtual	|
-|	68	|	PAC	|	Chelsea Rothkop	|	Virtual	|
-|	69	|	PAC	|	Audrey Ty	|	Virtual	|
-|	70	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	71	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	72	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	73	|	QUE	|	Hélène Dionne	|	In person	|
-|	74	|	QUE	|	Kim Emond	|	In person	|
-|	75	|	QUE	|	Andrew Smith	|	Virtual	|
-|	76	|	DAL	|	Christopher Corriveau	|	In person	|
-|	77	|	DAL	|	Ellie Weise	|	In person	|
+|	3	|	C&A	|	Michael Legge	|	In person	|
+|	4	|	C&A	|	Tracey Loewen	|	In person	|
+|	5	|	C&A	|	Brendan K Malley	|	Virtual	|
+|	6	|	C&A	|	Lenore J Vandenbyllaardt	|	Virtual	|
+|	7	|	C&A	|	Rick J Wastle	|	Virtual	|
+|	8	|	GLF	|	Jacob Burbank	|	In person	|
+|	9	|	GLF	|	Abby Daigle	|	In person	|
+|	10	|	GLF	|	Andrew Darcy	|	In person	|
+|	11	|	GLF	|	Isabelle Forest	|	In person	|
+|	12	|	GLF	|	Matthew Horsman	|	In person	|
+|	13	|	GLF	|	Samantha Hudson	|	Virtual	|
+|	14	|	GLF	|	Colin MacFarlane	|	In person	|
+|	15	|	GLF	|	Kelsey McGee	|	In person	|
+|	16	|	GLF	|	Kirby Morrill	|	In person	|
+|	17	|	GLF	|	Daniel Ricard	|	In person	|
+|	18	|	GLF	|	Karen Robertson	|	In person	|
+|	19	|	GLF	|	Sylvie Robichaud	|	In person	|
+|	20	|	GLF	|	Nicolas Rolland	|	In person	|
+|	21	|	GLF	|	Jolene Sutton	|	In person	|
+|	22	|	GLF	|	François-Étienne Sylvain	|	In person	|
+|	23	|	GLF	|	Kari Underhill	|	In person	|
+|	24	|	MAR	|	Mark Billard	|	Virtual	|
+|	25	|	MAR	|	Lynn Collier	|	Virtual	|
+|	26	|	MAR	|	Peter Comeau	|	In person	|
+|	27	|	MAR	|	Tania Davignon-Burton	|	Virtual	|
+|	28	|	MAR	|	Allan Debertin	|	Virtual	|
+|	29	|	MAR	|	Nell den Heyer	|	Virtual	|
+|	30	|	MAR	|	Danni Harper	|	Virtual	|
+|	31	|	MAR	|	Kelly Kraska	|	In person	|
+|	32	|	MAR	|	Lingbo Li	|	Virtual	|
+|	33	|	MAR	|	Ellen MacEachern	|	In person	|
+|	34	|	MAR	|	Jessie Mcintyre	|	Virtual	|
+|	35	|	MAR	|	Liz Miller	|	Virtual	|
+|	36	|	MAR	|	George Nau	|	Virtual	|
+|	37	|	MAR	|	Gregory Puncher	|	In person	|
+|	38	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
+|	39	|	MAR	|	Emily Way-Nee	|	Virtual	|
+|	40	|	MAR	|	Gabrielle Wilson	|	Virtual	|
+|	41	|	NL	|	Aaron Adamack	|	Virtual	|
+|	42	|	NL	|	Kelly Antaya	|	Virtual	|
+|	43	|	NL	|	Dwight Drover	|	Virtual	|
+|	44	|	NL	|	Gillian Forbes	|	In person	|
+|	45	|	NL	|	Victoria Healey	|	Virtual	|
+|	46	|	NL	|	Marc Legresley	|	Virtual	|
+|	47	|	NL	|	Andrea Perreault	|	Virtual	|
+|	48	|	NL	|	Hannah Polaczek	|	Virtual	|
+|	49	|	NL	|	Kierstyn Rideout	|	In person	|
+|	50	|	NL	|	Meredith Schofield	|	In person	|
+|	51	|	NL	|	Jaime Thomson	|	In person	|
+|	52	|	PAC	|	Barbara Campbell	|	Virtual	|
+|	53	|	PAC	|	Karalea Cantera	|	Virtual	|
+|	54	|	PAC	|	Chelsea Cooke	|	Virtual	|
+|	55	|	PAC	|	Robyn Forrest	|	Virtual	|
+|	56	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	57	|	PAC	|	Erin Herder	|	Virtual	|
+|	58	|	PAC	|	Kendra Holt	|	Virtual	|
+|	59	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
+|	60	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	61	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	62	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	63	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	64	|	PAC	|	Judy McArthur	|	Virtual	|
+|	65	|	PAC	|	Maya Miller	|	Virtual	|
+|	66	|	PAC	|	Chelsea Rothkop	|	Virtual	|
+|	67	|	PAC	|	Audrey Ty	|	Virtual	|
+|	68	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	69	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	70	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	71	|	QUE	|	Hélène Dionne	|	In person	|
+|	72	|	QUE	|	Kim Emond	|	In person	|
+|	73	|	QUE	|	Andrew Smith	|	Virtual	|
+|	74	|	DAL	|	Christopher Corriveau	|	In person	|
+|	75	|	DAL	|	Ellie Weise	|	In person	|
 
 ## Expected deliverables
 

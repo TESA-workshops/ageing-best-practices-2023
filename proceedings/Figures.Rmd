@@ -1,0 +1,6 @@
+# Figures
+
+(ref:caption-figorca) Timespan of ageing structure collections for marine stocks examined by Fisheries and Oceans Canada.
+```{r figorca, fig.cap="(ref:caption-figorca)"}
+knitr::include_graphics("../planning/orca-plot.png")
+```

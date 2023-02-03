@@ -14,7 +14,7 @@ After that, all subsequent sections will be turned into appendices. -->
 in.df <- readxl::read_xlsx("../planning/workshop-participants.xlsx", sheet = "attendance", skip=1)
 
 in.df <- rbind(in.df,
-               c("Lisa Ailloud","Ailloud","NOAA NMFS", "Virtual","","","$\\checkmark$"),
+               c("Lisa Ailloud","Ailloud","NOAA NMFS - Southeast Fisheries Science Center", "Virtual","","","$\\checkmark$"),
                c("Julie Davies","Davies","DTU Aqua", "Virtual","$\\checkmark$","$\\checkmark$","$\\checkmark$")
                )
 
