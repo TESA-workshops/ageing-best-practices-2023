@@ -84,7 +84,7 @@ Rapporteur: Jacob Burbank
 | 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) (see file "AilloudALK_sent20230130.pptx" in the [sessions folder](./sessions/)) |
 | 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
 |       | **Short talk** Andrew Smith (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
-|       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
+|       | **Short talk** Kim Emond and Hélène Dionne (IML) - [Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys](./sessions/TESA_workshop_CAA_Feb2-Kim-Emond.pdf) (10-15 mins) |
 | 12:00 | Lunch |
 | 13:00 | Past, present and future of age determination |
 |       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Developing aging clocks for fish using DNA methylation (10-15 mins) (see file "TESA presentation_2023-DNA-methylation-Ellie-and-Chris.pptx" in the [sessions folder](./sessions/)) |
