@@ -33,9 +33,9 @@ Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 | 10:00 | [Opening remarks by external expert](./sessions/QA\ for\ stock assessment.pdf) (Julie Davies)  |
 | 10:30 | Break |
 | 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
-| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA\ Age\ Workshop_Loewen2023.pdf) |
+| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA-Age-Workshop_Loewen2023.pdf) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA\ 2023-Stephen-Day1.pdf) |
+| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA-2023-Stephen-Day1.pdf) |
 | 13:45 | [Age validation, age verification and ager calibration](./sessions/validation-verification-calibration.pdf) (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
