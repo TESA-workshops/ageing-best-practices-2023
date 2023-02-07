@@ -30,7 +30,7 @@ Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 | Time |  |
 |  ---- |  - |
 | 9:00 | [Motivation for workshop, in-person participants introduction](./sessions/workshop-main-slides.pdf) and presentation on ageing basics (also see file "Ageing Workshop Comeau.pptx" in the [sessions folder](./sessions/)) (Peter Comeau and Daniel Ricard) |
-| 10:00 | [Opening remarks by external expert](./sessions/QA\ for\ stock assessment.pdf) (Julie Davies)  |
+| 10:00 | [Opening remarks by external expert](./sessions/QA-for-stock-assessment.pdf) (Julie Davies)  |
 | 10:30 | Break |
 | 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
 | 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA-Age-Workshop_Loewen2023.pdf) |
