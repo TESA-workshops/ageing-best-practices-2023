@@ -4,9 +4,10 @@ rmd_files: ["index.Rmd",
             "02_Day1.Rmd",
             "03_Day2.Rmd",
             "04_Day3.Rmd",
-            "05_Conclusions.Rmd",
-            "06_Bibliography.Rmd",
+            "05_Discussion.Rmd",
+            "06_Conclusions.Rmd",
+            "07_Bibliography.Rmd",
             "Figures.Rmd",
-            "07_Appendix.Rmd"
+            "08_Appendix.Rmd"
             ]
 delete_merged_file: true

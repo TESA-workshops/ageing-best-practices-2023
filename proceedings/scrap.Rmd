@@ -1,8 +1,4 @@
-# Remarks from external experts
 
-
-
-# Recommendations
 
 \begin{itemize}
 \item{Otolith cataloguing, storage and inventory}
@@ -51,7 +47,5 @@
 
 \end{itemize}
 
-
-# Acknowledgements
 
 

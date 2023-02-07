@@ -24,28 +24,32 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
+
 Rapporteurs: Jacob Burbank and François-Étienne Sylvain
+
 | Time |  |
 |  ---- |  - |
-| 9:00 | Motivation for workshop, in-person participants introduction and [presentation on ageing basics](./sessions/Ageing Workshop Comeau.pptx) (Peter Comeau and Daniel Ricard) |
-| 10:00 | Opening remarks by external expert (Julie Davies) |
+| 9:00 | [Motivation for workshop, in-person participants introduction](./sessions/workshop-main-slides.pdf) and presentation on ageing basics (also see file "Ageing Workshop Comeau.pptx" in the [sessions folder]("./sessions")) (Peter Comeau and Daniel Ricard) |
+| 10:00 | [Opening remarks by external expert](./sessions/QA for stock assessment.pdf) (Julie Davies)  |
 | 10:30 | Break |
 | 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
-| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen (Ontario and Prairie Region) - Otolith microchemistry, difficult-to-age marine species, element marking in otoliths |
+| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA Age Workshop_Loewen2023.pdf) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - Getting the Biggest Otolith Bang For Your Buck |
+| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA 2023-Stephen-Day1.pdf) |
 | 13:45 | [Age validation, age verification and ager calibration](./sessions/validation-verification-calibration.pdf) (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
 |       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
-|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) |
+|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder]("./sessions")) |
 |       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) |
 | 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
 | 16:20 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional) |
 
 ### Wednesday February 01 - Digital imaging of otoliths
+
 Rapporteur: Daniel Ricard
+
 | Time |  |
 |  ---- |  - |
 | 8:00 | Practical demo 1: thin sectioning of White Hake otoliths with a low-speed isometric saw, otolith section imaging |
@@ -53,12 +57,12 @@ Rapporteur: Daniel Ricard
 | 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
 | 9:00 | Practical demo 4: age determination by visual examination of whole otoliths, example with American Plaice |
 | 9:30 | Quick recap of Tuesday |
-| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- An introduction to SmartDots, a tool for annotations of otolith images, supporting otolith exchanges between labs, and quality-control of ages (Julie Davies) |
+| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- [SmartDots – a tool created by the users for the users]("“SmartDots – a tool created by the users for the users”.pdf") (Julie Davies) |
 | 10:45 | Break |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
-| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) |
+| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) (see file "Taking Good Pictures, annotating in Smartdots.pptx" in the [sessions folder]("./sessions"))|
 | 13:45 | SmartDots reporting features (Julie Davies and Daniel Ricard) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
@@ -68,45 +72,27 @@ Rapporteur: Daniel Ricard
 | 18:30 | Group dinner at Pump House (optional)|
 
 ### Thursday February 02 - Analyses: growth models and catch-at-age matrices 
+
 Rapporteur: Jacob Burbank
+
 | Time |  |
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
 | 9:15 | Fitting growth models to ageing data (Daniel Ricard) |
-| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins)|
+| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) (see file "Perreault_length_stratified_sampling.pptx" in the [sessions folder]("./sessions"))|
 | 10:30 | Break |
-| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) |
+| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) (see file "AilloudALK_sent20230130.pptx" in the [sessions folder]("./sessions")) |
 | 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
-|       | **Short talk** Daniel Ricard for Jordan Ouellette-Plante (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
+|       | **Short talk** Andrew Smith (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
 |       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
 | 12:00 | Lunch |
 | 13:00 | Past, present and future of age determination |
-|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Title TBD (10-15 mins) |
+|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Developing aging clocks for fish using DNA methylation (10-15 mins) (see file "TESA presentation_2023-DNA-methylation-Ellie-and-Chris.pptx" in the [sessions folder]("./sessions")) |
 | 13:30 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
-| 14:00 | Group discussion to draft recommendations for "best practices in ageing" |
+| 14:00 | Group discussion to draft recommendations for "best practices in age estimation" |
 | 14:45 | Break |
 | 15:00 | Group discussion to draft proceedings document and to identify some potential future activities related to age determination |
 | 16:20 | Wrap up (Ricard and Comeau) |
-
-### Workshop dinner
-
-For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Pump House](https://www.pumphousebrewpub.ca/).
-
-## Travels
-
-### Accommodation and parking
-
-There are a number of hotel options in Moncton that offer government rates. These include the [Delta Beauséjour](https://www.marriott.com/en-us/hotels/yqmdr-delta-hotels-beausejour/overview/), the [Hilton Garden Inn and Canvas Moncton](https://www.hilton.com/en/locations/canada/new-brunswick/moncton/hilton-garden-inn/), and the [Hyatt Place Moncton](https://www.hyatt.com/en-US/hotel/canada/hyatt-place-moncton-downtown/yqmzm).
-
-The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), [located around 1500 meters from downtown Moncton](https://goo.gl/maps/b8MkB6J9Ydot5snE9).
-
-For participants coming to Moncton by car, there is very limited visitor parking at the GFC and some all-day parking on nearby streets. As such, it would be preferable if participants could come to the ASEC by foot or by taxi, or park on nearby streets.
-
-### Flights
-
-Fly into the [Greater Moncton Roméo LeBlanc International Airport (YQM)](https://cyqm.ca/).
-
-Taxi from the airport to downtown Moncton is about $25.
 
 ### Participants
 
@@ -194,6 +180,27 @@ List of the 75 participants as of 2023-02-03 (29 in person and 46 virtual)
 
 Recommendations on what constitutes best practices for ageing procedures, otolith imaging and analyses that use age information.
 
-Proceedings (Can. Tech. Rep.), which can hopefully be collaboratively written during the workshop.
+Proceedings (Can. Tech. Rep.).
 
 This GitHub repository to share presentations and other resources.
+
+### Workshop dinner
+
+For those interested, we will have a group dinner on Wednesday February 01 2023 at 6:30pm at the [Pump House](https://www.pumphousebrewpub.ca/).
+
+## Travels
+
+### Accommodation and parking
+
+There are a number of hotel options in Moncton that offer government rates. These include the [Delta Beauséjour](https://www.marriott.com/en-us/hotels/yqmdr-delta-hotels-beausejour/overview/), the [Hilton Garden Inn and Canvas Moncton](https://www.hilton.com/en/locations/canada/new-brunswick/moncton/hilton-garden-inn/), and the [Hyatt Place Moncton](https://www.hyatt.com/en-US/hotel/canada/hyatt-place-moncton-downtown/yqmzm).
+
+The Atlantic Science Enterprise Centre is a large meeting facility located on the 5th floor of the Gulf Fisheries Centre (GFC), [located around 1500 meters from downtown Moncton](https://goo.gl/maps/b8MkB6J9Ydot5snE9).
+
+For participants coming to Moncton by car, there is very limited visitor parking at the GFC and some all-day parking on nearby streets. As such, it would be preferable if participants could come to the ASEC by foot or by taxi, or park on nearby streets.
+
+### Flights
+
+Fly into the [Greater Moncton Roméo LeBlanc International Airport (YQM)](https://cyqm.ca/).
+
+Taxi from the airport to downtown Moncton is about $25.
+
