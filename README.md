@@ -29,18 +29,18 @@ Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 
 | Time |  |
 |  ---- |  - |
-| 9:00 | [Motivation for workshop, in-person participants introduction](./sessions/workshop-main-slides.pdf) and presentation on ageing basics (also see file "Ageing Workshop Comeau.pptx" in the [sessions folder]("./sessions")) (Peter Comeau and Daniel Ricard) |
-| 10:00 | [Opening remarks by external expert](./sessions/QA for stock assessment.pdf) (Julie Davies)  |
+| 9:00 | [Motivation for workshop, in-person participants introduction](./sessions/workshop-main-slides.pdf) and presentation on ageing basics (also see file "Ageing Workshop Comeau.pptx" in the [sessions folder](./sessions/)) (Peter Comeau and Daniel Ricard) |
+| 10:00 | [Opening remarks by external expert](./sessions/QA\ for\ stock assessment.pdf) (Julie Davies)  |
 | 10:30 | Break |
 | 10:45 | [Obtaining otoliths, preparation methods, storage and inventory of ageing structures](./sessions/preparation-storage-inventory.pdf) (Daniel Ricard and others) |
-| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA Age Workshop_Loewen2023.pdf) |
+| 11:15 | **Plenary talk by DFO expert (30-45 mins)** Tracey Loewen and Rick Wastle (Ontario and Prairies Region) - [Otolith microchemistry, difficult-to-age marine species, element marking in otoliths](./sessions/TESA\ Age\ Workshop_Loewen2023.pdf) |
 | 12:00 | Do head count for Wednesday dinner, then lunch break |
-| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA 2023-Stephen-Day1.pdf) |
+| 13:00 | **Plenary talk by DFO expert (15-20 mins)** Stephen Wischniowski (Pacific Region) - [Getting the Biggest Otolith Bang For Your Buck](./sessions/SCL_TESA\ 2023-Stephen-Day1.pdf) |
 | 13:45 | [Age validation, age verification and ager calibration](./sessions/validation-verification-calibration.pdf) (Daniel Ricard and others) |
 | 14:45 | Break |
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
 |       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
-|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder]("./sessions")) |
+|       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder](./sessions/)) |
 |       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) |
 | 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
 | 16:20 | Overview of the day and plan for tomorrow |
@@ -57,12 +57,12 @@ Rapporteur: Daniel Ricard
 | 8:40 | Practical demo 3: mounting of Atlantic Herring otoliths in epoxy resin, and otolith imaging |
 | 9:00 | Practical demo 4: age determination by visual examination of whole otoliths, example with American Plaice |
 | 9:30 | Quick recap of Tuesday |
-| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- [SmartDots – a tool created by the users for the users]("“SmartDots – a tool created by the users for the users”.pdf") (Julie Davies) |
+| 9:45 | **Plenary by external expert** Julie Davies (DTU-Aqua)	- [SmartDots – a tool created by the users for the users](./sessions/SmartDots–a-tool-created-by-the-users-for-the-users.pdf) (Julie Davies) |
 | 10:45 | Break |
 | 11:00 | Archiving of digital images and integration into SmartDots (Daniel Ricard and David Fishman) |
 |       | **Short talk** David Fishman (GFC) - Moving forward with DFODots, a SmartDots Web API for DFO, and integration with a digital image archival and retrieval app (10-15 mins) |
 | 12:00 | Lunch |
-| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) (see file "Taking Good Pictures, annotating in Smartdots.pptx" in the [sessions folder]("./sessions"))|
+| 13:15 | **Short talk** Karen Robertson, Isabelle Forest and Sylvie Robichaud (GFC) - Taking good pictures of otoliths, and annotating them in SmartDots (10-15 mins) (see file "Taking Good Pictures, annotating in Smartdots.pptx" in the [sessions folder](./sessions/))|
 | 13:45 | SmartDots reporting features (Julie Davies and Daniel Ricard) |
 | 14:45 | Break |
 | 15:00 | Growth increment measurements from annotated otolith images (Daniel Ricard) |
@@ -79,15 +79,15 @@ Rapporteur: Jacob Burbank
 |  ---- |  - |
 | 9:00 | Quick recap of Wednesday |
 | 9:15 | Fitting growth models to ageing data (Daniel Ricard) |
-| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) (see file "Perreault_length_stratified_sampling.pptx" in the [sessions folder]("./sessions"))|
+| 9:45 | **Plenary talk by DFO expert** Andrea Perreault (NAFC) - Impacts of ignoring length-stratified sampling design (20-30 mins) (see file "Perreault_length_stratified_sampling.pptx" in the [sessions folder](./sessions/))|
 | 10:30 | Break |
-| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) (see file "AilloudALK_sent20230130.pptx" in the [sessions folder]("./sessions")) |
+| 10:45 | **Plenary talk by external expert** Lisa Ailloud (NOAA NMFS SEFSC) Analyses of ageing data / A general theory of age-length keys (20-30 mins) (see file "AilloudALK_sent20230130.pptx" in the [sessions folder](./sessions/)) |
 | 11:15 | Computing catch-at-age matrices using length samples and age-length keys |
 |       | **Short talk** Andrew Smith (IML) - CatchR: Methods developed to compute age-length keys for the northern Gulf of St. Lawrence Atlantic Cod, and prospects for other age-based assessments (10-15 mins) |
 |       | **Short talk** Kim Emond and Hélène Dionne (IML) - Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys (10-15 mins) |
 | 12:00 | Lunch |
 | 13:00 | Past, present and future of age determination |
-|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Developing aging clocks for fish using DNA methylation (10-15 mins) (see file "TESA presentation_2023-DNA-methylation-Ellie-and-Chris.pptx" in the [sessions folder]("./sessions")) |
+|       | **Short talk**  Ellie Weise and/or Chris Corriveau (Dalhousie University) - Developing aging clocks for fish using DNA methylation (10-15 mins) (see file "TESA presentation_2023-DNA-methylation-Ellie-and-Chris.pptx" in the [sessions folder](./sessions/)) |
 | 13:30 | Disorganised discussion: remaining questions, help and guidance needed, clarification points, ... |
 | 14:00 | Group discussion to draft recommendations for "best practices in age estimation" |
 | 14:45 | Break |
