@@ -180,6 +180,7 @@ List of the 77 participants (30 in person and 47 virtual), last revised 2023-02-
 |	73	|	QUE	|	Hélène Dionne	|	In person	|
 |	74	|	QUE	|	Kim Emond	|	In person	|
 |	75	|	QUE	|	Andrew Smith	|	Virtual	|
+|	---	|	---	|	---	|	---	|
 |	76	|	DAL	|	Christopher Corriveau	|	In person	|
 |	77	|	DAL	|	Ellie Weise	|	In person	|
 |	---	|	---	|	---	|	---	|
