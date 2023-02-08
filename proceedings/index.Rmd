@@ -4,25 +4,46 @@ french_title: Titre ici (*Nom latin de l'espèce*)
 year: 2023
 report_number: nnn
 author: |
-  Daniel Ricard,
-  Aaron Adamack,
-  Peter Comeau,
-  Allan Debertin,
-  Kim Emond,
-  Tracey Loewen,
-  Gregory Puncher,
-  Meredith Schofield,
-  Andrew Smith and
-  Stephen Wischniowski
-author_list: "Ricard, D., Adamack, A., Comeau, P., Debertin, A., Emond, K., Loewen, T., Puncher, G., Schofield, M., Smith, A. and Wischniowski, S."
+  Daniel Ricard^1^,
+  Aaron Adamack^2^,
+  Jacob Burbank^1^,
+  Peter Comeau^3^,
+  Allan Debertin^4^,
+  Kim Emond^5^,
+  Tracey Loewen^6^,
+  Andrea Perreault^2^,
+  Gregory Puncher^3^,
+  Nicolas Rolland^1^,
+  Meredith Schofield^2^,
+  Andrew Smith^5^,
+  Francois-Étienne Sylvain^1^ and
+  Stephen Wischniowski^7^
+author_list: "Ricard, D., Adamack, A., Burbank, J., Comeau, P., Debertin, A., Emond, K., Loewen, T., Puncher, G., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
 region: Gulf Region
 french_region: Région du Golfe
 isbn: ""
 address: |
-  Science Branch\
-  Gulf Region\
-  Fisheries and Oceans Canada\
-  Moncton, New Brunswick, E1C 5K4, Canada\
+  ^1^Gulf Fisheries Centre\
+     Fisheries and Oceans Canada, 343 Université Avenue\
+     Moncton, New Brunswick, E1C 5K4, Canada\
+  ^2^Nortwest Atlantic Fisheries Centre\
+     Fisheries and Oceans Canada, 80 E White Hills Rd\
+     St. John's, Newfoundland and Labrador, A1A 5J7, Canada\
+  ^3^Bedford Institute of Oceanography\
+     Fisheries and Oceans Canada, 1 Challenger Dr.\
+     Dartmouth, Nova Scotia, B2Y 4A2, Canada\
+  ^4^Saint Andrews Biological Station\
+     Fisheries and Oceans Canada, 125 Marine Science Dr.\
+     St. Andrews, New Brunswick, E5B 0E4, Canada\
+  ^5^Institut Maurice Lamontagne\
+     Fisheries and Oceans Canada, 850 Rte de la Mer\
+     Mont-Joli, Québec, QC G5H 3Z4, Canada\
+  ^6^Freshwater Institute\
+     Fisheries and Oceans Canada, 501 University Avenue\
+     Winnipeg, Manitoba, R3T 2N6, Canada\
+  ^7^Pacific Biological Station\
+     Fisheries and Oceans Canada, 3190 Hammond Bay Road\
+     Nanaimo, British Columbia, V9T 6N7, Canada\
 french_address: |
   Science\
   Pêches et Océans Canada\

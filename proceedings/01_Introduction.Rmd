@@ -9,7 +9,7 @@ to retirements. Each year, TESA organises three or four training courses and one
 workshops on stock assessment issues. TESA is a national program with one or two representatives
 in each region – for more details see the [GCpedia website](http://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES) (only accessible from the DFO network).
 
-This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, on January 31, February 01 and 02 2023. The list of participants can be found in Table \@ref(tab:participants).
+This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, on January 31, February 01 and 02 2023. The list of participants can be found in Table \@ref(tab:participants) and all resources related to the workshop were stored in a [git repository maintained by TESA](https://github.com/TESA-workshops/ageing-best-practices-2023).
 
 ## Motivations
 
@@ -23,13 +23,14 @@ While the use of age-based models is common and the software available to implem
 
 The objectives of this workshop were to create a forum for discussion and for exchanging ideas among DFO scientists that use age-based models and that are involved in ageing activities. In particular, the workshop should provide:
 
-- guidance on otolith collection and on the sampling design for collecting otoliths 
+- guidance on ageing structures collection and on the sampling design for collecting ageing structures
 
-- guidance on age determination using otoliths, best practices for annuli validation, reference collections, ager calibration, archival of otoliths and data warehousing 
+- guidance on age determination using ageing structures, best practices for annuli validation, reference collections, ager calibration, archival of ageing structures and data warehousing 
 
-- guidance on digital imaging of otoliths
+- guidance on digital imaging of ageing structures
 
 - guidance on going from length frequency samples and age-length keys to catch-at-age matrices that feed into age-based population models
+
 
 ## Format
 

@@ -1,10 +1,14 @@
-# Day 3 {#sec:day3}
+# Day 3 - Analysis of age estimates {#sec:day3}
 
-Growth models 
+Growth models presentations by Daniel Ricard and Andrea Perreault
 
+age-length keys presentation by Lisa Ailloud
 
-age-length keys
+catch-at-age calculations presentation by Andrew Smith
 
+presentation by Kim Emond
 
-catch-at-age calculations
+presentation dy Dalhousie students
+
+discussion on draft recommendations
 

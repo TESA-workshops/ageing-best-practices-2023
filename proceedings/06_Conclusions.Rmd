@@ -2,6 +2,7 @@
 # Recommendations
 The working group formulated the following recommendations for how to deal with physical collections of structures used for age estimation.
 
+
 Policy to deal with destructive testing, stating what should be preserved and what can be destroyed (condition “rare structure”) – 
 Stephen sent a document to that effect – 
 should be vetted by someone with intricate knowledge of the procedures that will be used on ageing structures
@@ -70,15 +71,12 @@ Don’t let outside information influence your ageing
 \item{When practical, promote the capture of digital images of ageing structure}
 \end{enumerate}
 
-
 How much more work is it to take images and annotate them vs. just ageing to an age-length pair?
 
 ## Annotation of digital images
 \begin{enumerate}
 \item{}
 \end{enumerate}
-
-
 
 ## Analysis of age estimates
 \begin{enumerate}
@@ -101,10 +99,8 @@ How much more work is it to take images and annotate them vs. just ageing to an 
 \item{Pursue further studies in sclerochronology that will support the identification of changes in patterns used in estimating ages}
 \end{enumerate}
 
-
-
+These recommendations were formulated at the workshop and revised by all authors. They represent procedures that should be followed by all DFO personnel involved in age estimations.
 
 
 # Acknowledgements
-
-
+The authors would like to acknowledge all the workshop participants for their attendance and their active participation in discussions. Karen Robertson and Joeleen Savoie helped with workshop organisation and logistics. Lisa Leblanc from the ASEC was extremely generous with her time and hospitality during the workshop. We thank the Gulf Region publication coordinator Jeffery Clements for his help in handling this report submission.

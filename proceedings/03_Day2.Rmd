@@ -1,12 +1,12 @@
-# Day 2 {#sec:day2}
+# Day 2 - Digital imaging of ageing structures {#sec:day2}
 
-Digital imaging and SmartDots
+Tour of the laboratory facilities used in age estimations at the Gulf Fisheries Centre.
 
-Taking good images
+Presentation about SmartDots from external expert Julie Davies. 
 
-David Fishman presented options for developing a storage solution for otolith images.
+Talk by Karen Robertson on taking good images.
 
-SmartDots reporting features
+David Fishman presented options for developing a storage solution for otolith images. Discussion about DFO Dots.
 
-
+SmartDots reporting features and use for obtaining growth increments.
 

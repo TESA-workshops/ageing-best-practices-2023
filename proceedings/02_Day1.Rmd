@@ -1,4 +1,4 @@
-# Day 1 {#sec:day1}
+# Day 1 - Basics of age estimation {#sec:day1}
 
 Basics of ageing
 
