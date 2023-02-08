@@ -8,6 +8,7 @@ author: |
   Aaron Adamack^2^,
   Jacob Burbank^1^,
   Peter Comeau^3^,
+  Abby Daigle^1^,
   Allan Debertin^4^,
   Kim Emond^5^,
   Tracey Loewen^6^,
@@ -18,7 +19,7 @@ author: |
   Andrew Smith^5^,
   Francois-Étienne Sylvain^1^ and
   Stephen Wischniowski^7^
-author_list: "Ricard, D., Adamack, A., Burbank, J., Comeau, P., Debertin, A., Emond, K., Loewen, T., Puncher, G., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
+author_list: "Ricard, D., Adamack, A., Burbank, J., Comeau, P., Daigle, A., Debertin, A., Emond, K., Loewen, T., Puncher, G., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
 region: Gulf Region
 french_region: Région du Golfe
 isbn: ""
