@@ -19,7 +19,7 @@ oo <- order(use.df$Start.year, decreasing=FALSE)
 use.df <- use.df[oo,]
 
 png.fn <- "orca-plot.png"
-png(png.fn, width=1000, height=1800, res=150)
+png(png.fn, width=1200, height=1800, res=150)
 par(mar=c(5,6,1,1))
 plot(1970, 1, type='n', xlim=xl, ylim=yl, xlab="Year", ylab="",  yaxs="i", axes=FALSE)
 grid()

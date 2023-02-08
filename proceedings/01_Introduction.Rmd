@@ -31,8 +31,6 @@ The objectives of this workshop were to create a forum for discussion and for ex
 
 - guidance on going from length frequency samples and age-length keys to catch-at-age matrices that feed into age-based population models
 
-
 ## Format
 
-A hybrid meeting was held on Tuesday January 31 2023, Wednesday February 01 2023 and Thursday February 02 2023. The list of participants and the attendance can be found in Table \@ref(tab:participants).
-
+A hybrid meeting was held on Tuesday January 31 2023, Wednesday February 01 2023 and Thursday February 02 2023. The list of participants and the attendance can be found in Table \@ref(tab:participants). A total of 76 participants attended the event (30 in person and 46 virtually), and two external experts joined the meeting virtually. The workshop was attended by a wide variety of DFO personnel ranging from research scientists, to biologists, to fisheries technicians and also included two students from a local university.

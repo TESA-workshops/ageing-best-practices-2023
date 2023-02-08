@@ -1,5 +1,7 @@
 # 2023 TESA best practices in ageing workshop
 
+Thanks for attending the workshop, please [fill the post-workshop survey](https://forms.gle/wwJ4Dp6gabjytFMb8) and provide comments on the [draft proceedings document](./proceedings/TESA-age-estimation-workshop-proceedings-draft-to-coauthors-20230208.pdf).
+
 Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways possible.
 
 ## Logistics
@@ -96,7 +98,7 @@ Rapporteur: Jacob Burbank
 
 ### Participants
 
-List of the 77 participants (30 in person and 47 virtual), last revised 2023-02-07
+List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-08
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
@@ -160,28 +162,28 @@ List of the 77 participants (30 in person and 47 virtual), last revised 2023-02-
 |	54	|	PAC	|	Barbara Campbell	|	Virtual	|
 |	55	|	PAC	|	Karalea Cantera	|	Virtual	|
 |	56	|	PAC	|	Chelsea Cooke	|	Virtual	|
-|	57	|	PAC	|	Robyn Forrest	|	Virtual	|
-|	58	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
-|	59	|	PAC	|	Erin Herder	|	Virtual	|
-|	60	|	PAC	|	Kendra Holt	|	Virtual	|
-|	61	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
-|	62	|	PAC	|	Yeongha Jung	|	Virtual	|
-|	63	|	PAC	|	Madeline Lavery	|	Virtual	|
-|	64	|	PAC	|	Kiana Matwichuk	|	Virtual	|
-|	65	|	PAC	|	Mackenzie Mazur	|	Virtual	|
-|	66	|	PAC	|	Judy McArthur	|	Virtual	|
-|	67	|	PAC	|	Maya Miller	|	Virtual	|
-|	68	|	PAC	|	Chelsea Rothkop	|	Virtual	|
-|	69	|	PAC	|	Audrey Ty	|	Virtual	|
-|	70	|	PAC	|	Stephen Wischniowski	|	Virtual	|
-|	71	|	PAC	|	Emily Yungwirth	|	Virtual	|
+|	57	|	PAC	|	Sarah Hawkshaw	|	Virtual	|
+|	58	|	PAC	|	Erin Herder	|	Virtual	|
+|	59	|	PAC	|	Kendra Holt	|	Virtual	|
+|	60	|	PAC	|	Mary-Jane Hudson	|	Virtual	|
+|	61	|	PAC	|	Yeongha Jung	|	Virtual	|
+|	62	|	PAC	|	Madeline Lavery	|	Virtual	|
+|	63	|	PAC	|	Kiana Matwichuk	|	Virtual	|
+|	64	|	PAC	|	Mackenzie Mazur	|	Virtual	|
+|	65	|	PAC	|	Judy McArthur	|	Virtual	|
+|	66	|	PAC	|	Maya Miller	|	Virtual	|
+|	67	|	PAC	|	Chelsea Rothkop	|	Virtual	|
+|	68	|	PAC	|	Audrey Ty	|	Virtual	|
+|	69	|	PAC	|	Stephen Wischniowski	|	Virtual	|
+|	70	|	PAC	|	Emily Yungwirth	|	Virtual	|
 |	---	|	---	|	---	|	---	|
-|	72	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
-|	73	|	QUE	|	Hélène Dionne	|	In person	|
-|	74	|	QUE	|	Kim Emond	|	In person	|
-|	75	|	QUE	|	Andrew Smith	|	Virtual	|
-|	76	|	DAL	|	Christopher Corriveau	|	In person	|
-|	77	|	DAL	|	Ellie Weise	|	In person	|
+|	71	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
+|	72	|	QUE	|	Hélène Dionne	|	In person	|
+|	73	|	QUE	|	Kim Emond	|	In person	|
+|	74	|	QUE	|	Andrew Smith	|	Virtual	|
+|	---	|	---	|	---	|	---	|
+|	75	|	DAL	|	Christopher Corriveau	|	In person	|
+|	76	|	DAL	|	Ellie Weise	|	In person	|
 |	---	|	---	|	---	|	---	|
 
 ## Expected deliverables

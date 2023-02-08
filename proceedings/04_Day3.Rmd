@@ -1,14 +1,16 @@
 # Day 3 - Analysis of age estimates {#sec:day3}
 
+The third day of the workshop focused on what is done with age estimates, namely the use of such data in fitting growth models and in computing catch-at-age matrices.
+
 Growth models presentations by Daniel Ricard and Andrea Perreault
 
-age-length keys presentation by Lisa Ailloud
+Lisa Ailloud from NOAA NMFS gave a presentation about age-length keys.
 
-catch-at-age calculations presentation by Andrew Smith
+catch-at-age calculations presentation by Andrew Smith from the Quebec Region desscribed his experience with trying to replicate catch-at-age calculations that were previously done in a bespoke software called *catch.exe*.
 
-presentation by Kim Emond
+Kim Emond from the Quebec Region presented the methodologies used in the herring stock assessment to compute catch-at-age matrices from commercial landings and from hydroacoustic surveys.
 
-presentation dy Dalhousie students
+Christopher Corriveau and Ellie Weise from Dalhousie University presented their work on using DNA methylation to estimate ages.
 
-discussion on draft recommendations
+A group discussion finally took place to draft the recommendations that appears in section \@ref(sec:recommendations).
 

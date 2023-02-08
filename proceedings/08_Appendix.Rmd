@@ -21,6 +21,8 @@ in.df <- rbind(in.df,
 oo <- order(in.df$Lastname)
 out.df <- in.df[oo,c(1,3:7)]
 
+options(knitr.kable.NA = '')
+
 csasdown::csas_table(out.df, 
                      format="latex",
                      col_names = c("Name", "Affiliation", "Attendance", "Day 1", "Day 2", "Day 3"),

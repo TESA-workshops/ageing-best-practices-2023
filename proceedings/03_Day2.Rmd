@@ -1,6 +1,8 @@
 # Day 2 - Digital imaging of ageing structures {#sec:day2}
 
-Tour of the laboratory facilities used in age estimations at the Gulf Fisheries Centre.
+The second day of the workshop focused on topics related to the capture of digital images of ageing structures and how to annotate them.
+
+The day started with a tour of the laboratory facilities used in age estimations at the Gulf Fisheries Centre.
 
 Presentation about SmartDots from external expert Julie Davies. 
 

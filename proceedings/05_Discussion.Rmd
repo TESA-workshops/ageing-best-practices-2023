@@ -2,8 +2,21 @@
 
 # Remarks from external experts
 
+Remarks from Julie Davies from DTU Aqua:
+\begin{verbatim}
+What Julie said.
+\end{verbatim}
 
+Remarks from Lisa AIlloud from NOAA NMFS:
+\begin{verbatim}
+What Lisa said.
+\end{verbatim}
 
 # Discussion
 
+Over and over during the workshop, it was emphasized that while otoliths are the most common structure used for estimating ages, other ageing structures are also used, and the best practices used for otoliths are applicable to other structures.
+
+It was discussed how age estimation using ageing structures is more than just "counting the rings" and requires a wealth of experience in order to interpret the patterns observed on ageing structures.
+
+The workshop attendees identified the need to develop and foster a community of DFO scientists whose tasks involve age estimation.
 
