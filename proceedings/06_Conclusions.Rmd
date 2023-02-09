@@ -30,6 +30,8 @@ The working group formulated the following recommendations for how to deal with 
 \item{Actively curate reference collections so that old ageing structures that have lost their readability are replaced by new ageing structures, this includes renewing ageing structures}
 \item{Strive to have a validation study to ascertain the periodicity of ageing patterns}
 \item{Ensure that the age structures in the reference collection are representative of what will be available to age estimation technicians (the structures should cover wide spatial and temporal ranges, ...)}
+\item{In addition to a physical reference collection, develop its digital equivalent by taking images of the ageing structures}
+\item{Ideally, also annotate your digital reference collection using SmartDots}
 \end{enumerate}
 
 ## Laboratory operations

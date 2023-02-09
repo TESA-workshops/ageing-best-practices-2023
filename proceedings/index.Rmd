@@ -14,12 +14,13 @@ author: |
   Tracey Loewen^6^,
   Andrea Perreault^2^,
   Gregory Puncher^3^,
+  Karen Robertson^1^,
   Nicolas Rolland^1^,
   Meredith Schofield^2^,
   Andrew Smith^5^,
   Francois-Étienne Sylvain^1^ and
   Stephen Wischniowski^7^
-author_list: "Ricard, D., Adamack, A., Burbank, J., Comeau, P., Daigle, A., Debertin, A., Emond, K., Loewen, T., Puncher, G., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
+author_list: "Ricard, D., Adamack, A., Burbank, J., Comeau, P., Daigle, A., Debertin, A., Emond, K., Loewen, T., Puncher, G., Robertson, K., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
 region: Gulf Region
 french_region: Région du Golfe
 isbn: ""

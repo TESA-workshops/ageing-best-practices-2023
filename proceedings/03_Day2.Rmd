@@ -12,3 +12,9 @@ David Fishman presented options for developing a storage solution for otolith im
 
 SmartDots reporting features and use for obtaining growth increments.
 
+
+Capturing digital images of ageing structures adds time to the laboratory process used to obtain age estimates. As such, it is unclear whether the benefits of obtaining digital images of ageing structures outweighs the costs associated with the additional time required. As a starting point, a reference collection should be imaged.
+
+Once digital images of ageing structures are available, an additional step is to annotate them. It is probably impractical to annotate images in production ageing situations, but as a starting point the reference collection should be annotated in SmartDots. This provides an authoritative record that can be used to better document the reference collection.
+
+
