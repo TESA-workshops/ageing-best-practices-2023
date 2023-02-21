@@ -43,7 +43,7 @@ Rapporteurs: Jacob Burbank and François-Étienne Sylvain
 | 15:00 | Age determination in a production ageing environment, reconciling dreams, expectations and reality (Peter Comeau and others) |
 |       | **Short talk (10-15 mins)** Kim Emond and Hélène Dionne (IML) - Age determination of Atlantic Herring in the Québec region (10-15 mins) |
 |       | **Short talk (10-15 mins)** Sylvie Robichaud and Karen Robertson (GFC) - Age determination of Atlantic Herring in the Gulf region (10-15 mins) (see file "Age determination of Atlantic Herring in the Gulf.pptx" in the [sessions folder](./sessions/)) |
-|       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) |
+|       | **Short talk (10-15 mins)** Tania Davignon-Burton (BIO) - Reconciling dreams, expectations and reality in a production ageing environment (10-15 mins) (see file "Reconciling dreams, expectations and reality in a.pptx" in the [sessions folder](./sessions/)) |
 | 16:00 | Stepping stones towards establishing a sclerochronology community within DFO |
 | 16:20 | Overview of the day and plan for tomorrow |
 | 17:00 | 5 à 7 (optional) |
