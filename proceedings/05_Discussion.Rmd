@@ -2,12 +2,23 @@
 
 # Remarks from external experts
 
-Remarks from Julie Davies from DTU Aqua:
+Remarks from Julie Coad Davies from DTU Aqua:
 \begin{verbatim}
-What Julie said.
+The workshop has been an excellent forum for those working with age reading and the 
+age data resulting from their work. With such a variety of expertise across labs 
+and regions under the DFO it is important that a community is formed to facilitate 
+knowledge sharing on best practices. There are opportunities for age reading 
+calibration across labs who are age reading the same stocks, cooperation on updating 
+reference collections and knowledge sharing on image acquisition and method testing. 
+
+Future plans to have a DFO version of SmartDots will facilitate this and will support 
+an overall improvement in the quality of the age data coming from the age reading labs 
+and how the data is subsequently used in the stock assessment process. Forming a 
+working group who meet annually will foster the communication required to sustain the 
+community. 
 \end{verbatim}
 
-Remarks from Lisa AIlloud from NOAA NMFS:
+Remarks from Lisa Ailloud from NOAA NMFS:
 \begin{verbatim}
 What Lisa said.
 \end{verbatim}

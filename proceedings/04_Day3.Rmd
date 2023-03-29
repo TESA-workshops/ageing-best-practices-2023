@@ -6,7 +6,7 @@ Growth models presentations by Daniel Ricard and Andrea Perreault
 
 Lisa Ailloud from NOAA NMFS gave a presentation about age-length keys.
 
-catch-at-age calculations presentation by Andrew Smith from the Quebec Region desscribed his experience with trying to replicate catch-at-age calculations that were previously done in a bespoke software called *catch.exe*.
+Catch-at-age calculations presentation by Andrew Smith from the Quebec Region described his experience with trying to replicate catch-at-age calculations that were previously done in a bespoke software called *catch.exe*.
 
 Kim Emond from the Quebec Region presented the methodologies used in the herring stock assessment to compute catch-at-age matrices from commercial landings and from hydroacoustic surveys.
 
