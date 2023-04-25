@@ -12,6 +12,8 @@ The use of an age-based population model is often lauded as the “gold standard
 
 All DFO regions collect structures from marine organisms that are used in estimating their age. The procedures associated with collecting, cataloguing, storing, and obtaining age estimates of samples vary from lab to lab. It is important to follow best practices when estimating age from hard structures and not all personnel are aware of these.
 
+In any given year, DFO collects otoliths for a number of stocks and processes these structures to obtain age estimates. It is estimated that tens of thousands of otoliths and scales are collected yearly in scientific activities at DFO. 
+
 While the use of age-based models is common and the software available to implement such assessments are available and evolving, the manipulation of the input data that feeds into those models is often done in an ad-hoc fashion particular to the lab or agency in charge of the assessment. While these ad-hoc methods are most likely defensible and appropriate, the details that go into the computation of catch-at-age matrices are often poorly documented, making results hard to reproduce by someone outside a given lab or agency. This workshop provided an opportunity for DFO scientists using age-based assessments, and those involved in the analyses of age and length information, to share ideas and develop better methods to use ageing data in assessments.
 
 ## Objectives

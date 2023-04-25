@@ -1,18 +1,17 @@
 # Day 1 - Basics of age estimation {#sec:day1}
 
-The first day covered the basics of ageing.
+The first day covered the basics of ageing. The literature on research associated with otoliths is vast and varied.
 
-Peter Comeau gave a presentation on the history and realities of age estimation of marine organisms.
+Peter Comeau gave a presentation on the history and realities of age estimation of marine organisms. 
 
 Julie Coad Davies gave an overview of the age estimation activities that she is involved in, in her role as lab manager for DTU Aqua and also through her chairing the ICES Working Group on SmartDots Governance (WGSMART) WKSMART and the ICES Working Group on Biological Parameters (WGKBIOP).
 
 Stephen Wischniowski shared his experience of running an age estimation laboratory at the Pacific Biological Station and being involved in the Community of Age Reading Experts (CARE) .
 
-Sylvie Robichaud and Karen Robertson presented the procedures associated with age estimation of Atlantic Herring in the Gulf Region.
+Sylvie Robichaud and Karen Robertson presented the procedures associated with age estimation of Atlantic Herring in the Gulf Region. 
 
-Kim Emond and Hélène Dionne presented the procedures associated with age estimation of Atlantic Herring in the Québec Region.
+Kim Emond and Hélène Dionne presented the procedures associated with age estimation of Atlantic Herring in the Québec Region. The stock assessment for this stock relies on a variety of data sources and on a comprehensive sampling of otoliths.
 
-Tania Davignon-Burton gave a talk of reconciling expectations and realities in a production ageing environment.
+Tania Davignon-Burton gave a talk of reconciling expectations and realities in a production ageing environment. There is often high expectations for estimating ages using otoliths. 
 
-Tracey Loewen and Rick Wastle presented their work on estimating ages of Greenland Halibut in the Arctic.
-
+Tracey Loewen and Rick Wastle presented their work on estimating ages of Greenland Halibut in the Arctic. 
