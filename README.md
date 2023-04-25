@@ -98,18 +98,17 @@ Rapporteur: Jacob Burbank
 
 ### Participants
 
-List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-08
+List of the 77 participants (30 in person and 47 virtual), last revised 2023-04-25
 
 |	Number	|	Region	|	Name	|	In person or virtual	|
 |	---	|	---	|	---	|	---	|
-|	1	|	C&A	|	Laura Alsip	|	Virtual	|
-|	2	|	C&A	|	Lauren Burke	|	Virtual	|
-|	3	|	C&A	|	Michael Legge	|	In person	|
-|	4	|	C&A	|	Tracey Loewen	|	In person	|
-|	5	|	C&A	|	Brendan K Malley	|	Virtual	|
-|	6	|	C&A	|	Lenore J Vandenbyllaardt	|	Virtual	|
-|	7	|	C&A	|	Rick J Wastle	|	Virtual	|
-|	---	|	---	|	---	|	---	|
+|	1	|	ARC	|	Laura Alsip	|	Virtual	|
+|	2	|	OP	|	Lauren Burke	|	Virtual	|
+|	3	|	OP	|	Michael Legge	|	In person	|
+|	4	|	OP	|	Tracey Loewen	|	In person	|
+|	5	|	ARC	|	Brendan K Malley	|	Virtual	|
+|	6	|	ARC	|	Lenore J Vandenbyllaardt	|	Virtual	|
+|	7	|	ARC	|	Rick J Wastle	|	Virtual	|
 |	8	|	GLF	|	Jacob Burbank	|	In person	|
 |	9	|	GLF	|	Abby Daigle	|	In person	|
 |	10	|	GLF	|	Andrew Darcy	|	In person	|
@@ -128,7 +127,6 @@ List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-
 |	23	|	GLF	|	François-Étienne Sylvain	|	In person	|
 |	24	|	GLF	|	François Turcotte	|	Virtual	|
 |	25	|	GLF	|	Kari Underhill	|	In person	|
-|	---	|	---	|	---	|	---	|
 |	26	|	MAR	|	Mark Billard	|	Virtual	|
 |	27	|	MAR	|	Lynn Collier	|	Virtual	|
 |	28	|	MAR	|	Peter Comeau	|	In person	|
@@ -146,7 +144,6 @@ List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-
 |	40	|	MAR	|	Catriona Regnier-McKellar	|	Virtual	|
 |	41	|	MAR	|	Emily Way-Nee	|	Virtual	|
 |	42	|	MAR	|	Gabrielle Wilson	|	Virtual	|
-|	---	|	---	|	---	|	---	|
 |	43	|	NL	|	Aaron Adamack	|	Virtual	|
 |	44	|	NL	|	Kelly Antaya	|	Virtual	|
 |	45	|	NL	|	Dwight Drover	|	Virtual	|
@@ -158,7 +155,6 @@ List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-
 |	51	|	NL	|	Kierstyn Rideout	|	In person	|
 |	52	|	NL	|	Meredith Schofield	|	In person	|
 |	53	|	NL	|	Jaime Thomson	|	In person	|
-|	---	|	---	|	---	|	---	|
 |	54	|	PAC	|	Barbara Campbell	|	Virtual	|
 |	55	|	PAC	|	Karalea Cantera	|	Virtual	|
 |	56	|	PAC	|	Chelsea Cooke	|	Virtual	|
@@ -176,14 +172,13 @@ List of the 76 participants (30 in person and 46 virtual), last revised 2023-02-
 |	68	|	PAC	|	Audrey Ty	|	Virtual	|
 |	69	|	PAC	|	Stephen Wischniowski	|	Virtual	|
 |	70	|	PAC	|	Emily Yungwirth	|	Virtual	|
-|	---	|	---	|	---	|	---	|
 |	71	|	QUE	|	Mathieu Desgagnés	|	Virtual	|
 |	72	|	QUE	|	Hélène Dionne	|	In person	|
 |	73	|	QUE	|	Kim Emond	|	In person	|
 |	74	|	QUE	|	Andrew Smith	|	Virtual	|
-|	---	|	---	|	---	|	---	|
 |	75	|	DAL	|	Christopher Corriveau	|	In person	|
 |	76	|	DAL	|	Ellie Weise	|	In person	|
+|	77	|	DAL	|	Daniel Ruzzante	|	Virtual	|
 |	---	|	---	|	---	|	---	|
 
 ## Expected deliverables

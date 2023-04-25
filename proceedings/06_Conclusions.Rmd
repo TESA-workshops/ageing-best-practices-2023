@@ -4,91 +4,90 @@ The working group formulated the following recommendations for how to deal with 
 
 ## Institutional
 \begin{enumerate}
-\item{Foster a community of DFO scientists whose mandated tasks include sampling of ageing structures, age estimation using ageing structures or analysis of age estimates data}
-\item{Emulate the Pacific Ocean’s Community of Age Reading Experts (CARE) for the Atlantic and Arctic Oceans}
-\item{Creation of a DFO working group that meets regularly to ensure that age estimations practices in different labs follow shared best practices}
-\item{Provide support for inter-regional ageing structure exchanges and secondary reader testing}
+\item{Foster a community of DFO scientists whose mandated tasks include sampling of ageing structures, age estimation using ageing structures or analysis of age estimates data.}
+\item{Emulate the Pacific Ocean’s Community of Age Reading Experts (CARE) for the Atlantic and Arctic Oceans.}
+\item{Creation of a DFO working group that meets regularly to ensure that age estimations practices in different labs follow shared best practices.}
+\item{Provide support for inter-regional ageing structure exchanges and secondary reader testing.}
 \item{Achieve Canadian representation on appropriate ICES working groups related to quality assurance of age estimation as input for stock assessment (WGBIOP) or those developing the SmartDots platform (WGSMART).}
-\item{Recognise the fact that the skills required to obtain unbiased age estimates from ageing structures are unique and take time and dedication to acquire}
+\item{Recognise the fact that the skills required to obtain unbiased age estimates from ageing structures are unique and take time and dedication to acquire.}
 \end{enumerate}
 
 
 ## Ageing structure cataloguing, storage and inventory
 
 \begin{enumerate}
-\item{Ensure that physical collections of ageing structures follow the DFO "Policy on Collection, Storage, Management and Use of Physical Samples for Science Research"}
-\item{Ageing structures should be stored in an environment that minimizes degradation and that maintains readability}
-\item{Ageing structures removed from an individual should be uniquely identified}
-\item{Clearly label ageing structures so they can be traced back to their collection, implement good bookkeeping of your ageing structures}
-\item{An electronic inventory of the physical ageing structures available should be documented and updated regularly}
-\item{A subset of ageing structures should be preserved in their unaltered state for future unforeseen usage (i.e. not in resin or glycerin)}
+\item{Ensure that physical collections of ageing structures follow the DFO "Policy on Collection, Storage, Management and Use of Physical Samples for Science Research".}
+\item{Ageing structures should be stored in an environment that minimizes degradation and that maintains readability.}
+\item{Ageing structures removed from an individual should be uniquely identified.}
+\item{Clearly label ageing structures so they can be traced back to their collection, implement good bookkeeping of your ageing structures.}
+\item{An electronic inventory of the physical ageing structures available should be documented and updated regularly.}
+\item{A subset of ageing structures should be preserved in their unaltered state for future unforeseen usage (i.e. not in resin or glycerin).}
 \end{enumerate}
 
 ## Reference collection
 
 \begin{enumerate}
-\item{Actively curate reference collections so that old ageing structures that have lost their readability are replaced by new ageing structures, this includes renewing ageing structures}
-\item{Ensure that the age structures in the reference collection are representative of what will be available to age estimation technicians (the structures should cover wide spatial and temporal ranges, both annual and inter annual, all ages used in the stock assessment and both easy and difficult to read ageing structures,...)}
-\item{Ensure reference collections are updated with samples from recent years }
-\item{In addition to a physical reference collection, develop its digital equivalent by taking images of the ageing structures}
-\item{Ideally, also annotate your digital reference collection using SmartDots}
-\item{Strive to have a validation study to ascertain the periodicity of ageing patterns}
+\item{Actively curate reference collections so that old ageing structures that have lost their readability are replaced by new ageing structures, this includes renewing ageing structures.}
+\item{Ensure that the age structures in the reference collection are representative of what will be available to age estimation technicians (the structures should cover wide spatial and temporal ranges, both annual and inter annual, all ages used in the stock assessment and both easy and difficult to read ageing structures,...).}
+\item{Ensure reference collections are updated with samples from recent years.}
+\item{In addition to a physical reference collection, develop its digital equivalent by taking images of the ageing structures.}
+\item{Ideally, also annotate your digital reference collection using SmartDots.}
+\item{Strive to have a validation study to ascertain the periodicity of ageing patterns.}
 \end{enumerate}
 
 ## Laboratory operations
 
 \begin{enumerate}
-\item{Strive to obtain unbiased age estimates by regularly performing age reader calibrations and by carrying out regular quality-checks for each species/stock (both within and across laboratories)}
-\item{Develop and publish Standard Operating Procedures for each lab}
-\item{Develop standardized protocols to validate age estimates (add to your regional SOP)}
-\item{Favour age estimation in a “blind” setting, where no prior knowledge (except date of capture) is used when interpreting patterns in ageing structures, don’t let outside information influence your age estimates}
-\item{Establish a quality-control process to identify mistakes made during data entry (e.g. a typo)}
-\item{Document the uncertainty associated with age estimates by means of a standardized quality assurance scale}
-\item{Generate an age-error matrices as part of your standard procedures}
-\item{Have at least two age readers for any given stock, for redundancy}
+\item{Strive to obtain unbiased age estimates by regularly performing age reader calibrations and by carrying out regular quality-checks for each species/stock (both within and across laboratories).}
+\item{Develop and publish Standard Operating Procedures for each lab.}
+\item{Develop standardized protocols to validate age estimates (add to your regional SOP).}
+\item{Favour age estimation in a “blind” setting, where no prior knowledge (except date of capture) is used when interpreting patterns in ageing structures, don’t let outside information influence your age estimates.}
+\item{Establish a quality-control process to identify mistakes made during data entry (e.g. typos).}
+\item{Document the uncertainty associated with age estimates by means of a standardized quality assurance scale.}
+\item{Generate an age-error matrix as part of your standard procedures.}
+\item{Have at least two age readers for any given stock, for redundancy.}
 \end{enumerate}
 
 ## Training
 
 \begin{enumerate}
-\item{Develop a document that details the steps to train new agers, and/or add it to your regional SOP}
-\item{Establish procedures that integrate current practices (e.g. labels that have been used for many year) into improved practices}
+\item{Develop a document that details the training steps for new agers, and/or add it to your regional SOP.}
+\item{Establish procedures that integrate current practices (e.g. labels that have been used for many year) into improved practices.}
 \end{enumerate}
 
 ## Digital imaging of ageing structures
 
 \begin{enumerate}
-\item{Ensure that a correctly calibrated scale bar is present in the image so that the image scale in pixels per mm can be determined}
+\item{Ensure that a correctly calibrated scale bar is present in the image so that the image scale in pixels per mm can be determined.}
 \item{The file naming convention to use when taking images of ageing structures should uniquely identify each ageing structure, a recommended nomenclature would be as follows: }
-\item{When practical, promote the capture of digital images of ageing structures}
-\item{Digital images (JPEG format) of ageing structures should be stored in enterprise-level infrastructure where proper backups are in place}
-\item{A DFO-led app to store and retrieve digital images of ageing structures should be implemented to facilitate the management of these images and to provide integration with the SmartDots software}
+\item{When practical, promote the capture of digital images of ageing structures.}
+\item{Digital images (JPEG format) of ageing structures should be stored in enterprise-level infrastructure where proper backups are in place.}
+\item{A DFO-led app to store and retrieve digital images of ageing structures should be implemented to facilitate the management of these images and to provide integration with the SmartDots software.}
 \end{enumerate}
 
 ## Analysis of age estimates
 \begin{enumerate}
-\item{When computing catch-at-age matrices, the sampling design used in the collection of data should be accounted for}
-\item{Analyses that compute catch-at-age matrices from length samples and age estimates should strive to be fully documented and reproducible}
-\item{Contemporary procedures that reduce bias in age structure estimates should be used}
-\item{Assessment methods would ideally incorporate ageing errors into the assessment framework}
+\item{When computing catch-at-age matrices, the sampling design used in the collection of data should be accounted for.}
+\item{Analyses that compute catch-at-age matrices from length samples and age estimates should strive to be fully documented and reproducible.}
+\item{Contemporary procedures that reduce bias in age structure estimates should be used.}
+\item{Assessment methods would ideally incorporate ageing errors into the assessment framework.}
 \end{enumerate}
 
 ## Preparing for changes associated with a warming climate
 \begin{enumerate}
-\item{Rates of growths are likely to change, so are the patterns associated with age estimation}
-\item{Regularly revisit the pattern in the growth structures recognition used for estimating ages to identify periods of weaker or stronger growth and/or changes in the timing of annuli formation}
-\item{Continued inter-regional communication and events that promote collaborations}
-\item{Northward migration of species will shift stock boundaries and change the species that will require science advice}
-\item{Establish a process so that “cheat sheets” and guides used for training agers, and the associated laboratory processes for age estimation are updated regularly}
+\item{Rates of growths are likely to change, so are the patterns associated with age estimation. So regularly revisit the pattern in the growth structures recognition used for estimating ages to identify periods of weaker or stronger growth and/or changes in the timing of annuli formation.}
+\item{Continue inter-regional communication and organise events that promote collaborations.}
+\item{Northward migration of species will shift stock boundaries and change the species that will require science advice.}
+\item{Establish a process so that “cheat sheets” and guides used for training agers, and the associated laboratory processes for age estimation are updated regularly.}
 \end{enumerate}
 
 ## Research and development
 \begin{enumerate}
-\item{Pursue further studies in sclerochronology that will support the identification of changes in patterns used in estimating ages}
-\item{Investigate the trade-offs involved between taking images and annotate them versus just estimating a single age-length pair}
+\item{Pursue further studies in sclerochronology that will support the identification of changes in patterns used in estimating ages.}
+\item{Investigate the trade-offs involved between taking images and annotating them versus just estimating a single age-length pair.}
 \end{enumerate}
 
 These recommendations were formulated at the workshop and further revised by all authors. They represent procedures that should be followed by all DFO personnel involved in age estimations.
 
 # Acknowledgements
-The authors would like to acknowledge all the workshop participants for their attendance and their active participation in discussions. Karen Robertson and Joeleen Savoie helped with workshop organisation and logistics. Lisa Leblanc from the ASEC was extremely generous with her time and hospitality during the workshop. We thank the Gulf Region publication coordinator Jeffery Clements for his help in handling this report submission.
+The authors would like to acknowledge all the workshop participants for their attendance and their active participation in discussions. Joeleen Savoie helped with workshop organisation and logistics. Lisa Leblanc from the ASEC was extremely generous with her time and hospitality during the workshop. We thank the Gulf Region publication coordinator Jeffery Clements for his help in handling this report submission.

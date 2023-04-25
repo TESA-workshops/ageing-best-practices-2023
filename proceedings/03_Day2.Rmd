@@ -6,13 +6,13 @@ The day started with a tour of the laboratory facilities used in age estimations
 
 Presentation about SmartDots from external expert Julie Coad Davies. 
 
-Talk by Karen Robertson on taking good images.
+Talk by Karen Robertson on taking good images of otoliths.
 
 David Fishman presented options for developing a storage solution for otolith images. Discussion about DFO Dots.
 
 SmartDots reporting features and use for obtaining growth increments.
 
-Capturing digital images of ageing structures adds time to the laboratory process used to obtain age estimates. As such, it is unclear whether the benefits of obtaining digital images of ageing structures outweighs the costs associated with the additional time required. As a starting point, a reference collection should be imaged.
+Capturing digital images of ageing structures adds time to the laboratory process used to obtain age estimates. It is unclear whether the benefits of obtaining digital images of ageing structures outweighs the costs associated with the additional time required. As a starting point, a reference collection should be imaged. Having a reference collection of imaged otoliths allows you to document examples of what otoliths of a particular age-class look like and to explain why classification of being a different age would be incorrect. Reference collections are also useful for training new readers and for providing continuity in ageing methodologies when there are discontinuities in an aging program (e.g. times when there is no overlap between new and former readers).  
 
 Once digital images of ageing structures are available, an additional step is to annotate them. It is probably impractical to annotate images in production ageing situations, but as a starting point the reference collection should be annotated in SmartDots. This provides an authoritative record that can be used to better document the reference collection.
 

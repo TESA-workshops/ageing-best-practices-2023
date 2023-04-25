@@ -26,9 +26,9 @@ options(knitr.kable.NA = '')
 csasdown::csas_table(out.df, 
                      format="latex",
                      col_names = c("Name", "Affiliation", "Attendance", "Day 1", "Day 2", "Day 3"),
-                     caption="List of participants to the TESA worskhop on best practices in age estimation.") |>
-  kableExtra::column_spec(c(1), width="3cm") |>
-  kableExtra::column_spec(c(2), width="5cm") |>
+                     caption="Alphabetical list of participants (by last name) to the TESA worskhop on best practices in age estimation. Particpants from Fisheries and Oceans Canada (DFO) are identified by their region (NL is the Newfoundland and Labrador Region, MAR is the Maritimes Region, GUL is the Gulf Region, QUE is the Quebec Region, OP is Ontario and Prairie Region, ARC is the Arctic Region and PAC is the Pacific Region).") |>
+  kableExtra::column_spec(c(1), width="5cm") |>
+  kableExtra::column_spec(c(2), width="3cm") |>
   kableExtra::column_spec(c(3), width="2cm") |>
   kableExtra::column_spec(c(4:6), width="1.0cm")
 ```

@@ -1,19 +1,14 @@
 # Introduction {#sec:introduction}
 
-The purpose of the Technical Expertise in Stock Assessment (TESA) program is to promote stock
-assessment excellence through organizing national activities that contribute to the development of
-expertise in stock assessment across Fisheries and Oceans Canada (DFO).
+The purpose of the Technical Expertise in Stock Assessment (TESA) program is to promote stock assessment excellence through organizing national activities that contribute to the development of expertise in stock assessment across Fisheries and Oceans Canada (DFO).
 
-TESA was created in 2009, in response to a loss of stock assessment expertise in DFO owing
-to retirements. Each year, TESA organises three or four training courses and one or two topical
-workshops on stock assessment issues. TESA is a national program with one or two representatives
-in each region – for more details see the [GCpedia website](http://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES) (only accessible from the DFO network).
+TESA was created in 2009, in response to a loss of stock assessment expertise in DFO owing to retirements. Each year, TESA organises three or four training courses and one or two topical workshops on stock assessment issues. TESA is a national program with one or two representatives in each region – for more details see the [GCpedia website](http://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES) (only accessible from the DFO network).
 
-This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, on January 31, February 01 and 02 2023. The list of participants can be found in Table \@ref(tab:participants) and all resources related to the workshop were stored in a [git repository maintained by TESA](https://github.com/TESA-workshops/ageing-best-practices-2023).
+This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, from January 31 to February 02 2023. The list of participants can be found in Table \@ref(tab:participants) and all resources related to the workshop were stored in a [git repository maintained by TESA](https://github.com/TESA-workshops/ageing-best-practices-2023).
 
 ## Motivations
 
-The use of an age-based population model is often lauded as the “gold standard” in stock assessment. Age-based models are favored over simpler population models because of their ability to convey biological realism and to provide a more nuanced understanding of population dynamics, including the effects of fishing on harvested populations. As the name implies, an age-based model requires information about the age of individuals in the population, which provides scientists with a foundation for analyzing the demographics of a population as it evolves over time. Ageing information, in conjunction with other observations, can inform us on the growth of individuals, on the age-at-maturation of individuals, on the age structure of a population and on other vital factors necessary to understand variations in numbers and biomass.
+The use of an age-based population model is often lauded as the “gold standard” in stock assessment. Age-based models are favored over simpler population models because of their ability to convey biological realism and to provide a more nuanced understanding of population dynamics, including the effects of fishing on harvested populations. As the name implies, an age-based model requires information about the age of individuals in the population, which provides scientists with a foundation for analyzing the demographics of a population as it evolves over time. Ageing information, in conjunction with other observations, can inform us on the growth of individuals, the age-at-maturation of individuals, the age structure of a population and on other vital factors necessary to understand variations in numbers and biomass.
 
 All DFO regions collect structures from marine organisms that are used in estimating their age. The procedures associated with collecting, cataloguing, storing, and obtaining age estimates of samples vary from lab to lab. It is important to follow best practices when estimating age from hard structures and not all personnel are aware of these.
 
@@ -33,4 +28,4 @@ The objectives of this workshop were to create a forum for discussion and for ex
 
 ## Format
 
-A hybrid meeting was held on Tuesday January 31 2023, Wednesday February 01 2023 and Thursday February 02 2023. The list of participants and the attendance can be found in Table \@ref(tab:participants). A total of 76 participants attended the event (30 in person and 46 virtually), and two external experts joined the meeting virtually. The workshop was attended by a wide variety of DFO personnel ranging from research scientists, to biologists, to fisheries technicians and also included two students from a local university.
+A hybrid meeting was held from January 31 2023 to February 02 2023. The list of participants and the attendance can be found in Table \@ref(tab:participants). A total of 76 participants attended the event (30 in person and 46 virtually), including two external experts who joined the meeting virtually. The workshop was attended by a wide variety of DFO personnel ranging from research scientists, to biologists, to fisheries technicians and also included two students and a professor from a local university.
