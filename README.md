@@ -1,6 +1,6 @@
 # 2023 TESA best practices in ageing workshop
 
-Thanks for attending the workshop, please [fill the post-workshop survey](https://forms.gle/wwJ4Dp6gabjytFMb8) and provide comments on the [draft proceedings document](./proceedings/TESA-age-estimation-workshop-proceedings-draft-to-coauthors-20230208.pdf).
+Thanks for attending the workshop.
 
 Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways possible.
 
