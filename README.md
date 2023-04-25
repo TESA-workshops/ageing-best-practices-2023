@@ -23,6 +23,12 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | Julie Davies	| DTU-Aqua (Denmark) | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
 | Lisa Ailloud	| NOAA-NMFS (USA) | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
 
+## Expected deliverables
+
+This GitHub repository to share presentations and other resources.
+
+Recommendations on what constitutes best practices for age estimation procedures, otolith imaging and analyses that use age information. These recommendations will appear in a workshop proceedings document (Canadian Technical Report of Fisheries and Aquatic Sciences).
+
 ## Schedule
 
 ### Tuesday January 31 2023 - Basics of age determination
@@ -181,13 +187,6 @@ List of the 77 participants (30 in person and 47 virtual), last revised 2023-04-
 |	77	|	DAL	|	Daniel Ruzzante	|	Virtual	|
 |	---	|	---	|	---	|	---	|
 
-## Expected deliverables
-
-Recommendations on what constitutes best practices for ageing procedures, otolith imaging and analyses that use age information.
-
-Proceedings (Can. Tech. Rep.).
-
-This GitHub repository to share presentations and other resources.
 
 ### Workshop dinner
 
