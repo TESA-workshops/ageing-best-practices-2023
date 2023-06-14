@@ -5,7 +5,7 @@ The working group formulated the following recommendations for how to deal with 
 ## Institutional
 \begin{enumerate}
 \item{Foster a community of DFO scientists whose mandated tasks include sampling of ageing structures, age estimation using ageing structures or analysis of age estimates data.}
-\item{Emulate the Pacific Ocean’s Community of Age Reading Experts (CARE) for the Atlantic and Arctic Oceans.}
+\item{Emulate the Pacific Ocean’s Committee of Age Reading Experts ([CARE]{https://care.psmfc.org/}) for the Atlantic and Arctic Oceans.}
 \item{Creation of a DFO working group that meets regularly to ensure that age estimations practices in different labs follow shared best practices.}
 \item{Provide support for inter-regional ageing structure exchanges and secondary reader testing.}
 \item{Achieve Canadian representation on appropriate ICES working groups related to quality assurance of age estimation as input for stock assessment (WGBIOP) or those developing the SmartDots platform (WGSMART).}

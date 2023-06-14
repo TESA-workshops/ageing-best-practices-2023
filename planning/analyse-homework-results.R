@@ -1,14 +1,17 @@
-
+## rm(list=ls())
 
 in.df <- readxl::read_xlsx("./Ageing-workshop-regional-homework-all-regions.xlsx", skip=3)
 in.df$ageing.structure <- in.df$`Ageing structure`
 in.df$n.years <- in.df$End.year - in.df$Start.year + 1
 
 in.df$stock <- paste0(in.df$Region.short, "-", substring(sapply(strsplit(in.df$`Scientific name`," "), "[", 1),1,1), ". ",  sapply(strsplit(in.df$`Scientific name`," "), "[", 2))
+in.df$sci.name <- in.df$`Scientific name`
+in.df$Structure.type <- in.df$`Structure type`
+in.df$taxonomic.category <- in.df$'Taxonomic category'
 
 xl <- range(in.df$Start.year, na.rm=TRUE)
 
-keep <- which(in.df$Start.year>=1900)
+keep <- which(in.df$Start.year>=1900) ## remove rows where no start year appears
 nn <- length(keep)
 
 yl <- c(0,nn+1)
@@ -37,5 +40,28 @@ box()
 dev.off()
 
 
-hist(use.df$n.years, breaks=15)
+## break down by other variables
+long.df <- in.df
+long.df$Structure.type <- factor(long.df$Structure.type, levels=c("Scale","Otolith","Other"), ordered=TRUE)
+long.df$taxonomic.category <- factor(long.df$taxonomic.category, levels=c("Diadromous","Marine fish","Freshwater fish","Mollusc","Marine mammal"), ordered=TRUE)
 
+
+library(ggplot2)
+
+g <- ggplot(data=long.df, aes(x=Start.year, xend=End.year, y=sci.name, yend=sci.name)) +
+  geom_segment() + xlab("Year") + ylab("Stock name") +
+  facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category), scales="free")
+g
+
+
+g <- ggplot(data=long.df, aes(Region.short)) +
+  geom_histogram(stat="count") +
+  facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category)) +
+  theme_bw() +
+  xlab("DFO Region") + ylab("Number of stocks")
+g
+
+pdf.fn <- "number-of-stocks-by-structure-and-taxonomic-group.pdf"
+ggsave(g, file=pdf.fn, width=8.5, height=11)
+
+hist(use.df$n.years, breaks=15)

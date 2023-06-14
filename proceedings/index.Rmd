@@ -39,9 +39,9 @@ french_address: |
 phone: "(555) 555-5555"
 author_footnote: "Email: First.Author@dfo-mpo.gc.ca | telephone: (250) 756-5555"
 abstract: |
-  A three-day workshop was held in Moncton, New Brunswick, from January 31 2023 to February 02 2023. The aim of the workshop was to examine and discuss best practices in the use of structures for age estimation. 
+  A three-day workshop was held in Moncton, New Brunswick, from January 31 to February 02 2023. The aim of the workshop was to examine and discuss best practices in the use of structures for age estimation. 
 french_abstract: |
-  Voici le résumé.
+  Un atelier de trois jours a eu lieu à Moncton, au Nouveau-Brunswick, du 31 janvier au 02 février 2023. Le but de l'atelier était d'examiner et de discuter des meilleures pratiques dans l'utilisation des structures pour l'estimation de l'âge.
 output:
  csasdown::techreport_pdf:
    french: false

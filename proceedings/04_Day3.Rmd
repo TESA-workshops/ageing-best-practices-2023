@@ -1,4 +1,4 @@
-# Day 3 - Analysis of age estimates {#sec:day3}
+## Day 3 - Analysis of age estimates {#sec:day3}
 
 The third day of the workshop focused on what is done with age estimates, namely the use of such data in fitting growth models and in computing catch-at-age matrices.
 

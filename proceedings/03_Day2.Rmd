@@ -1,4 +1,4 @@
-# Day 2 - Digital imaging of ageing structures {#sec:day2}
+## Day 2 - Digital imaging of ageing structures {#sec:day2}
 
 The second day of the workshop focused on topics related to the capture of digital images of ageing structures and how to annotate them.
 

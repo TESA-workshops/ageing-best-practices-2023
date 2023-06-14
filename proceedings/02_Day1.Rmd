@@ -1,12 +1,14 @@
-# Day 1 - Basics of age estimation {#sec:day1}
+# Workshop activities and presentations
+
+## Day 1 - Basics of age estimation {#sec:day1}
 
 The first day covered the basics of ageing. The literature on research associated with otoliths is vast and varied.
 
 Peter Comeau gave a presentation on the history and realities of age estimation of marine organisms. 
 
-Julie Coad Davies gave an overview of the age estimation activities that she is involved in, in her role as lab manager for DTU Aqua and also through her chairing the ICES Working Group on SmartDots Governance (WGSMART) WKSMART and the ICES Working Group on Biological Parameters (WGKBIOP).
+Julie Coad Davies gave an overview of the age estimation activities that she is involved in, in her role as lab manager for DTU Aqua and also through her chairing the ICES Working Group on SmartDots Governance ([WGSMART](https://www.ices.dk/community/groups/Pages/WGSMART.aspx)) and the ICES Working Group on Biological Parameters ([WGBIOP](https://www.ices.dk/community/groups/Pages/WGBIOP.aspx)).
 
-Stephen Wischniowski shared his experience of running an age estimation laboratory at the Pacific Biological Station and being involved in the Community of Age Reading Experts (CARE) .
+Stephen Wischniowski shared his experience of running an age estimation laboratory at the Pacific Biological Station and being involved in the Committee of Age Reading Experts ([CARE](https://care.psmfc.org/)) .
 
 Sylvie Robichaud and Karen Robertson presented the procedures associated with age estimation of Atlantic Herring in the Gulf Region. 
 

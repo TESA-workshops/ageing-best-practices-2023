@@ -1,27 +1,20 @@
 
-
 # Remarks from external experts
 
 Remarks from Julie Coad Davies from DTU Aqua:
-\begin{verbatim}
-The workshop has been an excellent forum for those working with age reading and the 
-age data resulting from their work. With such a variety of expertise across labs 
-and regions under the DFO it is important that a community is formed to facilitate 
-knowledge sharing on best practices. There are opportunities for age reading 
-calibration across labs who are age reading the same stocks, cooperation on updating 
-reference collections and knowledge sharing on image acquisition and method testing. 
+\begin{quotation}
+The workshop has been an excellent forum for those working with age reading and the age data resulting from their work. With such a variety of expertise across labs and regions under the DFO it is important that a community is formed to facilitate knowledge sharing on best practices. There are opportunities for age reading calibration across labs who are age reading the same stocks, cooperation on updating reference collections and knowledge sharing on image acquisition and method testing. 
 
-Future plans to have a DFO version of SmartDots will facilitate this and will support 
-an overall improvement in the quality of the age data coming from the age reading labs 
-and how the data is subsequently used in the stock assessment process. Forming a 
-working group who meet annually will foster the communication required to sustain the 
-community. 
-\end{verbatim}
+Future plans to have a DFO version of SmartDots will facilitate this and will support an overall improvement in the quality of the age data coming from the age reading labs and how the data is subsequently used in the stock assessment process. Forming a working group who meet annually will foster the communication required to sustain the community. 
+\end{quotation}
 
 Remarks from Lisa Ailloud from NOAA NMFS:
-\begin{verbatim}
-What Lisa said.
-\end{verbatim}
+\begin{quotation}
+The 2023 TESA best practices in ageing workshop was a very successful meeting. It provided a forum for experts from different labs and regions to share experiences, pain points and new developments in fish age determination and modeling. Age and growth play an important role in stock assessment and any biases in these input quantities can ultimately affect the correct evaluation of stock status and management advice. It is therefore essential to identify the potential sources of bias and take the necessary steps to mitigate them. Discussions carried out during the workshop helped advance this goal. Having a wide range of expertise present helped broaden the discussions and bridge the gap between the various stages of data and model development.
+
+As participants shared their individual experiences, advances and setbacks, it became clear that many of the issues raised were common across labs and relevant to the group as a whole. This type of forum where solutions can be worked out and shared among experts is an important step towards homogenizing protocols and increasing overall efficiency. Participants clearly showed an interest in understanding past practices and improving upon them. Discussions around making use of automation and open science principles to increase transparency in the process were very encouraging. New technological developments were also shared with the group. Preliminary results for their application appear very promising. 
+
+\end{quotation}
 
 # Discussion
 
@@ -30,3 +23,5 @@ Over and over during the workshop, it was emphasized that while otoliths are the
 It was discussed how age estimation using ageing structures is more than just "counting the rings" and requires a wealth of experience in order to interpret the patterns observed on ageing structures.
 
 The workshop attendees identified the need to develop and foster a community of DFO scientists whose tasks involve age estimation.
+
+Given the large number of taxa for which ageing materials are collected by different regions of Fisheries and Oceans Canada (Figure \@ref(fig:fighistogram)), the recommendations from this workshop involve programs spanning the whole country, and concern stocks in the Atlantic, Arctic and Pacific oceans, as well as a number of diadromous and freshwater species.
