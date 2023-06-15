@@ -1,13 +1,65 @@
 \clearpage
 # Tables
 
+\begin{table}
+\caption{List of presentations given at the TESA workshop on best practices in age estimation.}\label{tab:talks}
+\begin{tabular}{p{5.5cm}p{7cm}p{2.5cm}}
+Presenter(s) & Presentation title & Link to slides \\
+\toprule
+\multicolumn{2}{l}{\bfseries{Day 1}}\\
+Peter Comeau & Fish age determination - Some of the basics  & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Ageing\%20Workshop\%20Comeau.pptx}{Power Point file} \\
+
+Julie Davies & & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/QA-for-stock-assessment.pdf}{PDF file} \\
+
+Tracey Loewen and Rick Wastle & Otolith microchemistry, difficult-to-age marine species, element marking in otoliths & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/TESA-Age-Workshop_Loewen2023.pdf}{PDF file} \\
+
+Stephen Wischniowski & & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/SCL_TESA-2023-Stephen-Day1.pdf}{PDF file} \\
+
+Daniel Ricard & & \link{}{} \\
+
+Kim Emond and Hélène Dionne & Age determination of Atlantic Herring in the Québec region & \link{}{Power Point file} \\
+
+Sylvie Robichaud and Karen Robertson & Age determination of Atlantic Herring in the Gulf region & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Age\%20determination\%20of\%20Atlantic\%20Herring\%20in\%20the\%20Gulf.pptx}{Power Point file} \\
+
+Tania Davignon-Burton & Reconciling dreams, expectations and reality in a production ageing environment & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Reconciling\%20dreams\%2C\%20expectations\%20and\%20reality\%20in\%20a.pptx}{Power Point file} \\
+\midrule
+\multicolumn{2}{l}{\bfseries{Day 2}}\\
+
+Julie Davies & SmartDots – a tool created by the users for the users & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/SmartDots\%E2\%80\%93a-tool-created-by-the-users-for-the-users.pdf}{PDF file} \\
+
+Karen Robertson, Isabelle Forest and Sylvie Robichaud & Taking good pictures of otoliths, and annotating them in SmartDots & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Taking\%20Good\%20Pictures\%2C\%20annotating\%20in\%20Smartdots.pptx}{Power Point file} \\
+
+\midrule
+\multicolumn{2}{l}{\bfseries{Day 3}}\\
+
+Andrea Perreault & Impacts of ignoring length-stratified sampling design & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Perreault_length_stratified_sampling.pptx}{Power Point file} \\
+
+Lisa Ailloud & Analyses of ageing data / A general theory of age-length keys & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/AilloudALK_sent20230130.pptx}{Power Point file} \\
+
+Kim Emond and Hélène Dionne & Catch-at-age of commercial herring landings and numbers-at-age from acoustics surveys &  \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/TESA_workshop_CAA_Feb2-Kim-Emond.pdf}{PDF file} \\
+
+Chris Corriveau and Ellie Weise & Developing aging clocks for fish using DNA methylation & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/TESA\%20presentation_2023-DNA-methylation-Ellie-and-Chris.pptx}{Power Point file} \\
+
+\bottomrule
+\end{tabular}
+\end{table}
+
+\clearpage
+
+
 ```{r participants, results='asis'}
 
 in.df <- readxl::read_xlsx("../planning/workshop-participants.xlsx", sheet = "attendance", skip=1)
 
+ricard.i <- which(in.df$Name=="Daniel Ricard")
+in.df$Name[ricard.i] <- "Daniel Ricard (co-chair)"
+
+comeau.i <- which(in.df$Name=="Peter Comeau")
+in.df$Name[comeau.i] <- "Peter Comeau (co-chair)"
+
 in.df <- rbind(in.df,
-               c("Lisa Ailloud","Ailloud","NOAA NMFS", "Virtual","","","$\\checkmark$"),
-               c("Julie Davies","Davies","DTU Aqua", "Virtual","$\\checkmark$","$\\checkmark$","$\\checkmark$")
+               c("Lisa Ailloud (external expert)","Ailloud","NOAA NMFS", "Virtual","","","$\\checkmark$"),
+               c("Julie Davies (external expert)","Davies","DTU Aqua", "Virtual","$\\checkmark$","$\\checkmark$","$\\checkmark$")
                )
 
 oo <- order(in.df$Lastname)

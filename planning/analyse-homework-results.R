@@ -45,8 +45,16 @@ long.df <- in.df
 long.df$Structure.type <- factor(long.df$Structure.type, levels=c("Scale","Otolith","Other"), ordered=TRUE)
 long.df$taxonomic.category <- factor(long.df$taxonomic.category, levels=c("Diadromous","Marine fish","Freshwater fish","Mollusc","Marine mammal"), ordered=TRUE)
 
+## use species and region for uniqueness, to deflate the Newfoundland case where the same species appear for each survey
+long.df$uid <- paste0(long.df$Region.short, "-", long.df$`Scientific name`)
+long.df$scientific.name <- long.df$`Scientific name`
 
 library(ggplot2)
+
+g <- ggplot(data=long.df, aes(x=Start.year, xend=End.year, y=stock, yend=stock)) +
+  geom_segment() + xlab("Year") + ylab("Stock name")
+g
+
 
 g <- ggplot(data=long.df, aes(x=Start.year, xend=End.year, y=sci.name, yend=sci.name)) +
   geom_segment() + xlab("Year") + ylab("Stock name") +
@@ -58,10 +66,30 @@ g <- ggplot(data=long.df, aes(Region.short)) +
   geom_histogram(stat="count") +
   facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category)) +
   theme_bw() +
-  xlab("DFO Region") + ylab("Number of stocks")
+  xlab("DFO Region") + ylab("Number of collections")
 g
 
 pdf.fn <- "number-of-stocks-by-structure-and-taxonomic-group.pdf"
 ggsave(g, file=pdf.fn, width=8.5, height=11)
 
-hist(use.df$n.years, breaks=15)
+## histogram showing the number of years
+g <- ggplot(data=long.df, aes(x=Region.short, y=n.years)) +
+  geom_boxplot() +
+  facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category), scales = "free") +
+  theme_bw() +
+  xlab("DFO Region") + ylab("Number of years of available age structures")
+g
+pdf.fn <- "number-of-years-by-structure-and-taxonomic-group.pdf"
+ggsave(g, file=pdf.fn, width=8.5, height=11)
+
+
+g <- ggplot(data=long.df, aes(x=uid, y=Start.year, colour=Region.short)) +
+  geom_segment(aes(xend=uid, yend=End.year)) +
+  facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category), scales = "free") +
+  theme_bw() + ylab("Time span of age structure availability") + xlab("Stock") +
+  theme(axis.text.x=element_blank())
+
+g
+
+pdf.fn <- "timespan-by-structure-and-taxonomic-group.pdf"
+ggsave(g, file=pdf.fn, width=8.5, height=11)

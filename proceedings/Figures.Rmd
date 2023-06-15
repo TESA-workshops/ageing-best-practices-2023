@@ -13,7 +13,7 @@ knitr::include_graphics("../planning/orca-plot.png")
 ```
 -->
 
-(ref:caption-fighistogram) Number of stocks for which ageing materials are collected and analysed by the different regions of Fisheries and Oceans Canada.
+(ref:caption-fighistogram) Number of stocks for which ageing materials are collected and analysed by the different regions of Fisheries and Oceans Canada. The list of collections used to generate this figure appear in Table \@ref(tab:homework).
 ```{r fighistogram, fig.cap="(ref:caption-fighistogram)"}
 knitr::include_graphics("../planning/number-of-stocks-by-structure-and-taxonomic-group.pdf")
 ```

@@ -22,7 +22,7 @@ The objectives of this workshop were to create a forum for discussion and for ex
 
 - guidance on ageing structures collection and on the sampling design for collecting ageing structures
 
-- guidance on age determination using ageing structures, best practices for annuli validation, reference collections, ager calibration, archival of ageing structures and data warehousing 
+- guidance on age determination using ageing structures, best practices for annuli validation, reference collections, age estimation technician calibration, archival of ageing structures and data warehousing 
 
 - guidance on digital imaging of ageing structures
 

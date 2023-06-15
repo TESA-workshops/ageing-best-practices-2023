@@ -22,6 +22,6 @@ Over and over during the workshop, it was emphasized that while otoliths are the
 
 It was discussed how age estimation using ageing structures is more than just "counting the rings" and requires a wealth of experience in order to interpret the patterns observed on ageing structures.
 
-The workshop attendees identified the need to develop and foster a community of DFO scientists whose tasks involve age estimation.
+The workshop attendees identified the need to develop and foster a community of DFO scientists whose tasks involve age estimation. As such, the workshop provided a starting point in establishing this community.
 
-Given the large number of taxa for which ageing materials are collected by different regions of Fisheries and Oceans Canada (Figure \@ref(fig:fighistogram)), the recommendations from this workshop involve programs spanning the whole country, and concern stocks in the Atlantic, Arctic and Pacific oceans, as well as a number of diadromous and freshwater species.
+

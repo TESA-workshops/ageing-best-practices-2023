@@ -2,7 +2,7 @@
 
 The third day of the workshop focused on what is done with age estimates, namely the use of such data in fitting growth models and in computing catch-at-age matrices.
 
-Growth models presentations by Daniel Ricard and Andrea Perreault. The importance of accounting for length-stratified sampling was emphasized since it can lead to biased estimates of growth model parameters [@Perreault-etal-2020-length-stratification].
+Daniel Ricard and Andrea Perreault gave presentations on growth models. The importance of accounting for length-stratified sampling was emphasized since it can lead to biased estimates of growth model parameters [@Perreault-etal-2020-length-stratification].
 
 Lisa Ailloud from NOAA NMFS gave a presentation about age-length keys. She discussed the distinction between forward and reverse age-length keys, and provided an alternative hybrid methodology that was previously applied to bluefin tuna [@Ailloud-Hoenig-2019-theory; @Ailloud-etal-2019-bluefin].  
 
@@ -12,4 +12,4 @@ Kim Emond from the Quebec Region presented the methodologies used in the herring
 
 Christopher Corriveau and Ellie Weise from Dalhousie University presented their work on using DNA methylation to estimate ages. The presentation provided an overview of this new methodology.
 
-A group discussion finally took place to draft the recommendations that appears in section \@ref(sec:recommendations). The recommendations cover a variety of subjects, ranging from practical recommendations for age estimation to institutional recommendations that could foster the development of a community of age readers within DFO.
+A group discussion finally took place to draft the recommendations that appears in section \@ref(sec:recommendations). The recommendations cover a variety of subjects, ranging from practical recommendations for age estimation to institutional recommendations that could foster the development of a community of age readers within DFO. 

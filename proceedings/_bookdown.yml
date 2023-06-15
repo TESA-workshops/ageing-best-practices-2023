@@ -8,6 +8,7 @@ rmd_files: ["index.Rmd",
             "06_Conclusions.Rmd",
             "Tables.Rmd",
             "Figures.Rmd",
-            "07_Bibliography.Rmd"
+            "07_Bibliography.Rmd",
+            "08_Appendix.Rmd"
             ]
 delete_merged_file: true

@@ -2,15 +2,15 @@
 
 The second day of the workshop focused on topics related to the capture of digital images of ageing structures and how to annotate them.
 
-The day started with a tour of the laboratory facilities used in age estimations at the Gulf Fisheries Centre. 
+The day started with a tour of the laboratory facilities used in age estimations at the Gulf Fisheries Centre. The laboratories used for age estimation of Atlantic Cod, American Plaice, Winter Flounder, Yellowtail Flounder and Atlantic Herring. The facilities used for imaging whole otoliths mounted in epoxy and imaging of whole otoliths were visited and participants had the opportunity to ask questions and try the tools and software used by their Gulf Region colleagues.
 
 Presentation about SmartDots from external expert Julie Coad Davies. 
 
 Talk by Karen Robertson on taking good images of otoliths.
 
-David Fishman presented options for developing a storage solution for otolith images. A siscussion about DFO Dots followed.
+David Fishman presented options for developing a storage solution for otolith images. A discussion about DFO Dots followed. Participants felt that having access to a tool that helps in managing otolith collections and curating reference collections would be beneficial to their work.
 
-Discussion on SmartDots reporting features and use for obtaining growth increments.
+Discussion on SmartDots reporting features and use for obtaining growth increments. 
 
 Capturing digital images of ageing structures adds time to the laboratory process used to obtain age estimates. It is unclear whether the benefits of obtaining digital images of ageing structures outweighs the costs associated with the additional time required. As a starting point, a reference collection should be imaged. Having a reference collection of imaged otoliths allows you to document examples of what otoliths of a particular age-class look like and to explain why classification of being a different age would be incorrect. Reference collections are also useful for training new readers and for providing continuity in ageing methodologies when there are discontinuities in an aging program (e.g. times when there is no overlap between new and former readers).  
 
