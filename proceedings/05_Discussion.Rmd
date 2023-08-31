@@ -1,6 +1,3 @@
-*Dan* made a comment here.
-
-\emph{Dan}
 
 # Remarks from external experts
 
