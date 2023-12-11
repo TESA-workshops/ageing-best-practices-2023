@@ -54,7 +54,7 @@ The working group formulated the following recommendations for how to deal with 
 \item Digital imaging of ageing structures
 \begin{enumerate}
 \item{Ensure that a correctly calibrated scale bar is present in the image so that the image scale in pixels per mm can be determined.}
-\item{The file naming convention to use when taking images of ageing structures should uniquely identify each ageing structure, a recommended nomenclature would be as follows: }
+\item{The file naming convention to use when taking images of ageing structures should uniquely identify each ageing structure, should contain the image number (in cases where more than one picture is taken for each ageing structure) and also contain the resolution of the image (in pixels per mm). }
 \item{When practical, promote the capture of digital images of ageing structures.}
 \item{Digital images (JPEG format) of ageing structures should be stored in enterprise-level infrastructure where proper backups are in place.}
 \item{A DFO-led app to store and retrieve digital images of ageing structures should be implemented to facilitate the management of these images and to provide integration with the SmartDots software.}
