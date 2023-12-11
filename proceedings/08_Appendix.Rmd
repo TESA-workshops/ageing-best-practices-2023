@@ -21,7 +21,12 @@ csasdown::csas_table(out.df,
                      format="latex",
                      longtable = TRUE,
                      col_names = c("Region", "Common name", "Scientific name", "Stock", "Type of structure", "Years collected"),
-                     caption="Fisheries and Oceans Canada (DFO) regions (NL is the Newfoundland and Labrador Region, MAR is the Maritimes Region, GUL is the Gulf Region, QUE is the Quebec Region, OP is Ontario and Prairie Region, ARC is the Arctic Region and PAC is the Pacific Region). SFA is Salmon Fishing Area, NAFO is the Northwest Atlantic Fisheries Organization and PMFC is the Pacific Marine Fisheries Commission") 
+                     caption="Fisheries and Oceans Canada (DFO) regions (NL is the Newfoundland and Labrador Region, MAR is the Maritimes Region, GUL is the Gulf Region, QUE is the Quebec Region, OP is Ontario and Prairie Region, ARC is the Arctic Region and PAC is the Pacific Region). SFA is Salmon Fishing Area, NAFO is the Northwest Atlantic Fisheries Organization and PMFC is the Pacific Marine Fisheries Commission") |>
+  kableExtra::column_spec(c(2), width="1.6in") |>
+  kableExtra::column_spec(c(3), width="1.75in", italic = TRUE) |>
+  kableExtra::column_spec(c(4), width="1.5in") |>
+  kableExtra::column_spec(c(6), width="1.4in")
+
 ```
 \end{landscapepage}
 
