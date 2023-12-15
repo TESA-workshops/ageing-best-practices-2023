@@ -57,7 +57,7 @@ output:
    # beginning of the document
    lot_lof: false
    # draft_watermark is a toggle to show/not show a DRAFT watermark across every page
-   draft_watermark: false
+   draft_watermark: true
    # highlight is the theme to use for code output. Must be one of the list given by:
    # pandoc --list-highlight-styles
    # which are:

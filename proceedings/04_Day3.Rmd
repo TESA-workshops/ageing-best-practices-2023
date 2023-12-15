@@ -10,6 +10,6 @@ Catch-at-age calculations presentation by Andrew Smith from the Quebec Region de
 
 Kim Emond from the Quebec Region presented the methodologies used in the herring stock assessment to compute catch-at-age matrices from commercial landings and from hydroacoustic surveys.Once again, Kim highlighted the need to reduce subjectivity in computations of catch-at-age, to document decisions and be consitent with decision making across years. 
 
-Christopher Corriveau and Ellie Weise from Dalhousie University presented their work on using DNA methylation to estimate ages. The presentation provided an overview of this new methodology and highlied a novel potential way forward for ageing that could provide less reader subjectivity if refined and calibrated appropriately.
+Christopher Corriveau and Ellie Weise from Dalhousie University presented their work on using DNA methylation to estimate ages. The presentation provided an overview of this new methodology and highlighted a novel way forward for age estimation that could provide less reader subjectivity if refined and calibrated appropriately.
 
 A group discussion finally took place to draft the recommendations that appears in section \@ref(sec:recommendations). The recommendations cover a variety of subjects, ranging from practical recommendations for age estimation to institutional recommendations that could foster the development of a community of age readers within DFO. 
