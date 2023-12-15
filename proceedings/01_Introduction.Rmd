@@ -1,6 +1,6 @@
 # Introduction {#sec:introduction}
 
-The purpose of the Technical Expertise in Stock Assessment (TESA) program is to promote stock assessment excellence through organizing national activities that contribute to the development of expertise in stock assessment across Fisheries and Oceans Canada (DFO).
+The purpose of the Technical Expertise in Stock Assessment (TESA) program is to promote stock assessment excellence through organising national activities that contribute to the development of expertise in stock assessment across Fisheries and Oceans Canada (DFO).
 
 TESA was created in 2009, in response to a loss of stock assessment expertise in DFO owing to retirements. Each year, TESA organises three or four training courses and one or two topical workshops on stock assessment issues. TESA is a national program with one or two representatives in each region – for more details see the [GCpedia website](http://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES) (only accessible from the DFO network).
 
@@ -8,7 +8,7 @@ This report provides a written record of the TESA workshop on "Best practices in
 
 ## Motivations
 
-The use of an age-based population model is often lauded as the “gold standard” in stock assessment. Age-based models are favored over simpler population models because of their ability to convey biological realism and to provide a more nuanced understanding of population dynamics, including the effects of fishing on harvested populations. As the name implies, an age-based model requires information about the age of individuals in the population, which provides scientists with a foundation for analyzing the demographics of a population as it evolves over time. Age estimates, in conjunction with other observations, can inform us on the growth of individuals, the age-at-maturation of individuals, the age structure of a population and on other vital factors necessary to understand variations in numbers and biomass.
+The use of an age-based population model is often lauded as the “gold standard” in stock assessment. Age-based models are favored over simpler population models because of their ability to convey biological realism and to provide a more nuanced understanding of population dynamics, including the effects of fishing on harvested populations. As the name implies, an age-based model requires information about the age of individuals in the population, which provides scientists with a foundation for analysing the demographics of a population as it evolves over time. Age estimates, in conjunction with other observations, can inform us on the growth of individuals, the age-at-maturation of individuals, the age structure of a population and on other vital factors necessary to understand variations in numbers and biomass.
 
 All DFO regions collect structures from marine organisms that are used in estimating their age. The procedures associated with collecting, cataloguing, storing, and obtaining age estimates of samples vary from lab to lab. It is important to follow best practices when estimating age from hard structures and not all personnel are necessarily aware of these practices.  
 

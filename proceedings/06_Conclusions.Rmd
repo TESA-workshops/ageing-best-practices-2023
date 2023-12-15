@@ -16,7 +16,7 @@ The working group formulated the following recommendations for how to deal with 
 \item Ageing structure cataloguing, storage and inventory
 \begin{enumerate}
 \item{Ensure that physical collections of ageing structures follow the DFO "Policy on Collection, Storage, Management and Use of Physical Samples for Science Research".}
-\item{Ageing structures should be stored in an environment that minimizes degradation and that maintains readability.}
+\item{Ageing structures should be stored in an environment that minimises degradation and that maintains readability.}
 \item{Ageing structures removed from an individual should be uniquely identified.}
 \item{Clearly label ageing structures so they can be traced back to their collection, implement good bookkeeping of your ageing structures.}
 \item{An electronic inventory of the physical ageing structures available should be documented and updated regularly.}
@@ -37,10 +37,10 @@ The working group formulated the following recommendations for how to deal with 
 \begin{enumerate}
 \item{Strive to obtain unbiased age estimates by regularly performing age reader calibrations and by carrying out regular quality-checks for each species/stock (both within and across laboratories).}
 \item{Develop and publish Standard Operating Procedures for each lab.}
-\item{Develop standardized protocols to validate age estimates (add to your regional SOP).}
+\item{Develop standardised protocols to validate age estimates (add to your regional SOP).}
 \item{Favour age estimation in a “blind” setting, where no prior knowledge (except date of capture) is used when interpreting patterns in ageing structures, don’t let outside information influence your age estimates.}
 \item{Establish a quality-control process to identify mistakes made during data entry (e.g. typos).}
-\item{Document the uncertainty associated with age estimates by means of a standardized quality assurance scale.}
+\item{Document the uncertainty associated with age estimates by means of a standardised quality assurance scale.}
 \item{Generate an age-error matrix as part of your standard procedures.}
 \item{Have at least two age readers for any given stock, for redundancy.}
 \end{enumerate}
