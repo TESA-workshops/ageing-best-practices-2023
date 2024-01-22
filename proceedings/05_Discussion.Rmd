@@ -1,3 +1,4 @@
+\clearpage
 
 # Remarks from external experts
 
@@ -15,6 +16,8 @@ The 2023 TESA best practices in ageing workshop was a very successful meeting. I
 As participants shared their individual experiences, advances and setbacks, it became clear that many of the issues raised were common across labs and relevant to the group as a whole. This type of forum where solutions can be worked out and shared among experts is an important step towards homogenizing protocols and increasing overall efficiency. Participants clearly showed an interest in understanding past practices and improving upon them. Discussions around making use of automation and open science principles to increase transparency in the process were very encouraging. New technological developments were also shared with the group. Preliminary results for their application appear very promising. 
 
 \end{quotation}
+
+\clearpage
 
 # Discussion
 

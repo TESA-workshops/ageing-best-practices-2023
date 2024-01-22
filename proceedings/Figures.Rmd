@@ -1,5 +1,9 @@
 # Figures
 
+(ref:caption-figregions) DFO regions map from \url{https://www.dfo-mpo.gc.ca/about-notre-sujet/organisation-eng.htm}.
+```{r figregions, fig.cap="(ref:caption-figregions)"}
+knitr::include_graphics("./images/region-dfo-mpo-canada.png")
+```
 
 (ref:caption-figworkshop) Day 1 of the TESA workshop "best practices in age estimation" held at the Atlantic Science Enterprise Center in Moncton, NB on 31 January, 01-02 February 2023.
 ```{r figworkshop, fig.cap="(ref:caption-figworkshop)"}
@@ -13,7 +17,7 @@ knitr::include_graphics("../planning/orca-plot.png")
 ```
 -->
 
-(ref:caption-fighistogram) Number of stocks for which ageing materials are collected and analysed by the different regions of Fisheries and Oceans Canada. The list of collections used to generate this figure appear in Table \@ref(tab:homework).
+(ref:caption-fighistogram) Number of stocks for which ageing materials are collected and analysed by the different regions of Fisheries and Oceans Canada (GLF is the Gulf Region, MAR is the Maritimes Region, NL is the Newfoundland and Labrador Region, OP is Ontario and Prairie Region, ARC is the Arctic Region, PAC is the Pacific Region and QUE is the Québec Region).). The list of collections used to generate this figure appear in Table \@ref(tab:homework).
 ```{r fighistogram, fig.cap="(ref:caption-fighistogram)"}
 knitr::include_graphics("../planning/number-of-stocks-by-structure-and-taxonomic-group.pdf")
 ```

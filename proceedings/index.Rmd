@@ -1,7 +1,7 @@
 ---
 title: "Proceedings of the Technical Expertise in Stock Assessment (TESA) national workshop on best pratices in age estimation, 31 January to 02 February 2023 in Moncton, New Brunswick"
 french_title: Titre ici (*Nom latin de l'espèce*)
-year: 2023
+year: 2024
 report_number: nnn
 author: |
   Daniel Ricard^1^,
@@ -23,7 +23,7 @@ author: |
 author_list: "Ricard, D., Comeau, P., Adamack, A., Burbank, J., Daigle, A., Debertin, A., Emond, K., Loewen, T., Perreault, A., Puncher, G., Robertson, K., Rolland, N., Schofield, M., Smith, A., Sylvain, F.-É. and Wischniowski, S."
 region: Gulf Region
 french_region: Région du Golfe
-isbn: ""
+isbn: "ISBN GOES HERE"
 address: |
   ^1^Gulf Fisheries Centre, Fisheries and Oceans Canada, 343 Université Avenue, Moncton, New Brunswick, E1C 9B6\
   ^2^Bedford Institute of Oceanography, Fisheries and Oceans Canada, 1 Challenger Dr., Dartmouth, Nova Scotia, B2Y 4A2\
@@ -37,7 +37,7 @@ french_address: |
   Pêches et Océans Canada\
   Moncton, Nouveau-Brunswick, E1C 5K4, Canada\
 phone: "(506) 377-9527"
-author_footnote: "Email: First.Author@dfo-mpo.gc.ca | telephone: (250) 756-5555"
+author_footnote: "Email: Daniel.Ricard@dfo-mpo.gc.ca | telephone: (506) 377-9527"
 abstract: |
   A three-day workshop was held in Moncton, New Brunswick, from January 31 to February 02 2023. The aim of the workshop was to examine and discuss best practices in the use of structures for age estimation. A summary of the different presentations is given along with a brief overview of discussions that took place during the workshop. A total of 43 recommendations are formulated to provide guidance for practitioners involved in the collection of otoliths and other hard parts, and in analyses of age estimates.
 french_abstract: |
@@ -50,7 +50,7 @@ output:
    # will remain between compilations. If true, your changes will be lost when you compile
    copy_sty: true
    # line_nums is a toggle to show line numbers on the left side of the page. 
-   line_nums: true
+   line_nums: false
    # line_nums_mod represents showing every Nth line if line_nums is true
    line_nums_mod: 1
    # lot_lof is a toggle to show/not show the lists of tables and figures at the
