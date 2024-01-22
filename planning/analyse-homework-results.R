@@ -62,15 +62,22 @@ g <- ggplot(data=long.df, aes(x=Start.year, xend=End.year, y=sci.name, yend=sci.
 g
 
 
-g <- ggplot(data=long.df, aes(Region.short)) +
-  geom_histogram(stat="count") +
+## use a colour palette that matches the DFO regions map
+my.cols <- c("GLF"="#8eb945", "MAR"="#f0f6ca", "NL"="#93f8e6", "OP/ARC"="#b1cae0", "PAC"="#f1b99e", "QUE"="#d4b3c8")
+
+g <- ggplot(data=long.df, aes(Region.short, fill=Region.short)) +
+  geom_histogram(stat="count", colour=grey(0.5)) +
   facet_grid(cols=vars(Structure.type), rows=vars(taxonomic.category)) +
-  theme_bw() +
-  xlab("DFO Region") + ylab("Number of collections")
+  theme_bw() +  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1)) +
+  xlab("DFO Region") + ylab("Number of collections") +
+  scale_color_manual(name="DFO Region", values = my.cols,
+                     aesthetics = c("fill"))
 g
 
 pdf.fn <- "number-of-stocks-by-structure-and-taxonomic-group.pdf"
-ggsave(g, file=pdf.fn, width=8.5, height=11)
+ggsave(g, file=pdf.fn, width=6, height=8)
+
+
 
 ## histogram showing the number of years
 g <- ggplot(data=long.df, aes(x=Region.short, y=n.years)) +
@@ -93,3 +100,4 @@ g
 
 pdf.fn <- "timespan-by-structure-and-taxonomic-group.pdf"
 ggsave(g, file=pdf.fn, width=8.5, height=11)
+

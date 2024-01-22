@@ -4,23 +4,23 @@ The purpose of the Technical Expertise in Stock Assessment (TESA) program is to 
 
 TESA was created in 2009, in response to a loss of stock assessment expertise in DFO owing to retirements. Each year, TESA organises three or four training courses and one or two topical workshops on stock assessment issues. TESA is a national program with one or two representatives in each region – for more details see the [GCpedia website](http://www.gcpedia.gc.ca/wiki/DFO_Science_TESA_ETES) (only accessible from the DFO network).
 
-This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, from January 31 to February 02 2023. The list of participants can be found in Table \@ref(tab:participants) and all resources related to the workshop were stored in a [git repository maintained by TESA](https://github.com/TESA-workshops/ageing-best-practices-2023).
+This report provides a written record of the TESA workshop on "Best practices in age estimation" that was held in Moncton, NB, from January 31 to February 02 2023 (Figure \@ref(fig:figworkshop)). The list of participants can be found in Table \@ref(tab:participants) and all resources related to the workshop were stored in a [git repository maintained by TESA](https://github.com/TESA-workshops/ageing-best-practices-2023).
 
 ## Motivations
 
 The use of an age-based population model is often lauded as the “gold standard” in stock assessment. Age-based models are favored over simpler population models because of their ability to convey biological realism and to provide a more nuanced understanding of population dynamics, including the effects of fishing on harvested populations. As the name implies, an age-based model requires information about the age of individuals in the population, which provides scientists with a foundation for analysing the demographics of a population as it evolves over time. Age estimates, in conjunction with other observations, can inform us on the growth of individuals, the age-at-maturation of individuals, the age structure of a population and on other vital factors necessary to understand variations in numbers and biomass.
 
-All DFO regions collect structures from marine organisms that are used in estimating their age. The procedures associated with collecting, cataloguing, storing, and obtaining age estimates of samples vary from lab to lab. It is important to follow best practices when estimating age from hard structures and not all personnel are necessarily aware of these practices.  
+All DFO regions (Figure \@ref(fig:figregions)) collect structures from marine organisms that are used in estimating their age. The procedures associated with collecting, cataloguing, storing, and obtaining age estimates of samples vary from lab to lab. It is important to follow best practices when estimating age from hard structures and not all personnel are necessarily aware of these practices.  
 
 In any given year, DFO collects otoliths for a number of stocks, and processes these structures to obtain age estimates. It is estimated that tens of thousands of otoliths and scales are collected yearly in scientific activities at DFO. For example, thousands of otoliths are collected during annual mutli-species scientific surveys conducted by different DFO regions. Additional otoliths are collected in commercial port sampling activities and others come from fisheries observers. The logistical, financial and human resources associated with these otolith sampling programs are significant. 
 
-While the use of age-based models is common and the software available to implement such assessments are available and evolving, the manipulation of the input data that feeds into those models is often done in an ad-hoc fashion particular to the lab or agency in charge of the assessment. While these ad-hoc methods are most likely defensible and appropriate, the details that go into the computation of catch-at-age matrices are often poorly documented, making results hard to reproduce by someone outside a given lab or agency.
+While the use of age-based models is common and the software available to implement such assessments is available and evolving, the manipulation of the input data that feeds into those models is often done in an ad-hoc fashion particular to the lab or agency in charge of the assessment. While these ad-hoc methods are most likely defensible and appropriate, the details that go into the computation of catch-at-age matrices are often poorly documented, making results hard to reproduce by someone outside a given lab or agency.
 
 This workshop was formulated to provided an opportunity for DFO scientists involved in age estimation, in analyses of age and length information, and in developing age-based assessments, to share ideas and develop better methods to obtain and use age estimates data in stock assessments.
 
 ## Objectives
 
-The objectives of this workshop were to create a forum for discussion and for exchanging ideas among DFO scientists that use age-based models and that are involved in age estimation activities. In particular, the workshop provided:
+The objectives of this workshop were to create a forum for discussion and for exchanging ideas among DFO scientists who use age-based models and who are involved in age estimation activities. In particular, the workshop provided:
 
 - guidance on hard structures collection and on the sampling design for collecting hard structures
 
