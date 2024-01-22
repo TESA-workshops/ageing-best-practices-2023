@@ -45,7 +45,7 @@ Julie Davies & How do we coordinate QA of age reading practices across laborator
 
 Stephen Wischniowski & Sclerochronology Laboratory  & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/SCL_TESA-2023-Stephen-Day1.pdf}{PDF file} \\
 
-Kim Emond and Hélène Dionne & Age determination of Atlantic Herring in the Québec region & \link{}{Power Point file} \\
+Kim Emond and Hélène Dionne & Age determination of Atlantic Herring in the Québec region & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Quebec-herring-presentation-Emond.pdf}{PDF file} \\
 
 Sylvie Robichaud and Karen Robertson & Age determination of Atlantic Herring in the Gulf region & \link{https://github.com/TESA-workshops/ageing-best-practices-2023/blob/main/sessions/Age\%20determination\%20of\%20Atlantic\%20Herring\%20in\%20the\%20Gulf.pptx}{Power Point file} \\
 
