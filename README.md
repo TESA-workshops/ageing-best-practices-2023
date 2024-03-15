@@ -9,7 +9,9 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 
 This GitHub repository to share presentations and other resources.
 
+<!--
 The workshop proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences on January XX 2024 and the report is [available from the DFO Science Library](https://cat.fsl-bsf.scitech.gc.ca/record=).
+-->
 
 ## Logistics
 
