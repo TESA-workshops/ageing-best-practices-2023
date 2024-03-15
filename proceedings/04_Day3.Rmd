@@ -12,4 +12,4 @@ Kim Emond from the Québec Region presented the methodologies used in the herrin
 
 Christopher Corriveau and Ellie Weise from Dalhousie University presented their work on using DNA methylation to estimate ages (link to presentation appears in Table \ref{tab:talks}). The presentation provided an overview of this new methodology and highlighted a novel way forward for age estimation that could provide less reader subjectivity if refined and calibrated appropriately.
 
-Finally, a group discussion took place to draft the recommendations that appear in section \@ref(sec:recommendations). The recommendations cover a variety of subjects, ranging from practical recommendations for age estimation to institutional recommendations that could foster the development of a community of age readers within DFO. 
+Finally, a group discussion took place to draft the recommended best practices that appear in section \@ref(sec:recommendations). The list covers a variety of subjects, ranging from practical suggestions for age estimation to broader considerations that could foster the development of a community of age readers within DFO. 

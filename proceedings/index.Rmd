@@ -39,9 +39,10 @@ french_address: |
 phone: "(506) 377-9527"
 author_footnote: "Email: Daniel.Ricard@dfo-mpo.gc.ca | telephone: (506) 377-9527"
 abstract: |
-  A three-day workshop was held in Moncton, New Brunswick, from January 31 to February 02 2023. The aim of the workshop was to examine and discuss best practices in the use of structures for age estimation. A summary of the different presentations is given along with a brief overview of discussions that took place during the workshop. A total of 43 recommendations are formulated to provide guidance for practitioners involved in the collection of otoliths and other hard parts, and in analyses of age estimates.
+  A three-day workshop was held in Moncton, New Brunswick, from January 31 to February 02 2023. The aim of the workshop was to examine and discuss best practices in the use of structures for age estimation. A summary of the different presentations is given along with a brief overview of discussions that took place during the workshop. A total of 41 recommended best practices are formulated to provide guidance for practitioners involved in the collection of otoliths and other hard parts, and in analyses of age estimates.
 french_abstract: |
-  Un atelier de trois jours s'est tenu à Moncton, au Nouveau-Brunswick, du 31 janvier au 2 février 2023. Le but de l'atelier était d'examiner et de discuter des meilleures pratiques en matière d'utilisation de structures pour l'estimation de l'âge. Un résumé des différentes présentations est donné ainsi qu'un bref aperçu des discussions qui ont eu lieu au cours de l'atelier. Un total de 43 recommandations sont formulées pour guider les praticiens impliqués dans la collecte d'otolithes et d'autres parties dures, et dans l’analyse des estimations d’âge.
+  Un atelier de trois jours s'est tenu à Moncton, au Nouveau-Brunswick, du 31 janvier au 2 février 2023. Le but de l'atelier était d'examiner et de discuter des meilleures pratiques en matière d'utilisation de structures pour l'estimation de l'âge. Un résumé des différentes présentations est donné ainsi qu'un bref aperçu des discussions qui ont eu lieu au cours de l'atelier. Un total de 41 recommandations des meilleures pratiques sont formulées pour guider les praticiens impliqués dans la collecte d'otolithes et d'autres parties dures, et dans l’analyse des estimations d’âge.
+show_continued_text: true 
 output:
  csasdown::techreport_pdf:
    french: false
