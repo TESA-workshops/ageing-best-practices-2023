@@ -1,5 +1,7 @@
 # 2023 TESA best practices in ageing workshop
-Thanks for attending the workshop. **The proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences on January XX 2024 and the report is [available from the DFO Science Library](https://cat.fsl-bsf.scitech.gc.ca/record=)**.
+Thanks for attending the workshop. 
+
+<!-- **The proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences on March XX 2024 and the report is [available from the DFO Science Library](https://cat.fsl-bsf.scitech.gc.ca/record=)**. -->
 
 Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways possible.
 
