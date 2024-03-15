@@ -1,15 +1,18 @@
 
-# Recommendations {#sec:recommendations}
-The working group formulated the following recommendations for how to deal with physical collections of structures used for age estimation.
+# Recommended best practices {#sec:recommendations}
+The working group formulated the following recommended best practices for how to deal with physical collections of structures used for age estimation.
+
+<!-- bullet that was removed to get RDS approval signature
+\item{Achieve Canadian representation on appropriate ICES working groups related to quality assurance of age estimation as input for stock assessment (WGBIOP) or those developing the SmartDots platform (WGSMART).}
+-->
 
 \begin{enumerate}
-\item Institutional
+\item General
 \begin{enumerate}
 \item{Foster a community of DFO scientists whose mandated tasks include sampling of ageing structures, age estimation using ageing structures or analysis of age estimates data.}
 \item{Creation of a DFO working group that meets regularly to ensure that age estimations practices in different labs follow shared best practices. One of the tasks of this working group would be to emulate the Pacific Ocean’s Committee of Age Reading Experts (\href{https://care.psmfc.org/}{CARE}), which provides an international forum to develop and support age estimation expertise, for the Atlantic and Arctic Oceans.}
 \item{Provide support for inter-regional ageing structure exchanges and secondary reader testing.}
-\item{Achieve Canadian representation on appropriate ICES working groups related to quality assurance of age estimation as input for stock assessment (WGBIOP) or those developing the SmartDots platform (WGSMART).}
-\item{Recognise the fact that the skills required to obtain unbiased age estimates from ageing structures are unique and take time and dedication to acquire.}
+\item{Recognise the fact that the skills required to obtain unbiased age estimates from ageing structures are unique and take time and dedication to acquire. As such, positions involving age estimation should be valued, and achieving a higher retention of personel in these functions should be sought.}
 \end{enumerate}
 
 \item Ageing structure cataloguing, storage and inventory
@@ -56,7 +59,7 @@ The working group formulated the following recommendations for how to deal with 
 \item{The file naming convention to use when taking images of ageing structures should uniquely identify each ageing structure, should contain the image number (in cases where more than one picture is taken for each ageing structure) and also contain the resolution of the image (in pixels per mm). }
 \item{When practical, promote the capture of digital images of ageing structures.}
 \item{Digital images (JPEG format) of ageing structures should be stored in enterprise-level infrastructure where proper backups are in place.}
-\item{A DFO-led app to store and retrieve digital images of ageing structures should be implemented to facilitate the management of these images and to provide integration with the SmartDots software.}
+\item{Continue the development of an application to store and retrieve digital images of ageing structures to facilitate the management of these images and to provide integration with the \textit{SmartDots} software.}
 \end{enumerate}
 
 \item Analysis of age estimates
@@ -70,7 +73,7 @@ The working group formulated the following recommendations for how to deal with 
 \item Preparing for changes associated with a warming climate
 \begin{enumerate}
 \item{Rates of growth are likely to change, and so are the patterns associated with age estimation, so regularly revisit the patterns used for estimating ages. Additionally, the patterns used to identify periods of weaker or stronger growth and/or changes in the timing of annuli formation should be regularly revisited.}
-\item{Continue inter-regional communication and organise events that promote collaborations.}
+\item{To ensure that potential changes are identified and communicated within the age estimation community, continue to foster inter-regional communication and organise events that promote collaborations.}
 \item{As northward migration of species will shift stock boundaries and change the species that will require science advice, the expertise associated with age estimation of new species must be acquired accordingly.}
 \item{Establish a process so that “cheat sheets” and guides used for training technicians involved in age estimation, and the associated laboratory processes for age estimation are updated regularly.}
 \end{enumerate}
@@ -83,7 +86,7 @@ The working group formulated the following recommendations for how to deal with 
 
 \end{enumerate}
 
-These recommendations were formulated at the workshop and further revised by all authors. They represent procedures that should be followed by all DFO personnel involved in age estimations and also contain suggestions for fostering a community of age readers within DFO.
+These best recommended practices were formulated at the workshop and further revised by all authors. They represent procedures that should be followed by all DFO personnel involved in age estimations and also contain suggestions for fostering a community of age readers within DFO.
 
 # Acknowledgements
 The authors would like to acknowledge all the workshop participants for their attendance and their active participation in discussions. Joeleen Savoie helped with workshop organisation and logistics. Lisa Leblanc from the ASEC was extremely generous with her time and hospitality during the workshop. We thank the Gulf Region publication coordinator Jeffery Clements for his help in handling this report submission.

@@ -1,13 +1,14 @@
 # Figures
 
-(ref:caption-figregions) DFO regions map from \url{https://www.dfo-mpo.gc.ca/about-notre-sujet/organisation-eng.htm}.
-```{r figregions, fig.cap="(ref:caption-figregions)"}
-knitr::include_graphics("./images/region-dfo-mpo-canada.png")
-```
-
 (ref:caption-figworkshop) Day 1 of the TESA workshop "best practices in age estimation" held at the Atlantic Science Enterprise Center in Moncton, NB on 31 January, 01-02 February 2023.
 ```{r figworkshop, fig.cap="(ref:caption-figworkshop)"}
 knitr::include_graphics("./images/TESA-age-estimation-workshop-2.png")
+```
+
+
+(ref:caption-figregions) DFO regions map from \url{https://www.dfo-mpo.gc.ca/about-notre-sujet/organisation-eng.htm}.
+```{r figregions, fig.cap="(ref:caption-figregions)"}
+knitr::include_graphics("./images/region-dfo-mpo-canada.png")
 ```
 
 <!--

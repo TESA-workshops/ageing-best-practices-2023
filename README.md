@@ -1,8 +1,13 @@
 # 2023 TESA best practices in ageing workshop
-
-Thanks for attending the workshop.
+Thanks for attending the workshop. **The proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences on January XX 2024 and the report is [available from the DFO Science Library](https://cat.fsl-bsf.scitech.gc.ca/record=)**.
 
 Note that the aim of the workshop is **not** to learn how to age a specific species of fish using otoliths. Rather, we aim to get all participants interested in performing ageing-related tasks in the most defensible and reproducible ways possible.
+
+## Deliverables
+
+This GitHub repository to share presentations and other resources.
+
+The workshop proceedings have been published as a Canadian Technical Report of Fisheries and Aquatic Sciences on January XX 2024 and the report is [available from the DFO Science Library](https://cat.fsl-bsf.scitech.gc.ca/record=).
 
 ## Logistics
 
@@ -23,11 +28,6 @@ Note that the aim of the workshop is **not** to learn how to age a specific spec
 | Julie Davies	| DTU-Aqua (Denmark) | Expertise in ageing procedures, co-chair of the ICES working group on SmartDots |
 | Lisa Ailloud	| NOAA-NMFS (USA) | Theory and practice of using age-length keys and catch-at-age matrices in fisheries science |
 
-## Expected deliverables
-
-This GitHub repository to share presentations and other resources.
-
-Recommendations on what constitutes best practices for age estimation procedures, otolith imaging and analyses that use age information. These recommendations will appear in a workshop proceedings document (Canadian Technical Report of Fisheries and Aquatic Sciences).
 
 ## Schedule
 
